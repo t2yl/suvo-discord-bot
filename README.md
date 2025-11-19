@@ -45,6 +45,6 @@ This project is open-source and available under the MIT License.
 ---
 
 ## Credits
-Lumino is developed and maintained by [Suvo](https://github.com/kimsuvo).
+Lumino is developed and maintained by [Suvo](https://github.com/t2yl).
 Feel free to fork, contribute, or reach out if you'd like to collaborate.
 Built with love, logic, and a lot of caffeine!
