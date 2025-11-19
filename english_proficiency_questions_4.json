@@ -1,0 +1,357 @@
+[
+  {
+    "question": "Choose the correct plural form of the noun \"radius.\"",
+    "options": ["radiuses", "radii", "radius'", "radiæ"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the sentence that correctly distinguishes \"between\" from \"among\".",
+    "options": [
+      "Share the sweets between all the children.",
+      "Share the sweets among all the children.",
+      "Share the sweets between the crowd.",
+      "Share the sweets among the two winners."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the gap: \"She’s very interested ___ joining the debating society.\"",
+    "options": ["on", "in", "for", "at"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which spelling is correct in British English?",
+    "options": ["labour", "labor", "laber", "labourr"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the synonym closest in meaning to \"meticulous.\"",
+    "options": ["slapdash", "thorough", "hasty", "approximate"],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct superlative: \"This footpath is the ___ in the park.\"",
+    "options": ["most narrow", "narrowest", "narrower", "more narrowest"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": [
+      "The committee postponed the vote.",
+      "The vote was postponed by the committee.",
+      "The committee is postponing the vote.",
+      "The committee will postpone the vote."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the correct article: \"He is ___ MP for Bristol West.\"",
+    "options": ["a", "an", "the", "no article"],
+    "answer_index": 2
+  },
+  {
+    "question": "Which word is an antonym of \"deteriorate\"?",
+    "options": ["worsen", "decline", "improve", "degrade"],
+    "answer_index": 2
+  },
+  {
+    "question": "Identify the figure of speech in \"Her heart is a locked treasure chest.\"",
+    "options": ["Simile", "Metaphor", "Alliteration", "Onomatopoeia"],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct tag question: \"You’d finished the draft by Monday, ___?\"",
+    "options": ["had you", "hadn’t you", "did you", "won’t you"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the correctly punctuated possessive noun.",
+    "options": ["The boss' decision was final.", "The boss's decision was final.", "The bosss decision was final.", "The bosses decision was final."],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the gap: \"The scheme failed ___ a lack of funding.\"",
+    "options": ["because", "because of", "owing", "owing that"],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the dangling modifier.",
+    "options": [
+      "After parking the car, the keys were misplaced.",
+      "After she parked the car, she misplaced the keys.",
+      "She misplaced the keys after parking the car.",
+      "The keys were misplaced after she parked the car."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the phrasal verb that means \"to resolve\": \"They tried to ___ the differences.\"",
+    "options": ["iron out", "iron in", "iron up", "iron over"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which spelling is correct in British English?",
+    "options": ["favourite", "favorite", "faverite", "favourate"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the tense: \"By the end of this month, we will have relocated.\"",
+    "options": ["Future perfect", "Future perfect continuous", "Present perfect", "Future continuous"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence that correctly uses the mandative subjunctive (British).",
+    "options": [
+      "The chair insists that the report be rewritten.",
+      "The chair insists that the report is rewritten.",
+      "The chair insists that the report will be rewritten.",
+      "The chair insists that the report should rewriting."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correctly ordered adjectives.",
+    "options": [
+      "An elegant small Italian café",
+      "A small elegant Italian café",
+      "An Italian small elegant café",
+      "A small Italian elegant café"
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the idiom that means \"to be exactly right about something.\"",
+    "options": ["Hit the nail on the head", "Bend over backwards", "Break the ice", "Beat about the bush"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which option contains a gerund acting as an object?",
+    "options": [
+      "He enjoys skiing at weekends.",
+      "To ski at weekends is enjoyable.",
+      "Ski at weekends if you can.",
+      "He will ski at weekends."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct reported speech: She said, \"I ought to call my parents.\"",
+    "options": [
+      "She said she ought to call her parents.",
+      "She said she ought call her parents.",
+      "She said she should have called her parents.",
+      "She said she will ought to call her parents."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which word is spelled incorrectly in British English?",
+    "options": ["privilege", "indispensable", "tommorrow", "embarrass"],
+    "answer_index": 2
+  },
+  {
+    "question": "Identify the part of speech of \"albeit\" in: \"He accepted the prize, albeit reluctantly.\"",
+    "options": ["conjunction", "preposition", "adverb", "adjective"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correct first conditional sentence.",
+    "options": [
+      "If she finishes early, she will join us.",
+      "If she finished early, she will join us.",
+      "If she had finished early, she will join us.",
+      "If she finishes early, she would join us."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the sentence with correct subject–verb agreement (collective noun).",
+    "options": [
+      "The jury has reached its verdict.",
+      "The jury have reached its verdict.",
+      "The jury have reaches its verdict.",
+      "The jury has reach its verdict."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Fill in the blank with the correct preposition: \"He’s proficient ___ Spanish and French.\"",
+    "options": ["at", "in", "on", "with"],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the literary device that substitutes a related term for the thing itself (e.g., \"the Crown\" for the monarch).",
+    "options": ["Metonymy", "Synecdoche", "Metaphor", "Allusion"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the object pronoun that completes the sentence: \"Between you and ___, this plan won’t work.\"",
+    "options": ["I", "me", "myself", "mine"],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the sentence that correctly uses an em dash.",
+    "options": [
+      "Only one person—Jake—knew the answer.",
+      "Only one person — Jake — knew the answer.",
+      "Only one person, Jake—knew the answer.",
+      "Only one person—Jake, knew the answer."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which phrasal verb means \"to encounter unexpected difficulty\"?",
+    "options": ["run into", "run out", "run over", "run around"],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct plural form of \"basis.\"",
+    "options": ["bases", "basises", "basis", "basii"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence that avoids ambiguity from a misplaced modifier.",
+    "options": [
+      "She almost saved £1,000 last year.",
+      "She saved almost £1,000 last year.",
+      "Almost she saved £1,000 last year.",
+      "She saved £1,000 last year almost."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence correctly uses parallel structure?",
+    "options": [
+      "The role demands diligence, creativity, and to adapt quickly.",
+      "The role demands diligence, creativity, and quick adaptation.",
+      "The role demands to be diligent, creative, and adaptable.",
+      "The role demands diligence, creative, and adaptability."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the tense: \"They had completed the audit before the deadline.\"",
+    "options": ["Past perfect", "Past perfect continuous", "Present perfect", "Past simple"],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct spelling in British English:",
+    "options": ["licence (noun)", "license (noun)", "liscence", "licencee"],
+    "answer_index": 0
+  },
+  {
+    "question": "Who wrote the novel *Middlemarch*?",
+    "options": ["George Eliot", "Thomas Hardy", "Charlotte Brontë", "Henry James"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence that correctly avoids a comma splice.",
+    "options": [
+      "She loves jazz, he prefers classical.",
+      "She loves jazz; he prefers classical.",
+      "She loves jazz, therefore he prefers classical.",
+      "She loves jazz and, he prefers classical."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct perfect infinitive: \"They claimed ___ the regulations.\"",
+    "options": ["to follow", "to have followed", "to be following", "to followed"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence best paraphrases: \"Barely had he entered the room when the phone rang.\"",
+    "options": [
+      "He entered the room long after the phone rang.",
+      "The phone rang immediately after he entered the room.",
+      "He entered because the phone rang.",
+      "He barely entered the room while the phone rang."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the gap using a suitable discourse marker: \"___ her lack of experience, she performed admirably.\"",
+    "options": ["Despite", "Because of", "Along with", "Owing to"],
+    "answer_index": 0
+  },
+  {
+    "question": "In British English, which phrasal verb means \"to compensate\"?",
+    "options": ["make up for", "make out", "make over", "make off"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the sentence that correctly uses *whom* in a non-defining clause.",
+    "options": [
+      "Her tutor, whom she greatly respects, attended the ceremony.",
+      "Her tutor whom she greatly respects attended the ceremony.",
+      "Her tutor, who she greatly respects, attended the ceremony.",
+      "Her tutor whom she greatly respects, attended the ceremony."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the elliptical conditional sentence.",
+    "options": [
+      "Were they to ask, we’d assist.",
+      "If they ask, we assist.",
+      "If they were to ask, we assist.",
+      "If they asking, we’d assist."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which poet penned the collection *North*?",
+    "options": ["Seamus Heaney", "Philip Larkin", "Ted Hughes", "Carol Ann Duffy"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correct definition of the idiom \"to sit on the fence.\"",
+    "options": [
+      "Take decisive action quickly",
+      "Remain neutral or undecided",
+      "Cause unnecessary trouble",
+      "Pretend to be unaware"
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the clause type in italics: \"She’ll start once we’ve arrived, *provided that everyone is ready*.\"",
+    "options": ["Adverbial clause of condition", "Relative clause", "Noun clause", "Adverbial clause of time"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which sentence correctly uses *negative inversion*?",
+    "options": [
+      "Not until dawn did they rest.",
+      "They did not rest until dawn.",
+      "They rested not until dawn.",
+      "Did they not rest until dawn."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Fill the collocation: \"The board reached an ___ decision to merge.\"",
+    "options": ["unanimous", "unanimity", "unanimously", "unanimising"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence demonstrating correct *cleft sentence* with \"it.\"",
+    "options": [
+      "It was on Friday that they unveiled the prototype.",
+      "It unveiled the prototype that was on Friday.",
+      "It was unveiled the prototype on Friday.",
+      "On Friday it was the prototype that unveiled."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Read the excerpt and answer: *“Rain drummed against the panes, muting the dim glow of the street-lamps.”* What mood is primarily created?",
+    "options": [
+      "Reflective melancholy",
+      "Exuberant joy",
+      "Frenzied panic",
+      "Comic relief"
+    ],
+    "answer_index": 0
+  }
+]

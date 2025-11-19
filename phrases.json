@@ -1,0 +1,2187 @@
+[
+  {
+    "korean": "안녕하세요",
+    "english": "Hello",
+    "details_en": "The phrase '안녕하세요' (annyeonghaseyo) is a polite greeting in Korean, commonly used to say 'hello' or 'hi' to someone. It is appropriate in most everyday contexts, from meeting friends to addressing elders or people you’re not very familiar with. The phrase is composed of '안녕' (well-being) and the polite ending '-하세요'.",
+    "details_ko": "문구 '안녕하세요'는 한국어에서 공손하게 인사를 건네는 표현으로, 친구를 만나거나 어른이나 잘 모르는 사람에게 '안녕' 또는 '안녕하세요'라고 말할 때 사용됩니다. '안녕'과 공손한 어미 '-하세요'의 조합으로 이루어져 있습니다."
+  },
+  {
+    "korean": "감사합니다",
+    "english": "Thank you",
+    "details_en": "The phrase '감사합니다' (gamsahamnida) means 'thank you' in Korean. It is a formal expression of gratitude, used in both spoken and written communication. In casual situations with close friends or family, Koreans might say '고마워요' (gomawoyo) or '고마워' (gomawo) instead.",
+    "details_ko": "문구 '감사합니다'는 한국어로 'thank you'를 의미하는 공식적인 감사 표현입니다. 말이나 글로 모두 사용할 수 있으며, 친구나 가족과 같은 친한 관계에는 '고마워요'나 '고마워'를 쓰기도 합니다."
+  },
+  {
+    "korean": "잘 지내세요?",
+    "english": "How are you?",
+    "details_en": "The phrase '잘 지내세요?' (jal jinaeseyo?) means 'How are you?' in a polite form. It literally translates to 'Are you living well?' and is often used when you haven’t seen someone for a while or as a general courteous inquiry about someone’s well-being. A more casual equivalent is '잘 지내?' (jal jinae?).",
+    "details_ko": "문구 '잘 지내세요?'는 정중하게 'How are you?'라고 묻는 표현으로, 문자 그대로 '잘 지내고 있나요?'라는 뜻입니다. 오랜만에 보는 사람이나 안부를 물을 때 주로 사용하며, 친한 사이에는 '잘 지내?'라고도 합니다."
+  },
+  {
+    "korean": "죄송합니다",
+    "english": "I’m sorry",
+    "details_en": "The phrase '죄송합니다' (joesonghamnida) means 'I’m sorry' in a formal and polite tone. It is used to apologize for mistakes, inconveniences, or any situation where an apology is warranted. In less formal situations, one might use '미안합니다' (mianhamnida) or simply '미안' (mian).",
+    "details_ko": "문구 '죄송합니다'는 공식적이고 공손한 어조로 'I’m sorry'라고 사과할 때 사용됩니다. 실수나 불편을 끼쳤을 때, 또는 사과가 필요할 때 쓰이며, 덜 공식적인 상황에서는 '미안합니다'나 그냥 '미안'을 사용하기도 합니다."
+  },
+  {
+    "korean": "잘 먹겠습니다",
+    "english": "I will eat well (Thank you for the meal)",
+    "details_en": "The phrase '잘 먹겠습니다' (jal meokgesseumnida) is said before eating to express gratitude for the food, roughly meaning 'I will eat well.' It shows appreciation to whoever prepared or provided the meal. After finishing a meal, the corresponding phrase is '잘 먹었습니다' (jal meogeosseumnida).",
+    "details_ko": "문구 '잘 먹겠습니다'는 식사 전에 하는 인사말로, '맛있게 먹겠습니다' 정도의 의미를 담고 있습니다. 음식을 준비해 준 사람에게 감사의 뜻을 전하며, 식사 후에는 '잘 먹었습니다'라고 말합니다."
+  },
+  {
+    "korean": "반가워요",
+    "english": "Nice to meet you",
+    "details_en": "The phrase '반가워요' (bangawoyo) is a polite yet friendly way to say 'Nice to meet you' when first greeting someone. It comes from the adjective '반갑다' (to be glad) with the polite ending '-어요'.",
+    "details_ko": "'반가워요'는 처음 만나는 사람에게 사용하는 공손하고도 친근한 인사로, 형용사 '반갑다'에 정중한 어미 '-어요'를 붙인 표현입니다."
+  },
+  {
+    "korean": "잘 자요",
+    "english": "Good night",
+    "details_en": "'잘 자요' (jal jayo) literally means 'sleep well.' It is commonly used between friends and family before going to bed. The informal equivalent is '잘 자'.",
+    "details_ko": "'잘 자요'는 '잘 자라'는 의미로, 잠자리에 들기 전 친구나 가족에게 사용하는 표현입니다. 더 친근하게는 '잘 자'라고도 합니다."
+  },
+  {
+    "korean": "좋은 아침이에요",
+    "english": "Good morning",
+    "details_en": "The phrase '좋은 아침이에요' (joeun achimieyo) is the Korean equivalent of 'Good morning.' It conveys a friendly greeting at the start of the day.",
+    "details_ko": "'좋은 아침이에요'는 하루를 시작하며 건네는 인사로 영어의 'Good morning'에 해당합니다."
+  },
+  {
+    "korean": "좋은 하루 보내세요",
+    "english": "Have a nice day",
+    "details_en": "'좋은 하루 보내세요' (joeun haru bonaeseyo) means 'Have a nice day.' It shows goodwill when parting or ending a conversation.",
+    "details_ko": "'좋은 하루 보내세요'는 헤어질 때나 대화를 마칠 때 상대방의 하루를 응원하며 사용하는 표현입니다."
+  },
+  {
+    "korean": "수고하세요",
+    "english": "Keep up the good work",
+    "details_en": "'수고하세요' (sugohaseyo) literally means 'please make an effort' but is used to say 'take care' or 'thank you for your effort' to someone who is working.",
+    "details_ko": "'수고하세요'는 상대방의 노고를 격려하거나 감사할 때 쓰는 말로, 작업 중인 사람에게 '수고 많으세요'의 뜻으로 사용됩니다."
+  },
+  {
+    "korean": "조심히 가세요",
+    "english": "Get home safely",
+    "details_en": "'조심히 가세요' (josimhi gaseyo) is used when someone is leaving, meaning 'Go safely' or 'Take care on your way.'",
+    "details_ko": "'조심히 가세요'는 떠나는 사람에게 길 조심하라고 인사하는 표현입니다."
+  },
+  {
+    "korean": "어디에 가세요?",
+    "english": "Where are you going?",
+    "details_en": "'어디에 가세요?' (eodie gaseyo?) politely asks someone's destination. It is suitable among acquaintances or strangers.",
+    "details_ko": "'어디에 가세요?'는 상대방의 목적지를 정중하게 묻는 질문입니다."
+  },
+  {
+    "korean": "뭐 하세요?",
+    "english": "What are you doing?",
+    "details_en": "'뭐 하세요?' (mwo haseyo?) politely inquires about someone’s current activity. Informally it becomes '뭐 해?'.",
+    "details_ko": "'뭐 하세요?'는 상대방이 지금 무엇을 하고 있는지 정중하게 묻는 말입니다. 반말로는 '뭐 해?'라고 합니다."
+  },
+  {
+    "korean": "잠깐만 기다려 주세요",
+    "english": "Please wait a moment",
+    "details_en": "'잠깐만 기다려 주세요' (jamkkanman gidaryeo juseyo) is a polite request asking someone to wait briefly.",
+    "details_ko": "'잠깐만 기다려 주세요'는 상대방에게 잠시만 기다려 달라고 정중히 부탁할 때 사용됩니다."
+  },
+  {
+    "korean": "천천히 말씀해 주세요",
+    "english": "Please speak slowly",
+    "details_en": "When you need someone to slow down, say '천천히 말씀해 주세요' (cheoncheonhi malsseumhae juseyo). It’s useful for language learners.",
+    "details_ko": "'천천히 말씀해 주세요'는 말이 빠를 때 속도를 줄여 달라고 요청할 때 쓰며, 한국어 학습자에게 특히 유용합니다."
+  },
+  {
+    "korean": "다시 한 번 말해 주세요",
+    "english": "Please say it again",
+    "details_en": "'다시 한 번 말해 주세요' (dasi han beon malhae juseyo) politely asks someone to repeat what they just said.",
+    "details_ko": "'다시 한 번 말해 주세요'는 상대방의 말을 다시 들을 필요가 있을 때 정중하게 요청하는 표현입니다."
+  },
+  {
+    "korean": "이해했어요",
+    "english": "I understand",
+    "details_en": "'이해했어요' (ihaehaesseoyo) confirms comprehension in a respectful tone. Informally, you can say '이해했어'.",
+    "details_ko": "'이해했어요'는 상대방의 설명이나 말을 이해했음을 공손하게 나타내는 표현입니다."
+  },
+  {
+    "korean": "이해 못했어요",
+    "english": "I don't understand",
+    "details_en": "'이해 못했어요' (ihae motaesseoyo) indicates that you did not understand something. A simpler form is '이해 안 됐어요'.",
+    "details_ko": "'이해 못했어요'는 설명을 이해하지 못했음을 알리는 공손한 표현입니다."
+  },
+  {
+    "korean": "질문 있어요",
+    "english": "I have a question",
+    "details_en": "'질문 있어요' (jilmun isseoyo) states that you have something to ask. It’s common in classes or meetings.",
+    "details_ko": "'질문 있어요'는 수업이나 회의 중에 궁금한 점이 있을 때 사용하는 말입니다."
+  },
+  {
+    "korean": "괜찮아요",
+    "english": "It's okay / I'm fine",
+    "details_en": "'괜찮아요' (gwaenchanayo) can mean 'It's fine,' 'No thanks,' or 'I'm okay,' depending on context.",
+    "details_ko": "'괜찮아요'는 상황에 따라 '괜찮습니다', '괜찮으니 걱정 마세요' 등의 의미로 쓰입니다."
+  },
+  {
+    "korean": "축하합니다",
+    "english": "Congratulations",
+    "details_en": "'축하합니다' (chukahamnida) is a formal way to say 'Congratulations' for achievements, birthdays, or events.",
+    "details_ko": "'축하합니다'는 생일, 승진 등 기쁜 일에 대해 공식적으로 축하할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "생일 축하합니다",
+    "english": "Happy birthday",
+    "details_en": "'생일 축하합니다' (saengil chukahamnida) specifically wishes someone a happy birthday in a polite tone.",
+    "details_ko": "'생일 축하합니다'는 생일을 맞은 사람에게 정중히 축하 인사를 전할 때 사용합니다."
+  },
+  {
+    "korean": "맛있어요",
+    "english": "It's delicious",
+    "details_en": "'맛있어요' (masisseoyo) is the go-to phrase to praise food, literally meaning 'It is tasty.'",
+    "details_ko": "'맛있어요'는 음식을 칭찬할 때 쓰는 표현으로, 맛이 좋음을 나타냅니다."
+  },
+  {
+    "korean": "괜찮으세요?",
+    "english": "Are you okay?",
+    "details_en": "'괜찮으세요?' (gwaenchanh-euseyo?) politely checks on someone's well-being after a problem or surprise.",
+    "details_ko": "'괜찮으세요?'는 상대의 상태를 걱정하며 안부를 물을 때 사용하는 공손한 표현입니다."
+  },
+  {
+    "korean": "도와주세요",
+    "english": "Please help me",
+    "details_en": "'도와주세요' (dowajuseyo) is an urgent yet polite request for assistance in any situation.",
+    "details_ko": "'도와주세요'는 도움이 필요할 때 정중하면서도 긴급하게 요청하는 말입니다."
+  },
+  {
+    "korean": "얼마예요?",
+    "english": "How much is it?",
+    "details_en": "'얼마예요?' (eolmayeyo?) is the standard way to ask for a price while shopping.",
+    "details_ko": "'얼마예요?'는 물건의 가격을 물을 때 가장 흔히 쓰는 표현입니다."
+  },
+  {
+    "korean": "화장실 어디예요?",
+    "english": "Where is the restroom?",
+    "details_en": "In public places, ask '화장실 어디예요?' (hwajangsil eodiyeyo?) to locate the restroom politely.",
+    "details_ko": "'화장실 어디예요?'는 공공장소에서 화장실 위치를 정중하게 묻는 질문입니다."
+  },
+  {
+    "korean": "사진 찍어도 돼요?",
+    "english": "May I take a picture?",
+    "details_en": "'사진 찍어도 돼요?' (sajin jjigeodo dwaeyo?) seeks permission before photographing people or places.",
+    "details_ko": "'사진 찍어도 돼요?'는 사진 촬영 전 허락을 구할 때 사용하는 정중한 표현입니다."
+  },
+  {
+    "korean": "한국어 할 수 있어요?",
+    "english": "Can you speak Korean?",
+    "details_en": "'한국어 할 수 있어요?' (hangugeo hal su isseoyo?) asks someone if they are able to speak Korean.",
+    "details_ko": "'한국어 할 수 있어요?'는 상대방의 한국어 가능 여부를 묻는 표현입니다."
+  },
+  {
+    "korean": "오늘 날씨 어때요?",
+    "english": "How's the weather today?",
+    "details_en": "'오늘 날씨 어때요?' (oneul nalssi eottaeyo?) is a common small-talk question about the day’s weather.",
+    "details_ko": "'오늘 날씨 어때요?'는 날씨에 대해 가볍게 대화할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "지금 몇 시예요?",
+    "english": "What time is it now?",
+    "details_en": "'지금 몇 시예요?' (jigeum myeot siyeyo?) politely asks for the current time.",
+    "details_ko": "'지금 몇 시예요?'는 현재 시간을 정중하게 묻는 질문입니다."
+  },
+  {
+    "korean": "안녕히 주무세요",
+    "english": "Sleep well (formal good night)",
+    "details_en": "'안녕히 주무세요' (annyeonghi jumuseyo) is a very respectful good-night wish, often said to elders.",
+    "details_ko": "'안녕히 주무세요'는 윗사람이나 어른에게 사용되는 존댓말의 잘 자라는 인사입니다."
+  },
+  {
+    "korean": "안녕히 계세요",
+    "english": "Goodbye (I am leaving)",
+    "details_en": "'안녕히 계세요' (annyeonghi gyeseyo) is said by the person who is leaving to those staying behind.",
+    "details_ko": "'안녕히 계세요'는 떠나는 사람이 남아 있는 사람에게 인사할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "안녕히 가세요",
+    "english": "Goodbye (Please go safely)",
+    "details_en": "'안녕히 가세요' (annyeonghi gaseyo) is said to someone who is leaving while you stay.",
+    "details_ko": "'안녕히 가세요'는 머무르는 사람이 떠나는 사람에게 건네는 작별 인사입니다."
+  },
+  {
+    "korean": "다녀오겠습니다",
+    "english": "I'll be back",
+    "details_en": "'다녀오겠습니다' (danyeo ogesseumnida) is said when leaving home or office, meaning 'I'll go and return soon.'",
+    "details_ko": "'다녀오겠습니다'는 집이나 직장을 잠시 떠나며 곧 돌아올 것을 알리는 인사입니다."
+  },
+  {
+    "korean": "다녀왔습니다",
+    "english": "I'm back",
+    "details_en": "Upon returning, say '다녀왔습니다' (danyeo watseumnida) to announce you have come back safely.",
+    "details_ko": "'다녀왔습니다'는 외출 후 집이나 직장에 돌아왔음을 알리는 표현입니다."
+  },
+  {
+    "korean": "배고파요",
+    "english": "I'm hungry",
+    "details_en": "'배고파요' (baegopayo) straightforwardly expresses hunger. The casual form is '배고파'.",
+    "details_ko": "'배고파요'는 배가 고프다는 상태를 공손하게 말할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "목말라요",
+    "english": "I'm thirsty",
+    "details_en": "'목말라요' (mokmallayo) tells others you need a drink. Informally, use '목말라'.",
+    "details_ko": "'목말라요'는 갈증이 있다는 것을 전할 때 쓰는 공손한 표현입니다."
+  },
+  {
+    "korean": "늦어서 죄송합니다",
+    "english": "I'm sorry I'm late",
+    "details_en": "'늦어서 죄송합니다' (neujeoseo joesonghamnida) is a formal apology for being late.",
+    "details_ko": "'늦어서 죄송합니다'는 지각에 대해 공식적으로 사과할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "부탁합니다",
+    "english": "Please (I request)",
+    "details_en": "'부탁합니다' (butakhamnida) politely makes a request or asks a favor in formal settings.",
+    "details_ko": "'부탁합니다'는 격식을 갖춰 부탁할 때 사용하는 정중한 표현입니다."
+  },
+  {
+    "korean": "진짜요?",
+    "english": "Really?",
+    "details_en": "'진짜요?' (jinjjayo?) expresses surprise or seeks confirmation, similar to 'Is that true?'.",
+    "details_ko": "'진짜요?'는 놀라움이나 사실 여부를 확인할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "물론이죠",
+    "english": "Of course",
+    "details_en": "'물론이죠' (mullonijyo) affirms something positively, equivalent to 'certainly' or 'of course.'",
+    "details_ko": "'물론이죠'는 상대의 요청이나 질문에 긍정적으로 답할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "알겠어요",
+    "english": "Got it",
+    "details_en": "'알겠어요' (algesseoyo) indicates understanding or agreement. Informally, use '알겠어'.",
+    "details_ko": "'알겠어요'는 이해하거나 수락했음을 나타내는 공손한 표현입니다."
+  },
+  {
+    "korean": "모르겠어요",
+    "english": "I don't know",
+    "details_en": "'모르겠어요' (moreugesseoyo) politely says you do not know or are unsure of something.",
+    "details_ko": "'모르겠어요'는 잘 모르거나 확실하지 않을 때 사용하는 정중한 표현입니다."
+  },
+  {
+    "korean": "잠시만요",
+    "english": "Just a moment",
+    "details_en": "'잠시만요' (jamsimanyo) asks someone to wait a short while; widely used in service situations.",
+    "details_ko": "'잠시만요'는 상대방에게 잠깐 기다려 달라고 요청할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "천만에요",
+    "english": "You're welcome",
+    "details_en": "'천만에요' (cheonmaneyo) is a formal yet somewhat old-fashioned way to say 'You're welcome' after thanks.",
+    "details_ko": "'천만에요'는 '감사합니다'에 대한 격식 있는 답변으로, 다소 격식 있거나 고전적인 뉘앙스를 지닙니다."
+  },
+  {
+    "korean": "안돼요",
+    "english": "No / Not allowed",
+    "details_en": "'안돼요' (andwaeyo) firmly refuses or states that something is not permissible.",
+    "details_ko": "'안돼요'는 요청이나 행동을 거절하거나 불가함을 나타낼 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "힘내세요",
+    "english": "Cheer up!",
+    "details_en": "'힘내세요' (himnaeseyo) encourages someone to stay strong or keep going during tough times.",
+    "details_ko": "'힘내세요'는 어려운 상황에서 힘과 용기를 북돋아 줄 때 사용하는 격려의 말입니다."
+  },
+  {
+    "korean": "부디 건강하세요",
+    "english": "Please stay healthy",
+    "details_en": "'부디 건강하세요' (budi geonganghaseyo) is a heartfelt wish for someone's good health, often in farewells.",
+    "details_ko": "'부디 건강하세요'는 이별이나 안부 인사에서 상대방의 건강을 기원하며 쓰는 정중한 표현입니다."
+  },
+  {
+    "korean": "즐거운 하루 되세요",
+    "english": "Have a pleasant day",
+    "details_en": "'즐거운 하루 되세요' (jeulgeoun haru doeseyo) warmly wishes the listener a joyful day ahead.",
+    "details_ko": "'즐거운 하루 되세요'는 상대방의 하루가 즐겁기를 바라는 따뜻한 인사말입니다."
+  },
+  {
+    "korean": "오랜만이에요",
+    "english": "Long time no see",
+    "details_en": "Use '오랜만이에요' (oraenmanieyo) when greeting someone you haven’t met for a while. It literally means 'It’s been a long time' and is polite yet friendly.",
+    "details_ko": "'오랜만이에요'는 오랜만에 만난 사람에게 인사할 때 쓰며, 말 그대로 '오랜만입니다'라는 뜻으로 공손하면서도 친근한 표현입니다."
+  },
+  {
+    "korean": "처음 뵙겠습니다",
+    "english": "Nice to meet you (formal)",
+    "details_en": "'처음 뵙겠습니다' (cheoeum boepgetseumnida) is a very formal phrase for first-time meetings, often in business or with elders.",
+    "details_ko": "'처음 뵙겠습니다'는 처음 만나는 자리에서 특히 격식을 차려야 할 때 사용하는 매우 공손한 인사입니다."
+  },
+  {
+    "korean": "실례합니다",
+    "english": "Excuse me",
+    "details_en": "'실례합니다' (sillyehamnida) politely draws attention, similar to 'pardon me' or when you need to pass through a crowd.",
+    "details_ko": "'실례합니다'는 길을 지나가거나 말을 걸 때 상대방에게 예의를 갖추어 양해를 구할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "잠시 실례할게요",
+    "english": "Excuse me for a moment",
+    "details_en": "Say '잠시 실례할게요' (jamshi sillyehalgeyo) when you briefly step away or interrupt, slightly less formal than '실례합니다'.",
+    "details_ko": "'잠시 실례할게요'는 잠깐 자리를 비우거나 대화를 끊을 때 상대방에게 양해를 구하는 말로, '실례합니다'보다 약간 덜 격식 있습니다."
+  },
+  {
+    "korean": "여기요",
+    "english": "Over here, please",
+    "details_en": "'여기요' (yeogiyo) is commonly used in restaurants or cafés to call a server’s attention, meaning 'Here, please.'",
+    "details_ko": "'여기요'는 식당이나 카페에서 직원의 주의를 끌 때 쓰는 표현으로, '이쪽이요'라는 의미를 담고 있습니다."
+  },
+  {
+    "korean": "저기요",
+    "english": "Excuse me (to stranger)",
+    "details_en": "'저기요' (jeogiyo) politely addresses someone at a distance, like tapping a stranger’s shoulder to ask a question.",
+    "details_ko": "'저기요'는 멀리 있는 사람이나 모르는 사람에게 정중히 말을 걸 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "알겠습니다",
+    "english": "Understood (formal)",
+    "details_en": "'알겠습니다' (algetseumnida) shows formal acknowledgment that you have understood instructions or information.",
+    "details_ko": "'알겠습니다'는 지시나 설명을 이해했음을 격식 있게 전달할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "연락할게요",
+    "english": "I'll contact you",
+    "details_en": "'연락할게요' (yeollakhalgeyo) promises to get in touch later, often after exchanging phone numbers or plans.",
+    "details_ko": "'연락할게요'는 추후에 연락하겠다는 의사를 밝힐 때 사용하는 말입니다."
+  },
+  {
+    "korean": "다음에 봬요",
+    "english": "See you next time",
+    "details_en": "'다음에 봬요' (daeume bwaeyo) politely says goodbye with an expectation of meeting again.",
+    "details_ko": "'다음에 봬요'는 다시 만날 것을 기약하며 정중히 작별 인사를 건넬 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "나중에 봐요",
+    "english": "See you later",
+    "details_en": "'나중에 봐요' (najunge bwayo) is a friendly, slightly less formal farewell meaning 'Catch you later.'",
+    "details_ko": "'나중에 봐요'는 가까운 미래에 다시 만나자는 의미로 쓰는 비교적 캐주얼한 인사입니다."
+  },
+  {
+    "korean": "좋은 꿈 꿔요",
+    "english": "Sweet dreams",
+    "details_en": "Before bedtime, say '좋은 꿈 꿔요' (joeun kkum kkwo yo) to wish someone pleasant dreams.",
+    "details_ko": "'좋은 꿈 꿔요'는 잠자리에 드는 사람에게 좋은 꿈 꾸길 바란다는 뜻으로 쓰입니다."
+  },
+  {
+    "korean": "잘 다녀오세요",
+    "english": "Have a good trip",
+    "details_en": "'잘 다녀오세요' (jal danyeooseyo) is said to someone leaving for a short trip or errand, hoping they return safely.",
+    "details_ko": "'잘 다녀오세요'는 외출하거나 여행 가는 사람에게 안전히 잘 다녀오라는 의미로 건네는 인사입니다."
+  },
+  {
+    "korean": "어서 오세요",
+    "english": "Welcome",
+    "details_en": "'어서 오세요' (eoseo oseyo) warmly greets guests entering a store or home, equivalent to 'Welcome in!'",
+    "details_ko": "'어서 오세요'는 가게나 집에 들어오는 손님을 환영하며 건네는 말입니다."
+  },
+  {
+    "korean": "들어오세요",
+    "english": "Please come in",
+    "details_en": "'들어오세요' (deureooseyo) invites someone to enter a room or house politely.",
+    "details_ko": "'들어오세요'는 방이나 집 안으로 들어오라고 정중히 초대할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "앉으세요",
+    "english": "Please sit down",
+    "details_en": "'앉으세요' (anjuseyo) politely offers someone a seat, often said by hosts or teachers.",
+    "details_ko": "'앉으세요'는 자리에 앉으라고 정중히 권할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "일어나세요",
+    "english": "Please stand up / Wake up",
+    "details_en": "Depending on context, '일어나세요' (ireonaseyo) can ask someone to stand or wake someone gently.",
+    "details_ko": "'일어나세요'는 상황에 따라 일어서 달라거나 잠에서 깨워 달라는 의미로 쓰입니다."
+  },
+  {
+    "korean": "걱정 마세요",
+    "english": "Don't worry",
+    "details_en": "'걱정 마세요' (geokjeong maseyo) reassures someone, telling them not to worry about a situation.",
+    "details_ko": "'걱정 마세요'는 상대방을 안심시키며 걱정하지 말라고 위로할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "조심하세요",
+    "english": "Be careful",
+    "details_en": "'조심하세요' (josimhaseyo) warns or advises caution, like 'Take care' or 'Watch out.'",
+    "details_ko": "'조심하세요'는 위험이나 실수에 대비해 주의하라고 당부할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "서두르세요",
+    "english": "Please hurry",
+    "details_en": "'서두르세요' (seodureuseyo) urges someone politely to speed up, as in catching a train.",
+    "details_ko": "'서두르세요'는 시간이 촉박할 때 상대방에게 서둘러 달라고 부탁하는 표현입니다."
+  },
+  {
+    "korean": "조금만 더 기다려 주세요",
+    "english": "Please wait a little longer",
+    "details_en": "If something takes more time than expected, say '조금만 더 기다려 주세요' (jogeumman deo gidaryeo juseyo).",
+    "details_ko": "'조금만 더 기다려 주세요'는 예상보다 지연될 때 상대방에게 조금만 더 기다려 달라고 정중히 요청할 때 씁니다."
+  },
+  {
+    "korean": "천천히 드세요",
+    "english": "Eat slowly",
+    "details_en": "'천천히 드세요' (cheoncheonhi deuseyo) advises someone to enjoy food slowly, often said to elders or kids.",
+    "details_ko": "'천천히 드세요'는 식사를 천천히 하라고 권유할 때, 특히 어르신이나 어린이에게 쓰는 표현입니다."
+  },
+  {
+    "korean": "많이 드세요",
+    "english": "Please eat a lot",
+    "details_en": "'많이 드세요' (mani deuseyo) encourages guests to eat plentifully, showing hospitality.",
+    "details_ko": "'많이 드세요'는 손님에게 마음껏 먹으라며 권할 때 쓰는 환대의 표현입니다."
+  },
+  {
+    "korean": "몸 조심하세요",
+    "english": "Take care of yourself",
+    "details_en": "'몸 조심하세요' (mom josimhaseyo) literally says 'Be careful with your body,' wishing someone safe and healthy.",
+    "details_ko": "'몸 조심하세요'는 건강과 안전을 기원하며 상대방에게 몸조심하라고 당부하는 말입니다."
+  },
+  {
+    "korean": "편하게 말씀하세요",
+    "english": "Feel free to speak",
+    "details_en": "'편하게 말씀하세요' (pyeonhage malsseumhaseyo) invites someone to speak comfortably without formality.",
+    "details_ko": "'편하게 말씀하세요'는 거리낌 없이 편히 말하라고 권유할 때 사용하는 정중한 표현입니다."
+  },
+  {
+    "korean": "사진 같이 찍어요",
+    "english": "Let's take a photo together",
+    "details_en": "'사진 같이 찍어요' (sajin gachi jjigeoyo) suggests taking a group photo in a casual yet polite tone.",
+    "details_ko": "'사진 같이 찍어요'는 함께 사진을 찍자고 제안할 때 쓰는 친근한 표현입니다."
+  },
+  {
+    "korean": "연락 주셔서 감사합니다",
+    "english": "Thank you for contacting me",
+    "details_en": "'연락 주셔서 감사합니다' (yeollak jusyeoseo gamsahamnida) formally thanks someone for reaching out.",
+    "details_ko": "'연락 주셔서 감사합니다'는 연락해 준 것에 대해 격식 있게 감사함을 전할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "이해해 주세요",
+    "english": "Please understand",
+    "details_en": "'이해해 주세요' (ihaehae juseyo) asks for understanding or patience regarding a situation.",
+    "details_ko": "'이해해 주세요'는 상황에 대해 양해를 구하거나 이해를 부탁할 때 사용합니다."
+  },
+  {
+    "korean": "믿어요",
+    "english": "I believe you",
+    "details_en": "'믿어요' (mideoyo) reassures someone that you trust what they are saying.",
+    "details_ko": "'믿어요'는 상대방의 말이나 행동을 믿고 신뢰함을 표현할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "사랑해요",
+    "english": "I love you",
+    "details_en": "'사랑해요' (saranghaeyo) expresses love in a polite yet intimate way, suitable for partners or family.",
+    "details_ko": "'사랑해요'는 애인이나 가족에게 사랑을 고백할 때 쓰는 정중하면서도 다정한 표현입니다."
+  },
+  {
+    "korean": "보고 싶어요",
+    "english": "I miss you",
+    "details_en": "'보고 싶어요' (bogo sipeoyo) tells someone you miss them, often used in messages or calls.",
+    "details_ko": "'보고 싶어요'는 떨어져 있는 사람에게 보고 싶다는 그리움을 전할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "자랑스러워요",
+    "english": "I'm proud of you",
+    "details_en": "'자랑스러워요' (jarangseureowoyo) conveys pride in someone’s achievements or character.",
+    "details_ko": "'자랑스러워요'는 누군가의 성과나 모습을 자랑스럽게 생각한다는 뜻을 전할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "고생 많으셨어요",
+    "english": "You worked hard",
+    "details_en": "'고생 많으셨어요' (gosaeng maneusyeosseoyo) appreciates someone’s effort after a tough task, respectful tone.",
+    "details_ko": "'고생 많으셨어요'는 힘든 일을 마친 상대에게 수고를 인정하며 위로할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "수고 많으셨습니다",
+    "english": "Thank you for your hard work (formal)",
+    "details_en": "'수고 많으셨습니다' (sugo maneusyeotseumnida) is a very formal expression of gratitude for someone’s efforts.",
+    "details_ko": "'수고 많으셨습니다'는 공식 자리에서 상대방의 수고와 노고에 대해 정중히 감사할 때 씁니다."
+  },
+  {
+    "korean": "힘들어요",
+    "english": "It's hard / I'm exhausted",
+    "details_en": "'힘들어요' (himdeureoyo) admits difficulty or fatigue, seeking empathy or help.",
+    "details_ko": "'힘들어요'는 상황이 어렵거나 몸이 지쳐 힘들다는 것을 표현할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "괜찮습니다",
+    "english": "It's all right (formal)",
+    "details_en": "'괜찮습니다' (gwaenchansseumnida) politely assures everything is fine or declines an offer formally.",
+    "details_ko": "'괜찮습니다'는 문제가 없음을 알리거나 제안을 정중하게 사양할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "별말씀을요",
+    "english": "Not at all",
+    "details_en": "'별말씀을요' (byeolmalsseumeullyo) modestly responds to thanks, similar to 'Don’t mention it.'",
+    "details_ko": "'별말씀을요'는 감사 인사에 겸손하게 답하며 '천만에요'와 비슷한 뜻을 가진 표현입니다."
+  },
+  {
+    "korean": "잠시 휴식합시다",
+    "english": "Let's take a short break",
+    "details_en": "'잠시 휴식합시다' (jamshi hyusikhabsida) proposes a brief rest, often in meetings or classes.",
+    "details_ko": "'잠시 휴식합시다'는 회의나 수업 중 잠깐 쉬자고 제안할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "시작합시다",
+    "english": "Let's begin",
+    "details_en": "Say '시작합시다' (sijakhapsida) to start a meeting, class, or project in a formal but motivating way.",
+    "details_ko": "'시작합시다'는 어떤 활동이나 작업을 이제 시작하자고 격식 있게 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "끝났어요",
+    "english": "It's finished",
+    "details_en": "'끝났어요' (kkeutnasseoyo) informs that a task or event is over, casual-polite tone.",
+    "details_ko": "'끝났어요'는 작업이나 일이 끝났음을 알릴 때 쓰는 비교적 편안한 표현입니다."
+  },
+  {
+    "korean": "준비됐어요?",
+    "english": "Are you ready?",
+    "details_en": "'준비됐어요?' (junbidwaesseoyo?) checks if someone is prepared before starting something.",
+    "details_ko": "'준비됐어요?'는 무언가를 시작하기 전에 준비가 되었는지 확인할 때 사용하는 질문입니다."
+  },
+  {
+    "korean": "같이 갈까요?",
+    "english": "Shall we go together?",
+    "details_en": "'같이 갈까요?' (gachi galkkayo?) suggests going somewhere together in a polite, friendly tone.",
+    "details_ko": "'같이 갈까요?'는 함께 이동하자는 제안을 할 때 쓰는 정중하고 친근한 표현입니다."
+  },
+  {
+    "korean": "도와드릴까요?",
+    "english": "May I help you?",
+    "details_en": "'도와드릴까요?' (dowadeurilkkayo?) offers assistance politely, often used by service staff.",
+    "details_ko": "'도와드릴까요?'는 도움이 필요한지 정중하게 물으며 도움을 제안할 때 사용합니다."
+  },
+  {
+    "korean": "축하드려요",
+    "english": "Congratulations (honorific)",
+    "details_en": "'축하드려요' (chukadeuryeoyo) congratulates someone respectfully, suitable for elders or formal occasions.",
+    "details_ko": "'축하드려요'는 윗사람이나 격식 있는 자리에서 축하할 때 쓰는 존댓말 표현입니다."
+  },
+  {
+    "korean": "빠른 쾌유를 빌어요",
+    "english": "Wish you a speedy recovery",
+    "details_en": "'빠른 쾌유를 빌어요' (ppareun kwaeyureul bil-eoyo) offers get-well wishes to someone sick or injured.",
+    "details_ko": "'빠른 쾌유를 빌어요'는 아픈 사람에게 빠른 회복을 기원하며 건네는 말입니다."
+  },
+  {
+    "korean": "재미있어요",
+    "english": "It's fun / interesting",
+    "details_en": "'재미있어요' (jaemiisseoyo) expresses enjoyment or interest in an activity or topic.",
+    "details_ko": "'재미있어요'는 어떤 활동이나 주제가 재미있고 흥미롭다는 뜻을 전할 때 사용합니다."
+  },
+  {
+    "korean": "심심해요",
+    "english": "I'm bored",
+    "details_en": "'심심해요' (simsimhaeyo) tells others you feel bored and might want to do something.",
+    "details_ko": "'심심해요'는 할 일이 없거나 지루할 때 심심함을 표현하는 말입니다."
+  },
+  {
+    "korean": "무슨 일이에요?",
+    "english": "What's the matter?",
+    "details_en": "'무슨 일이에요?' (museun irieyo?) asks what has happened when someone seems upset or surprised.",
+    "details_ko": "'무슨 일이에요?'는 상대방이 당황하거나 힘들어 보일 때 무슨 일이 있는지 묻는 정중한 질문입니다."
+  },
+  {
+    "korean": "정말 감사해요",
+    "english": "Thank you very much",
+    "details_en": "'정말 감사해요' (jeongmal gamsahaeyo) emphasizes sincere gratitude in a polite yet warm tone.",
+    "details_ko": "'정말 감사해요'는 감사의 마음을 더욱 진심으로 표현할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "미안해요",
+    "english": "I'm sorry (polite)",
+    "details_en": "'미안해요' (mianhaeyo) apologizes politely but less formally than '죄송합니다.'",
+    "details_ko": "'미안해요'는 일상적인 상황에서 공손하게 사과할 때 쓰는 표현으로, '죄송합니다'보다 덜 격식 있습니다."
+  },
+  {
+    "korean": "다시 시작해요",
+    "english": "Let's start again",
+    "details_en": "'다시 시작해요' (dasi sijakhaeyo) suggests restarting a task or conversation smoothly.",
+    "details_ko": "'다시 시작해요'는 일이 잘못되었거나 중단되었을 때 다시 시작하자고 제안할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "잘했어요",
+    "english": "Good job",
+    "details_en": "'잘했어요' (jalhaesseoyo) praises someone’s work or performance in a polite tone.",
+    "details_ko": "'잘했어요'는 상대방의 일이나 성과를 칭찬할 때 공손하게 사용하는 표현입니다."
+  },
+  {
+    "korean": "대단해요",
+    "english": "That's great",
+    "details_en": "'대단해요' (daedanhaeyo) expresses admiration or amazement at someone’s ability or result.",
+    "details_ko": "'대단해요'는 누군가의 능력이나 결과에 감탄하며 쓰는 표현입니다."
+  },
+  {
+    "korean": "피곤해요",
+    "english": "I'm tired",
+    "details_en": "'피곤해요' (pigonhaeyo) tells others you feel weary and need rest.",
+    "details_ko": "'피곤해요'는 피로감을 느껴 쉬고 싶을 때 사용하는 말입니다."
+  },
+  {
+    "korean": "아파요",
+    "english": "I'm sick / It hurts",
+    "details_en": "'아파요' (apayo) indicates pain or illness in a polite way.",
+    "details_ko": "'아파요'는 몸이 아프거나 통증이 있을 때 정중히 말할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "몸이 안 좋아요",
+    "english": "I don't feel well",
+    "details_en": "'몸이 안 좋아요' (momi an joya-yo) states general unwellness without specifying symptoms.",
+    "details_ko": "'몸이 안 좋아요'는 구체적 증상 없이 컨디션이 좋지 않음을 알릴 때 사용합니다."
+  },
+  {
+    "korean": "물 좀 주세요",
+    "english": "Water, please",
+    "details_en": "'물 좀 주세요' (mul jom juseyo) politely asks for water at restaurants or homes.",
+    "details_ko": "'물 좀 주세요'는 식당이나 가정에서 물을 부탁할 때 쓰는 정중한 표현입니다."
+  },
+  {
+    "korean": "계산서 주세요",
+    "english": "Check, please",
+    "details_en": "'계산서 주세요' (gyesanseo juseyo) is the standard phrase to request the bill in eateries.",
+    "details_ko": "'계산서 주세요'는 식당에서 계산서를 달라고 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "포장해 주세요",
+    "english": "Please pack it to go",
+    "details_en": "'포장해 주세요' (pojanghai juseyo) asks staff to wrap food for takeaway.",
+    "details_ko": "'포장해 주세요'는 남은 음식을 포장해 달라고 부탁할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "카드로 계산할게요",
+    "english": "I'll pay by card",
+    "details_en": "'카드로 계산할게요' (kadeuro gyesanhalkkeyo) tells a cashier you’ll use a credit or debit card.",
+    "details_ko": "'카드로 계산할게요'는 신용카드나 체크카드로 결제하겠다고 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "현금으로 계산할게요",
+    "english": "I'll pay in cash",
+    "details_en": "'현금으로 계산할게요' (hyeongeumeuro gyesanhalkkeyo) specifies that you will pay with cash.",
+    "details_ko": "'현금으로 계산할게요'는 현금으로 결제하겠다고 말할 때 사용합니다."
+  },
+  {
+    "korean": "추천해 주세요",
+    "english": "Please recommend",
+    "details_en": "'추천해 주세요' (chucheon hae juseyo) requests a suggestion, commonly for menu items or places.",
+    "details_ko": "'추천해 주세요'는 메뉴나 장소 등을 추천해 달라고 부탁할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "예약했어요",
+    "english": "I have a reservation",
+    "details_en": "'예약했어요' (yeyakhaesseoyo) informs staff that you booked in advance.",
+    "details_ko": "'예약했어요'는 예약해 두었다는 사실을 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "예약하고 싶어요",
+    "english": "I'd like to make a reservation",
+    "details_en": "'예약하고 싶어요' (yeyakago sip-eoyo) politely states your wish to book seats or rooms.",
+    "details_ko": "'예약하고 싶어요'는 좌석이나 방을 예약하고 싶다고 정중히 말할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "자리 있어요?",
+    "english": "Do you have a table?",
+    "details_en": "'자리 있어요?' (jari isseoyo?) asks if seats are available at a venue.",
+    "details_ko": "'자리 있어요?'는 식당 등에 빈자리가 있는지 물을 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "메뉴 좀 볼 수 있을까요?",
+    "english": "May I see the menu?",
+    "details_en": "'메뉴 좀 볼 수 있을까요?' (menyu jom bol su isseulkkayo?) politely requests the menu.",
+    "details_ko": "'메뉴 좀 볼 수 있을까요?'는 메뉴판을 보여 달라고 정중히 요청할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "여기 앉아도 돼요?",
+    "english": "Can I sit here?",
+    "details_en": "'여기 앉아도 돼요?' (yeogi anjado dwaeyo?) checks if a seat is free for you to take.",
+    "details_ko": "'여기 앉아도 돼요?'는 이 자리에 앉아도 되는지 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "길 좀 알려주실래요?",
+    "english": "Could you show me the way?",
+    "details_en": "'길 좀 알려주실래요?' (gil jom allyeojusillaeyo?) politely asks for directions.",
+    "details_ko": "'길 좀 알려주실래요?'는 길 안내를 부탁할 때 정중히 사용하는 말입니다."
+  },
+  {
+    "korean": "어디에서 내려야 해요?",
+    "english": "Where should I get off?",
+    "details_en": "'어디에서 내려야 해요?' (eodieseo naeryeoya haeyo?) asks which stop to alight at on transit.",
+    "details_ko": "'어디에서 내려야 해요?'는 대중교통에서 어디서 내려야 하는지 물을 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "여기서 내려 주세요",
+    "english": "Please let me off here",
+    "details_en": "'여기서 내려 주세요' (yeogiseo naeryeo juseyo) tells a driver to stop at the current spot.",
+    "details_ko": "'여기서 내려 주세요'는 택시 등에서 이곳에 내려 달라고 요청할 때 씁니다."
+  },
+  {
+    "korean": "지하철역이 어디예요?",
+    "english": "Where is the subway station?",
+    "details_en": "'지하철역이 어디예요?' (jihacheol-yeogi eodiyeyo?) asks for the location of the nearest subway.",
+    "details_ko": "'지하철역이 어디예요?'는 가까운 지하철역 위치를 묻는 표현입니다."
+  },
+  {
+    "korean": "버스 정류장이 어디예요?",
+    "english": "Where is the bus stop?",
+    "details_en": "'버스 정류장이 어디예요?' (beoseu jeongnyujangi eodiyeyo?) helps find a bus stop politely.",
+    "details_ko": "'버스 정류장이 어디예요?'는 버스 타는 곳을 정중히 물어볼 때 사용합니다."
+  },
+  {
+    "korean": "택시 불러 주세요",
+    "english": "Please call a taxi",
+    "details_en": "'택시 불러 주세요' (taeksi bulleo juseyo) asks staff or friends to summon a taxi.",
+    "details_ko": "'택시 불러 주세요'는 택시를 불러 달라고 부탁할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "도착했어요",
+    "english": "I've arrived",
+    "details_en": "'도착했어요' (dochakhhaesseoyo) notifies someone that you have reached the destination.",
+    "details_ko": "'도착했어요'는 목적지에 도착했음을 알릴 때 사용하는 말입니다."
+  },
+  {
+    "korean": "금방 갈게요",
+    "english": "I'll be there soon",
+    "details_en": "'금방 갈게요' (geumbang galgeyo) promises to head over shortly.",
+    "details_ko": "'금방 갈게요'는 곧 출발해 도착하겠다고 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "금방 올게요",
+    "english": "I'll be right back",
+    "details_en": "'금방 올게요' (geumbang olgeyo) says you’ll return soon after stepping away briefly.",
+    "details_ko": "'금방 올게요'는 잠시 자리를 비운 뒤 곧 돌아올 것을 말할 때 사용합니다."
+  },
+  {
+    "korean": "늦을 것 같아요",
+    "english": "I think I'll be late",
+    "details_en": "'늦을 것 같아요' (neujeul geot gatayo) warns others that you may arrive late.",
+    "details_ko": "'늦을 것 같아요'는 지각할 가능성이 있음을 미리 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "약속 있어요",
+    "english": "I have plans",
+    "details_en": "'약속 있어요' (yaksok isseoyo) states you are already committed to another meeting or plan.",
+    "details_ko": "'약속 있어요'는 다른 예정이 있어 시간이 없음을 알릴 때 사용합니다."
+  },
+  {
+    "korean": "약속 없어요",
+    "english": "I have no plans",
+    "details_en": "'약속 없어요' (yaksok eopseoyo) indicates you are free and have nothing scheduled.",
+    "details_ko": "'약속 없어요'는 별다른 일정이 없음을 전달할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "시간이 없어요",
+    "english": "I don't have time",
+    "details_en": "'시간이 없어요' (sigani eopseoyo) explains you are busy and cannot spare time.",
+    "details_ko": "'시간이 없어요'는 바빠서 시간을 내기 어렵다는 뜻을 전할 때 사용합니다."
+  },
+  {
+    "korean": "시간이 좀 필요해요",
+    "english": "I need some time",
+    "details_en": "'시간이 좀 필요해요' (sigani jom piryohaeyo) requests additional time to think or act.",
+    "details_ko": "'시간이 좀 필요해요'는 결정이나 준비를 위해 시간이 더 필요함을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "가능해요",
+    "english": "It's possible",
+    "details_en": "'가능해요' (ganeunghaeyo) confirms that something can be done or is allowed.",
+    "details_ko": "'가능해요'는 어떤 일이 가능하거나 허용된다는 것을 밝힐 때 쓰는 말입니다."
+  },
+  {
+    "korean": "불가능해요",
+    "english": "It's impossible",
+    "details_en": "'불가능해요' (bulganeunghaeyo) states that something cannot be done.",
+    "details_ko": "'불가능해요'는 어떤 일이 불가능함을 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "시도해 볼게요",
+    "english": "I'll try",
+    "details_en": "'시도해 볼게요' (sidohae bolgeyo) shows willingness to attempt a task.",
+    "details_ko": "'시도해 볼게요'는 일단 해보겠다는 의지를 표현할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "이미 했어요",
+    "english": "I already did it",
+    "details_en": "'이미 했어요' (imi haesseoyo) tells that the action is already completed.",
+    "details_ko": "'이미 했어요'는 요청된 일을 이미 마쳤음을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "다시 해 볼게요",
+    "english": "I'll try again",
+    "details_en": "'다시 해 볼게요' (dasi hae bolgeyo) promises to give another attempt or restart.",
+    "details_ko": "'다시 해 볼게요'는 실패 후 재도전하거나 다시 시도하겠다고 말할 때 사용합니다."
+  },
+  {
+    "korean": "길이 막혀요",
+    "english": "Traffic is heavy",
+    "details_en": "'길이 막혀요' (giri makhyeoyo) reports congestion on the road.",
+    "details_ko": "'길이 막혀요'는 교통 체증이 심하다는 것을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "비가 와요",
+    "english": "It's raining",
+    "details_en": "'비가 와요' (biga wayo) comments on current rainy weather politely.",
+    "details_ko": "'비가 와요'는 비가 내리고 있음을 말할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "눈이 와요",
+    "english": "It's snowing",
+    "details_en": "'눈이 와요' (nuni wayo) remarks that snow is falling.",
+    "details_ko": "'눈이 와요'는 눈이 오고 있음을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "덥네요",
+    "english": "It's hot",
+    "details_en": "'덥네요' (deobneyo) notes uncomfortably warm weather, inviting agreement.",
+    "details_ko": "'덥네요'는 날씨가 덥다고 느낄 때 감탄처럼 사용하는 말입니다."
+  },
+  {
+    "korean": "추워요",
+    "english": "It's cold",
+    "details_en": "'추워요' (chuwoyo) indicates chilly conditions and possible need for warmth.",
+    "details_ko": "'추워요'는 날씨가 춥다고 말할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "가격을 깎아 주세요",
+    "english": "Please give me a discount",
+    "details_en": "'가격을 깎아 주세요' (gagyeogeul kkakka juseyo) politely negotiates a lower price.",
+    "details_ko": "'가격을 깎아 주세요'는 흥정할 때 가격을 내려 달라고 부탁하는 표현입니다."
+  },
+  {
+    "korean": "구경만 할게요",
+    "english": "I'm just looking",
+    "details_en": "'구경만 할게요' (gugyeongman halgeyo) tells shop staff you’re browsing without buying yet.",
+    "details_ko": "'구경만 할게요'는 구매 의사 없이 둘러보고 있을 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "남은 음식 싸 주세요",
+    "english": "Please pack the leftovers",
+    "details_en": "'남은 음식 싸 주세요' (nameun eumsik ssa juseyo) requests takeaway packing for remaining food.",
+    "details_ko": "'남은 음식 싸 주세요'는 식당에서 남은 음식을 포장해 달라고 할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "팁은 포함돼 있어요?",
+    "english": "Is the tip included?",
+    "details_en": "'팁은 포함돼 있어요?' (tip-eun pohamdoe isseoyo?) asks whether service charge covers tips.",
+    "details_ko": "'팁은 포함돼 있어요?'는 계산서에 팁이 포함되었는지 확인할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "비밀이에요",
+    "english": "It's a secret",
+    "details_en": "'비밀이에요' (bimil-ieyo) tells someone that the matter must remain confidential.",
+    "details_ko": "'비밀이에요'는 상대에게 내용을 비밀로 해 달라고 할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "말하지 마세요",
+    "english": "Please don't tell",
+    "details_en": "'말하지 마세요' (malhaji maseyo) requests the listener to keep quiet about something.",
+    "details_ko": "'말하지 마세요'는 어떤 내용을 다른 사람에게 말하지 말라고 부탁할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "맞아요",
+    "english": "That's correct",
+    "details_en": "'맞아요' (majayo) confirms that something is right or true in a polite tone.",
+    "details_ko": "'맞아요'는 사실이나 정답을 인정하며 맞다고 말할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "틀려요",
+    "english": "That's wrong",
+    "details_en": "'틀려요' (teullyeoyo) indicates that something is incorrect.",
+    "details_ko": "'틀려요'는 상대의 말이나 정보가 틀렸음을 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "조용히 해 주세요",
+    "english": "Please be quiet",
+    "details_en": "'조용히 해 주세요' (joyonghi hae juseyo) politely asks others to lower their noise level.",
+    "details_ko": "'조용히 해 주세요'는 장소에서 시끄러운 사람에게 조용히 해 달라고 요청할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "축하할 일이 있어요",
+    "english": "I have something to celebrate",
+    "details_en": "'축하할 일이 있어요' (chukahhal iri isseoyo) announces good news warranting celebration.",
+    "details_ko": "'축하할 일이 있어요'는 기쁜 소식이 있어 축하하고 싶음을 전할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "기다릴게요",
+    "english": "I'll wait",
+    "details_en": "'기다릴게요' (gidalilgeyo) promises to wait patiently for someone or something. It reassures the listener that you won't leave before they return or finish.",
+    "details_ko": "'기다릴게요'는 상대방을 기다리겠다는 의사를 전하는 표현으로, 돌아올 때까지 자리를 지키겠다는 의미를 담고 있습니다."
+  },
+  {
+    "korean": "확인했어요",
+    "english": "I checked",
+    "details_en": "'확인했어요' (hwaginhaesseoyo) informs others that you have reviewed or verified the required information or task.",
+    "details_ko": "'확인했어요'는 필요한 내용이나 업무를 점검·확인했음을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "확인 부탁드립니다",
+    "english": "Please confirm",
+    "details_en": "'확인 부탁드립니다' (hwagin butakdeurimnida) formally asks someone to check or verify something and report back.",
+    "details_ko": "'확인 부탁드립니다'는 상대방에게 내용을 검토·확인해 달라고 격식을 갖춰 요청할 때 사용합니다."
+  },
+  {
+    "korean": "괜찮으실까요?",
+    "english": "Would that be okay?",
+    "details_en": "'괜찮으실까요?' (gwaenchaneusilkkayo?) politely seeks approval or asks if a suggestion is acceptable, showing respect.",
+    "details_ko": "'괜찮으실까요?'는 제안이나 요청이 상대방에게 무리가 없는지 정중히 확인할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "전화해 주세요",
+    "english": "Please call me",
+    "details_en": "'전화해 주세요' (jeonhwahae juseyo) politely asks someone to give you a phone call at their convenience.",
+    "details_ko": "'전화해 주세요'는 편할 때 전화해 달라고 정중히 부탁할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "전화할게요",
+    "english": "I'll call you",
+    "details_en": "'전화할게요' (jeonhwahalkkeyo) promises the listener that you will make a phone call to them later.",
+    "details_ko": "'전화할게요'는 나중에 직접 전화하겠다는 뜻을 전할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "이메일 보내 주세요",
+    "english": "Please send an email",
+    "details_en": "'이메일 보내 주세요' (imeil bonae juseyo) asks someone to send information or documents via email.",
+    "details_ko": "'이메일 보내 주세요'는 필요한 자료나 내용을 이메일로 보내 달라고 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "축하해요",
+    "english": "Congrats!",
+    "details_en": "'축하해요' (chukahaeyo) casually congratulates someone on good news such as a promotion, birthday, or achievement.",
+    "details_ko": "'축하해요'는 친구나 동료에게 기쁜 소식을 축하할 때 쓰는 비교적 캐주얼한 표현입니다."
+  },
+  {
+    "korean": "취미가 뭐예요?",
+    "english": "What's your hobby?",
+    "details_en": "'취미가 뭐예요?' (chwimiga mwoyeyo?) is a polite question used to ask someone about their hobbies or pastimes, often in small talk.",
+    "details_ko": "'취미가 뭐예요?'는 상대방의 취미 활동이 무엇인지 정중히 묻는 표현으로, 가벼운 대화에서 자주 사용됩니다."
+  },
+  {
+    "korean": "어디 사세요?",
+    "english": "Where do you live?",
+    "details_en": "'어디 사세요?' (eodi saseyo?) politely asks about someone's place of residence, commonly after becoming acquainted.",
+    "details_ko": "'어디 사세요?'는 서로 친분이 쌓인 뒤 거주지를 정중하게 물어볼 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "어디 아파요?",
+    "english": "Does it hurt somewhere?",
+    "details_en": "'어디 아파요?' (eodi apayo?) checks where someone feels pain or discomfort, showing concern for their health.",
+    "details_ko": "'어디 아파요?'는 몸이 좋지 않은 사람에게 어디가 아픈지 살펴보며 걱정을 전할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "신경 쓰지 마세요",
+    "english": "Don't worry about it",
+    "details_en": "'신경 쓰지 마세요' (singyeong sseuji maseyo) tells someone not to bother or feel burdened by an issue.",
+    "details_ko": "'신경 쓰지 마세요'는 사소한 일이나 걱정을 내려놓으라고 상대를 안심시키는 표현입니다."
+  },
+  {
+    "korean": "너무 좋아요",
+    "english": "I love it",
+    "details_en": "'너무 좋아요' (neomu joayo) expresses strong approval or delight with something, like food, music, or an idea.",
+    "details_ko": "'너무 좋아요'는 음식, 음악, 제안 등 어떤 대상이 매우 마음에 들 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "너무 비싸요",
+    "english": "It's too expensive",
+    "details_en": "'너무 비싸요' (neomu bissayo) comments that the price is too high, often as a hint for negotiation.",
+    "details_ko": "'너무 비싸요'는 가격이 지나치게 높다고 느낄 때 사용하는 표현으로, 흥정을 유도하기도 합니다."
+  },
+  {
+    "korean": "싸네요",
+    "english": "It's cheap",
+    "details_en": "'싸네요' (ssaneyo) remarks that something is priced lower than expected, conveying pleasant surprise.",
+    "details_ko": "'싸네요'는 예상보다 가격이 저렴하다고 놀람이나 만족을 표현할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "조금만 주세요",
+    "english": "Just a little, please",
+    "details_en": "'조금만 주세요' (jogeumman juseyo) politely asks for a small portion of food or drink.",
+    "details_ko": "'조금만 주세요'는 음식이나 음료를 조금만 달라고 정중히 부탁할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "더 주세요",
+    "english": "More, please",
+    "details_en": "'더 주세요' (deo juseyo) requests additional quantity, such as a refill or extra serving.",
+    "details_ko": "'더 주세요'는 추가로 더 달라고 요청할 때 사용하는 간단한 표현입니다."
+  },
+  {
+    "korean": "충분해요",
+    "english": "That's enough",
+    "details_en": "'충분해요' (chungbunhaeyo) indicates that the amount or effort is sufficient and no more is needed.",
+    "details_ko": "'충분해요'는 지금으로도 충분하니 더 이상 필요 없음을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "배불러요",
+    "english": "I'm full",
+    "details_en": "'배불러요' (baebulleoyo) tells others you are satisfied and cannot eat more food.",
+    "details_ko": "'배불러요'는 충분히 먹어 배가 불렀음을 전할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "졸려요",
+    "english": "I'm sleepy",
+    "details_en": "'졸려요' (jollyeoyo) states that you feel sleepy or drowsy and may need rest.",
+    "details_ko": "'졸려요'는 졸음이 와서 쉬거나 자고 싶을 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "집중하세요",
+    "english": "Please focus",
+    "details_en": "'집중하세요' (jipjunghaseyo) urges someone to pay attention and concentrate on the task at hand.",
+    "details_ko": "'집중하세요'는 수업·회의 등에서 주의를 집중해 달라고 요청할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "이해하기 쉬워요",
+    "english": "It's easy to understand",
+    "details_en": "'이해하기 쉬워요' (ihaehagi swiwo yo) praises content or instructions for being clear and simple.",
+    "details_ko": "'이해하기 쉬워요'는 설명이나 자료가 명확해 이해하기 쉽다는 긍정적 평가를 전할 때 사용합니다."
+  },
+  {
+    "korean": "이해하기 어려워요",
+    "english": "It's hard to understand",
+    "details_en": "'이해하기 어려워요' (ihaehagi eoryeowo yo) signals that the information is confusing or complex.",
+    "details_ko": "'이해하기 어려워요'는 내용이 복잡하거나 난해해 이해하기 어렵다는 뜻을 전할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "헷갈려요",
+    "english": "I'm confused",
+    "details_en": "'헷갈려요' (hetgallyeoyo) admits confusion, often prompting further clarification.",
+    "details_ko": "'헷갈려요'는 개념이나 상황이 복잡해 혼란스러울 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "또 만나요",
+    "english": "See you again",
+    "details_en": "'또 만나요' (tto mannayo) says goodbye with the expectation of another meeting soon.",
+    "details_ko": "'또 만나요'는 조만간 다시 보자는 의미로 작별 인사를 할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "연락 자주 해요",
+    "english": "Keep in touch",
+    "details_en": "'연락 자주 해요' (yeollak jaju haeyo) encourages frequent communication between friends or family.",
+    "details_ko": "'연락 자주 해요'는 관계를 유지하려고 자주 연락하자고 권할 때 사용합니다."
+  },
+  {
+    "korean": "행운을 빌어요",
+    "english": "Good luck",
+    "details_en": "'행운을 빌어요' (haenguneul birayo) wishes someone success or favorable outcomes in upcoming endeavors.",
+    "details_ko": "'행운을 빌어요'는 시험·면접 등 중요한 일에 앞서 행운을 기원할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "힘들었죠?",
+    "english": "It was tough, wasn't it?",
+    "details_en": "'힘들었죠?' (himdeureotjyo?) empathizes with someone after a hard task, acknowledging their effort.",
+    "details_ko": "'힘들었죠?'는 어려운 일을 마친 사람에게 고생이 많았음을 공감하며 묻는 표현입니다."
+  },
+  {
+    "korean": "끝까지 화이팅!",
+    "english": "Keep it up till the end!",
+    "details_en": "'끝까지 화이팅!' (kkeutkkaji hwaiting!) cheers someone on to maintain effort until completion.",
+    "details_ko": "'끝까지 화이팅!'은 마지막까지 힘내서 잘 해내라고 응원할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "실례지만",
+    "english": "Excuse me, but…",
+    "details_en": "'실례지만' (sillyejiman) politely introduces a request or question that might impose on someone.",
+    "details_ko": "'실례지만'은 상대방에게 실례를 무릅쓰고 말을 걸 때 서두로 쓰는 표현입니다."
+  },
+  {
+    "korean": "죄송하지만",
+    "english": "I'm sorry, but…",
+    "details_en": "'죄송하지만' (joesonghajiman) politely prefaces a request or refusal, softening the following statement.",
+    "details_ko": "'죄송하지만'은 정중히 양해를 구하거나 거절할 때 앞에 붙여 예의를 갖추는 표현입니다."
+  },
+  {
+    "korean": "잠깐 이야기할 수 있을까요?",
+    "english": "Can we talk briefly?",
+    "details_en": "'잠깐 이야기할 수 있을까요?' (jamkkan iyagihal su isseulkkayo?) asks if someone has a moment to discuss something.",
+    "details_ko": "'잠깐 이야기할 수 있을까요?'는 짧게 대화할 시간이 있는지 정중히 묻는 표현입니다."
+  },
+  {
+    "korean": "사진 찍어 줘요",
+    "english": "Take a photo for me",
+    "details_en": "'사진 찍어 줘요' (sajin jjigeo jwoyo) asks a friend or acquaintance to take your picture.",
+    "details_ko": "'사진 찍어 줘요'는 자신 대신 사진을 찍어 달라고 부탁할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "도와주셔서 감사합니다",
+    "english": "Thank you for helping me",
+    "details_en": "'도와주셔서 감사합니다' (dowajusyeoseo gamsahamnida) expresses deep gratitude for someone's assistance in a formal tone.",
+    "details_ko": "'도와주셔서 감사합니다'는 도움을 준 상대에게 격식 있게 감사함을 전하는 표현입니다."
+  },
+  {
+    "korean": "금방 끝나요",
+    "english": "It'll be finished soon",
+    "details_en": "'금방 끝나요' (geumbang kkeutnayo) reassures that a task or wait time will end shortly.",
+    "details_ko": "'금방 끝나요'는 곧 마무리될 예정임을 알려 상대를 안심시키는 표현입니다."
+  },
+  {
+    "korean": "금방 도착해요",
+    "english": "I'll arrive soon",
+    "details_en": "'금방 도착해요' (geumbang dochakhaeyo) notifies someone that you are close to the destination.",
+    "details_ko": "'금방 도착해요'는 목적지에 곧 도착할 것임을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "지금 출발해요",
+    "english": "I'm leaving now",
+    "details_en": "'지금 출발해요' (jigeum chulbalhaeyo) informs that you are setting off immediately.",
+    "details_ko": "'지금 출발해요'는 방금 출발했음을 상대에게 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "늦어도 괜찮아요",
+    "english": "It's okay if you're late",
+    "details_en": "'늦어도 괜찮아요' (neujeodo gwaenchanayo) comforts someone by saying a delay is acceptable.",
+    "details_ko": "'늦어도 괜찮아요'는 늦더라도 문제가 없으니 걱정 말라고 전할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "편하게 쉬세요",
+    "english": "Please rest comfortably",
+    "details_en": "'편하게 쉬세요' (pyeonhage swiseyo) invites someone to relax and take it easy.",
+    "details_ko": "'편하게 쉬세요'는 상대방에게 부담 없이 편히 휴식을 취하라고 권할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "푹 쉬세요",
+    "english": "Have a good rest",
+    "details_en": "'푹 쉬세요' (puk swiseyo) wishes someone to rest deeply and recover energy.",
+    "details_ko": "'푹 쉬세요'는 충분히 휴식해 기운을 회복하라는 뜻으로 쓰는 표현입니다."
+  },
+  {
+    "korean": "빨리 와요",
+    "english": "Come quickly",
+    "details_en": "'빨리 와요' (ppalli wayo) urges someone to arrive soon, often when you are waiting.",
+    "details_ko": "'빨리 와요'는 상대방에게 서둘러 오라고 촉구할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "천천히 오세요",
+    "english": "Take your time coming",
+    "details_en": "'천천히 오세요' (cheoncheonhi oseyo) tells someone not to rush and come at a comfortable pace.",
+    "details_ko": "'천천히 오세요'는 급할 것 없으니 천천히 오라고 배려할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "조심히 운전하세요",
+    "english": "Drive safely",
+    "details_en": "'조심히 운전하세요' (josimhi unjeonhaseyo) wishes a driver safety on the road.",
+    "details_ko": "'조심히 운전하세요'는 운전하는 사람에게 안전 운전을 당부할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "식사하셨어요?",
+    "english": "Have you eaten?",
+    "details_en": "'식사하셨어요?' (siksahasyeosseoyo?) is a Korean greeting that shows care by asking if someone has had a meal.",
+    "details_ko": "'식사하셨어요?'는 안부 인사로 상대의 식사를 챙기며 관심을 표현할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "맛있게 먹었어요",
+    "english": "I enjoyed the meal",
+    "details_en": "'맛있게 먹었어요' (masitge meogeosseoyo) thanks the cook or host, indicating the food was delicious.",
+    "details_ko": "'맛있게 먹었어요'는 식사가 맛있었음을 전하며 만든 이에게 감사함을 표현할 때 사용합니다."
+  },
+  {
+    "korean": "결제 완료했어요",
+    "english": "Payment completed",
+    "details_en": "'결제 완료했어요' (gyeoljae wanryohaesseoyo) states that you have successfully paid for goods or services.",
+    "details_ko": "'결제 완료했어요'는 상품·서비스 대금을 결제 완료했음을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "환불해 주세요",
+    "english": "Please refund",
+    "details_en": "'환불해 주세요' (hwanbulhae juseyo) formally asks for a refund on a purchase.",
+    "details_ko": "'환불해 주세요'는 구매한 상품을 반환하고 금액 환불을 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "계산 오류 있어요",
+    "english": "There's a billing error",
+    "details_en": "'계산 오류 있어요' (gyesan oryu isseoyo) points out a mistake on the bill or invoice.",
+    "details_ko": "'계산 오류 있어요'는 계산서에 잘못된 항목이 있음을 알릴 때 쓰는 말입니다."
+  },
+  {
+    "korean": "고장났어요",
+    "english": "It's broken",
+    "details_en": "'고장났어요' (gojangnasseoyo) tells someone that an item or device is not functioning properly.",
+    "details_ko": "'고장났어요'는 물건이나 기기가 고장났음을 알리고 수리나 교체를 요청할 때 사용합니다."
+  },
+  {
+    "korean": "사용법 알려 주세요",
+    "english": "Please tell me how to use it",
+    "details_en": "'사용법 알려 주세요' (sayongbeop allyeo juseyo) requests instructions or a demonstration on using an item or system.",
+    "details_ko": "'사용법 알려 주세요'는 제품·시스템의 사용 방법을 설명해 달라고 정중히 부탁할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "잘 부탁드립니다",
+    "english": "Please take good care of me / I look forward to working with you",
+    "details_en": "When starting a new relationship, project, or job, Koreans say '잘 부탁드립니다' (jal butakdeurimnida) to show humility and ask for the other person’s support.",
+    "details_ko": "'잘 부탁드립니다'는 새로 만난 사람이나 함께 일할 때 겸손하게 도움과 배려를 부탁하는 인사입니다."
+  },
+  {
+    "korean": "반갑습니다",
+    "english": "Pleased to meet you",
+    "details_en": "'반갑습니다' (bangapseumnida) is a formal yet friendly way of saying 'Nice to meet you' at first encounter.",
+    "details_ko": "'반갑습니다'는 처음 인사할 때 예의를 갖추어 반가움을 전하는 표현입니다."
+  },
+  {
+    "korean": "들어가세요",
+    "english": "Take care (when leaving)",
+    "details_en": "'들어가세요' (deureogaseyo) is said to someone who is heading home or back inside, wishing them well on their way.",
+    "details_ko": "'들어가세요'는 집이나 실내로 돌아가는 사람에게 안전히 가라는 의미로 건네는 인사입니다."
+  },
+  {
+    "korean": "잠시만 실례하겠습니다",
+    "english": "Excuse me for a moment",
+    "details_en": "'잠시만 실례하겠습니다' (jamshiman sillyehagetseumnida) very politely asks permission to step away or interrupt briefly.",
+    "details_ko": "'잠시만 실례하겠습니다'는 회의나 대화 중 잠깐 자리나 말을 비울 때 정중히 양해를 구하는 표현입니다."
+  },
+  {
+    "korean": "걱정해 주셔서 감사합니다",
+    "english": "Thank you for your concern",
+    "details_en": "Use '걱정해 주셔서 감사합니다' (geokjeonghae jusyeoseo gamsahamnida) to express gratitude when someone shows care for your situation.",
+    "details_ko": "'걱정해 주셔서 감사합니다'는 상대의 배려와 관심에 고마움을 전할 때 쓰는 정중한 말입니다."
+  },
+  {
+    "korean": "연락 기다릴게요",
+    "english": "I'll wait for your message",
+    "details_en": "'연락 기다릴게요' (yeollak gidalilgeyo) tells the other person you expect their call or text and will be available.",
+    "details_ko": "'연락 기다릴게요'는 상대방의 연락을 기다리겠다는 의사를 전하는 표현입니다."
+  },
+  {
+    "korean": "편하게 앉으세요",
+    "english": "Please sit comfortably",
+    "details_en": "'편하게 앉으세요' (pyeonhage anjuseyo) invites a guest to relax and sit without formality.",
+    "details_ko": "'편하게 앉으세요'는 손님이나 동료에게 부담 없이 자리에 앉으라고 권하는 말입니다."
+  },
+  {
+    "korean": "가능할까요?",
+    "english": "Would it be possible?",
+    "details_en": "'가능할까요?' (ganeunghalkkayo?) politely asks if a request can be accommodated.",
+    "details_ko": "'가능할까요?'는 어떤 일이 실행 가능한지 정중히 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "그만하세요",
+    "english": "Please stop",
+    "details_en": "'그만하세요' (geumanhaseyo) politely but firmly tells someone to stop an action or behavior.",
+    "details_ko": "'그만하세요'는 상대방의 행동을 중단해 달라고 요청할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "조심히 돌아가세요",
+    "english": "Get home safely",
+    "details_en": "'조심히 돌아가세요' (josimhi doragaseyo) is a caring farewell to someone heading home, emphasizing safety.",
+    "details_ko": "'조심히 돌아가세요'는 귀가하는 사람에게 안전히 돌아가라는 뜻으로 건네는 인사입니다."
+  },
+  {
+    "korean": "들어오셔도 돼요?",
+    "english": "May I come in?",
+    "details_en": "'들어오셔도 돼요?' (deureoosyeodo dwaeyo?) politely seeks permission to enter a room or house.",
+    "details_ko": "'들어오셔도 돼요?'는 실내로 들어가도 되는지 정중히 묻는 표현입니다."
+  },
+  {
+    "korean": "사진 보내 주세요",
+    "english": "Please send me the photo",
+    "details_en": "'사진 보내 주세요' (sajin bonae juseyo) asks someone to share pictures via chat or email.",
+    "details_ko": "'사진 보내 주세요'는 촬영한 사진을 전송해 달라고 부탁할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "잘할 수 있어요",
+    "english": "You can do it",
+    "details_en": "'잘할 수 있어요' (jalhal su isseoyo) encourages confidence, meaning the listener is capable of succeeding.",
+    "details_ko": "'잘할 수 있어요'는 상대에게 능력을 믿고 자신감을 가지라고 격려할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "믿어 주세요",
+    "english": "Please trust me",
+    "details_en": "'믿어 주세요' (mideo juseyo) requests that someone have faith in your words or actions.",
+    "details_ko": "'믿어 주세요'는 자신을 신뢰해 달라고 정중히 부탁할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "잠깐만 보여 주세요",
+    "english": "Please show me briefly",
+    "details_en": "'잠깐만 보여 주세요' (jamkkanman boyeo juseyo) asks to see something for a moment, such as a document or item.",
+    "details_ko": "'잠깐만 보여 주세요'는 자료나 물건을 잠시 확인하고 싶을 때 정중히 요청하는 말입니다."
+  },
+  {
+    "korean": "확인해 주실 수 있나요?",
+    "english": "Could you please confirm?",
+    "details_en": "'확인해 주실 수 있나요?' (hwaginhae jusil su innayo?) politely asks someone to verify and respond.",
+    "details_ko": "'확인해 주실 수 있나요?'는 자료나 일정 등을 확인해 달라고 예의 있게 요청하는 표현입니다."
+  },
+  {
+    "korean": "안내해 주셔서 감사합니다",
+    "english": "Thank you for the guidance",
+    "details_en": "'안내해 주셔서 감사합니다' (annaehae jusyeoseo gamsahamnida) formally thanks someone for directions or instructions.",
+    "details_ko": "'안내해 주셔서 감사합니다'는 길 안내나 설명을 해 준 사람에게 격식 있게 감사할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "계산서 확인해 주세요",
+    "english": "Please check the bill",
+    "details_en": "'계산서 확인해 주세요' (gyesanseo hwagin hae juseyo) requests staff to review the invoice for errors.",
+    "details_ko": "'계산서 확인해 주세요'는 계산서에 잘못이 없는지 점검해 달라고 부탁할 때 사용합니다."
+  },
+  {
+    "korean": "약속 잡을까요?",
+    "english": "Shall we set a meeting?",
+    "details_en": "'약속 잡을까요?' (yaksok jabeulkkayo?) suggests scheduling an appointment or get-together.",
+    "details_ko": "'약속 잡을까요?'는 만남이나 회의 일정을 잡자고 제안할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "오해하지 마세요",
+    "english": "Please don't misunderstand",
+    "details_en": "'오해하지 마세요' (ohaehaji maseyo) clears up potential confusion and asks for understanding.",
+    "details_ko": "'오해하지 마세요'는 자신의 의도를 잘못 받아들이지 말라고 당부할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "준비됐습니다",
+    "english": "I'm ready",
+    "details_en": "'준비됐습니다' (junbidwaetseumnida) formally announces that you are prepared to start.",
+    "details_ko": "'준비됐습니다'는 업무나 발표 등을 시작할 준비가 끝났음을 격식 있게 알리는 말입니다."
+  },
+  {
+    "korean": "문제없어요",
+    "english": "No problem",
+    "details_en": "'문제없어요' (munje eopseoyo) reassures that everything is fine or a request is acceptable.",
+    "details_ko": "'문제없어요'는 어려움이 없고 괜찮다는 뜻을 전달할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "별일 없으세요?",
+    "english": "How have you been? (Any news?)",
+    "details_en": "'별일 없으세요?' (byeoril eopseuseyo?) is a friendly inquiry asking if anything unusual has happened.",
+    "details_ko": "'별일 없으세요?'는 오랜만에 만난 사람에게 근황을 묻는 가벼운 안부 인사입니다."
+  },
+  {
+    "korean": "다행이에요",
+    "english": "That's a relief",
+    "details_en": "'다행이에요' (dahaeng-ieyo) expresses relief that a situation turned out well.",
+    "details_ko": "'다행이에요'는 걱정했던 일이 잘 해결되어 안도할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "긴장하지 마세요",
+    "english": "Don't be nervous",
+    "details_en": "'긴장하지 마세요' (ginjanghaji maseyo) comforts someone feeling anxious about an upcoming event.",
+    "details_ko": "'긴장하지 마세요'는 시험·발표 등 긴장되는 상황에서 마음을 편히 가지라고 격려할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "걱정하지 않을게요",
+    "english": "I won't worry",
+    "details_en": "Say '걱정하지 않을게요' (geokjeonghaji anheulgeyo) to promise you will stay calm and not fret.",
+    "details_ko": "'걱정하지 않을게요'는 더 이상 걱정하지 않겠다고 다짐하거나 상대를 안심시킬 때 사용합니다."
+  },
+  {
+    "korean": "천천히 하세요",
+    "english": "Take your time",
+    "details_en": "'천천히 하세요' (cheoncheonhi haseyo) tells someone not to rush and proceed at a comfortable pace.",
+    "details_ko": "'천천히 하세요'는 서두를 필요 없으니 천천히 하라고 배려할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "대기 번호가 뭐예요?",
+    "english": "What's the waiting number?",
+    "details_en": "'대기 번호가 뭐예요?' (daegi beonhoga mwoyeyo?) asks staff for your place in a wait-list queue.",
+    "details_ko": "'대기 번호가 뭐예요?'는 줄 서기나 예약 순서를 확인할 때 사용하는 질문입니다."
+  },
+  {
+    "korean": "사진 금지예요",
+    "english": "Photography is prohibited",
+    "details_en": "'사진 금지예요' (sajin geumji-yeyo) informs visitors that taking pictures is not allowed here.",
+    "details_ko": "'사진 금지예요'는 해당 장소에서 사진 촬영이 금지됨을 안내할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "취소해 주세요",
+    "english": "Please cancel it",
+    "details_en": "'취소해 주세요' (chwisohae juseyo) requests the cancellation of an order, booking, or action.",
+    "details_ko": "'취소해 주세요'는 예약·주문 등을 취소해 달라고 정중히 부탁하는 표현입니다."
+  },
+  {
+    "korean": "이메일 확인했어요",
+    "english": "I checked the email",
+    "details_en": "'이메일 확인했어요' (imeil hwagin haesseoyo) reports that you received and reviewed the email content.",
+    "details_ko": "'이메일 확인했어요'는 이메일을 받고 내용을 확인했음을 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "이메일 아직 못 받았어요",
+    "english": "I haven't received the email yet",
+    "details_en": "'이메일 아직 못 받았어요' (imeil ajik mot badat-eyo) lets the sender know their email hasn't arrived.",
+    "details_ko": "'이메일 아직 못 받았어요'는 상대가 보낸 이메일이 도착하지 않았음을 알리며 확인을 요청할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "좌석이 어디예요?",
+    "english": "Where is the seat?",
+    "details_en": "'좌석이 어디예요?' (jwaseogi eodiyeyo?) asks staff or friends to point out your assigned seat.",
+    "details_ko": "'좌석이 어디예요?'는 공연장·기차 등에서 자신의 좌석 위치를 확인할 때 사용하는 질문입니다."
+  },
+  {
+    "korean": "창문 좀 열어 주세요",
+    "english": "Please open the window",
+    "details_en": "'창문 좀 열어 주세요' (changmun jom yeoreo juseyo) politely asks someone to open a window for air.",
+    "details_ko": "'창문 좀 열어 주세요'는 환기를 위해 창문을 열어 달라고 부탁할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "문 좀 닫아 주세요",
+    "english": "Please close the door",
+    "details_en": "'문 좀 닫아 주세요' (mun jom dada juseyo) requests that a door be shut to block noise or drafts.",
+    "details_ko": "'문 좀 닫아 주세요'는 문을 닫아 달라고 정중히 요청하는 표현입니다."
+  },
+  {
+    "korean": "소리 좀 줄여 주세요",
+    "english": "Please lower the volume",
+    "details_en": "'소리 좀 줄여 주세요' (sori jom juryeo juseyo) asks others to turn down loud music or TV.",
+    "details_ko": "'소리 좀 줄여 주세요'는 소음이 심할 때 볼륨을 낮춰 달라고 부탁하는 말입니다."
+  },
+  {
+    "korean": "에어컨 켜 주세요",
+    "english": "Please turn on the AC",
+    "details_en": "'에어컨 켜 주세요' (eeokeon kyeo juseyo) requests activation of air-conditioning in a room or car.",
+    "details_ko": "'에어컨 켜 주세요'는 더운 환경에서 냉방을 위해 에어컨을 켜 달라고 말할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "히터 꺼 주세요",
+    "english": "Please turn off the heater",
+    "details_en": "'히터 꺼 주세요' (hiteo kkeo juseyo) asks someone to switch off the heater, perhaps because it’s too warm.",
+    "details_ko": "'히터 꺼 주세요'는 실내가 너무 덥거나 외출할 때 난방 기기를 꺼 달라고 요청하는 표현입니다."
+  },
+  {
+    "korean": "와이파이 비밀번호가 뭐예요?",
+    "english": "What's the Wi-Fi password?",
+    "details_en": "'와이파이 비밀번호가 뭐예요?' (waipai bimilbeonhoga mwoyeyo?) politely asks for network access details.",
+    "details_ko": "'와이파이 비밀번호가 뭐예요?'는 무선 인터넷을 사용하기 위해 비밀번호를 요청할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "자리 좀 바꿔 주세요",
+    "english": "Please change my seat",
+    "details_en": "'자리 좀 바꿔 주세요' (jari jom bakkwo juseyo) asks to switch seats, often on planes or in class.",
+    "details_ko": "'자리 좀 바꿔 주세요'는 현재 좌석을 다른 곳으로 옮겨 달라고 정중히 부탁하는 말입니다."
+  },
+  {
+    "korean": "길 잃었어요",
+    "english": "I'm lost",
+    "details_en": "'길 잃었어요' (gil ilheosseoyo) lets others know you don’t know where you are and need directions.",
+    "details_ko": "'길 잃었어요'는 길을 헤매거나 목적지를 찾지 못했음을 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "신분증 보여 주세요",
+    "english": "Show me your ID, please",
+    "details_en": "'신분증 보여 주세요' (sinbunjeung boyeo juseyo) requests identification for verification purposes.",
+    "details_ko": "'신분증 보여 주세요'는 신원 확인이 필요할 때 신분증 제시를 정중히 요구하는 말입니다."
+  },
+  {
+    "korean": "수리해 주세요",
+    "english": "Please fix it",
+    "details_en": "'수리해 주세요' (surihae juseyo) asks a technician or staff member to repair a broken item.",
+    "details_ko": "'수리해 주세요'는 고장난 물건을 고쳐 달라고 요청할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "주문 도와드릴까요?",
+    "english": "May I take your order?",
+    "details_en": "'주문 도와드릴까요?' (jumun dowadeurilkkayo?) is used by staff offering to assist customers with ordering.",
+    "details_ko": "'주문 도와드릴까요?'는 식당·카페 직원이 손님에게 주문을 도와주겠다고 제안할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "맛은 어떠세요?",
+    "english": "How does it taste?",
+    "details_en": "'맛은 어떠세요?' (mas-eun eotteoseyo?) politely asks for someone’s opinion of the food’s flavor.",
+    "details_ko": "'맛은 어떠세요?'는 음식을 먹는 사람에게 맛이 어떤지 의견을 묻는 표현입니다."
+  },
+  {
+    "korean": "퇴근했어요",
+    "english": "I left the office",
+    "details_en": "'퇴근했어요' (toegeunhaesseoyo) informs colleagues or family that you have finished work for the day.",
+    "details_ko": "'퇴근했어요'는 업무를 마치고 회사에서 나왔음을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "출근 중이에요",
+    "english": "I'm on my way to work",
+    "details_en": "'출근 중이에요' (chulgeun jung-ieyo) tells someone you’re currently commuting to the office.",
+    "details_ko": "'출근 중이에요'는 회사로 이동 중임을 전할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "회의 중이에요",
+    "english": "I'm in a meeting",
+    "details_en": "'회의 중이에요' (hoeu-i jung-ieyo) lets callers know you’re currently occupied by a meeting.",
+    "details_ko": "'회의 중이에요'는 회의 중이라 통화나 답변이 어렵다는 것을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "곧 연락드리겠습니다",
+    "english": "I'll contact you shortly",
+    "details_en": "'곧 연락드리겠습니다' (got yeollak deurigetseumnida) is a formal promise to reach out soon.",
+    "details_ko": "'곧 연락드리겠습니다'는 빠른 시일 내에 연락하겠다는 의사를 격식 있게 밝히는 표현입니다."
+  },
+  {
+    "korean": "좋은 밤 보내세요",
+    "english": "Have a good night",
+    "details_en": "Use ‘좋은 밤 보내세요’ (joeun bam bonaeseyo) as a friendly evening farewell, wishing the listener a pleasant night ahead.",
+    "details_ko": "‘좋은 밤 보내세요’는 밤에 헤어질 때 상대방에게 편안하고 즐거운 밤을 보내라고 인사할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "곧 봐요",
+    "english": "See you soon",
+    "details_en": "The phrase ‘곧 봐요’ (got bwayo) casually promises that you expect to meet again in the near future.",
+    "details_ko": "‘곧 봐요’는 가까운 시일 내 다시 보자는 의미로 친구나 지인에게 쓰는 가벼운 작별 인사입니다."
+  },
+  {
+    "korean": "연락 부탁드려요",
+    "english": "Please reach out",
+    "details_en": "Say ‘연락 부탁드려요’ (yeollak butakdeuryeoyo) when you want the other person to contact you at their convenience.",
+    "details_ko": "‘연락 부탁드려요’는 편한 시간에 연락해 달라고 정중히 부탁할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "참여해 주셔서 감사합니다",
+    "english": "Thank you for participating",
+    "details_en": "Use ‘참여해 주셔서 감사합니다’ (chamyeohae jusyeoseo gamsahamnida) to formally thank people for taking part in an event or survey.",
+    "details_ko": "‘참여해 주셔서 감사합니다’는 행사나 설문 등에 기꺼이 참여해 준 사람들에게 격식 있게 감사를 전할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "도착하면 알려 주세요",
+    "english": "Let me know when you arrive",
+    "details_en": "‘도착하면 알려 주세요’ (dochakamyeon allyeo juseyo) asks the listener to inform you upon arrival for coordination or safety.",
+    "details_ko": "‘도착하면 알려 주세요’는 목적지에 도착했을 때 연락을 달라고 요청하여 안전이나 일정 조율에 활용하는 표현입니다."
+  },
+  {
+    "korean": "신속히 처리하겠습니다",
+    "english": "I will handle it promptly",
+    "details_en": "Say ‘신속히 처리하겠습니다’ (sinsokhi cheri hagetseumnida) to assure that you will resolve the matter quickly and efficiently.",
+    "details_ko": "‘신속히 처리하겠습니다’는 문제가 생겼을 때 빠르고 효율적으로 해결하겠다고 약속할 때 쓰는 격식 있는 표현입니다."
+  },
+  {
+    "korean": "기대하고 있을게요",
+    "english": "I’m looking forward to it",
+    "details_en": "‘기대하고 있을게요’ (gidae-hago isseulgeyo) shows pleasant anticipation of an upcoming event or result.",
+    "details_ko": "‘기대하고 있을게요’는 다가올 일에 대한 기대와 설렘을 표현할 때 사용하는 친근한 말입니다."
+  },
+  {
+    "korean": "미리 감사드립니다",
+    "english": "Thank you in advance",
+    "details_en": "Use ‘미리 감사드립니다’ (miri gamsadeurimnida) to express gratitude beforehand for help you’re about to receive.",
+    "details_ko": "‘미리 감사드립니다’는 앞으로 받을 도움이나 배려에 대해 미리 고마움을 전하는 정중한 표현입니다."
+  },
+  {
+    "korean": "의견 있으시면 말씀해 주세요",
+    "english": "Please share your thoughts",
+    "details_en": "‘의견 있으시면 말씀해 주세요’ (uigyeon isseusimyeon malsseumhae juseyo) invites feedback during meetings or discussions.",
+    "details_ko": "‘의견 있으시면 말씀해 주세요’는 회의나 토론 중 의견이나 아이디어를 자유롭게 제시해 달라고 권할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "행복한 하루 되세요",
+    "english": "Have a happy day",
+    "details_en": "‘행복한 하루 되세요’ (haengbokhan haru doeseyo) offers a warm wish for someone’s day to be filled with happiness.",
+    "details_ko": "‘행복한 하루 되세요’는 상대방의 하루가 기쁨과 행복으로 가득하길 바라는 따뜻한 인사말입니다."
+  },
+  {
+    "korean": "조금만 더 노력해 봐요",
+    "english": "Let’s try a bit harder",
+    "details_en": "Say ‘조금만 더 노력해 봐요’ (jogeumman deo noryeokhae bwayo) to encourage an extra push toward success.",
+    "details_ko": "‘조금만 더 노력해 봐요’는 목표 달성 직전에 서로 힘을 내서 한 걸음 더 나아가자고 격려할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "도와주실 수 있나요?",
+    "english": "Could you help me?",
+    "details_en": "‘도와주실 수 있나요?’ (dowajusil su innayo?) is a polite request for assistance when you’re in need.",
+    "details_ko": "‘도와주실 수 있나요?’는 도움이 필요할 때 상대방에게 정중하게 도움을 청하는 표현입니다."
+  },
+  {
+    "korean": "필요 없어요, 감사합니다",
+    "english": "No need, thank you",
+    "details_en": "Use ‘필요 없어요, 감사합니다’ (piryo eopseoyo, gamsahamnida) to decline politely while still showing appreciation.",
+    "details_ko": "‘필요 없어요, 감사합니다’는 제안이나 서비스를 정중히 거절하면서도 감사의 뜻을 전할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "이것 좀 봐 주세요",
+    "english": "Please take a look at this",
+    "details_en": "‘이것 좀 봐 주세요’ (igeot jom bwa juseyo) asks someone to review or inspect an item or document.",
+    "details_ko": "‘이것 좀 봐 주세요’는 자료나 물건을 보여 주며 평가나 확인을 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "가능하면 내일 만나요",
+    "english": "Let’s meet tomorrow if possible",
+    "details_en": "Say ‘가능하면 내일 만나요’ (ganeunghamyeon naeil mannayo) to propose a meeting the next day, leaving room for schedule flexibility.",
+    "details_ko": "‘가능하면 내일 만나요’는 상대 일정에 맞춰 내일 만날 수 있는지 제안할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "사진 보내 주셔서 감사합니다",
+    "english": "Thank you for sending the photo",
+    "details_en": "‘사진 보내 주셔서 감사합니다’ (sajin bonae jusyeoseo gamsahamnida) formally thanks someone who shared pictures with you.",
+    "details_ko": "‘사진 보내 주셔서 감사합니다’는 사진을 보내 준 사람에게 격식 있게 감사 인사를 전할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "잘 이해됐나요?",
+    "english": "Did that make sense?",
+    "details_en": "Use ‘잘 이해됐나요?’ (jal ihaedwaennayo?) to confirm whether your explanation was understood.",
+    "details_ko": "‘잘 이해됐나요?’는 설명 후 상대방이 잘 이해했는지 확인하고 싶을 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "제안 감사합니다",
+    "english": "Thank you for the suggestion",
+    "details_en": "‘제안 감사합니다’ (jean gamsahamnida) expresses appreciation for someone’s proposal or idea.",
+    "details_ko": "‘제안 감사합니다’는 아이디어나 조언을 해 준 것에 대해 감사할 때 쓰는 정중한 표현입니다."
+  },
+  {
+    "korean": "업데이트해 주세요",
+    "english": "Please update me",
+    "details_en": "Say ‘업데이트해 주세요’ (eobdeiteu hae juseyo) when you’d like to receive the latest status or version.",
+    "details_ko": "‘업데이트해 주세요’는 최신 정보나 변경 사항을 알려 달라고 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "초대해 주셔서 영광입니다",
+    "english": "I’m honored to be invited",
+    "details_en": "‘초대해 주셔서 영광입니다’ (chodaehae jusyeoseo yeongwang-imnida) humbly thanks a host for an invitation.",
+    "details_ko": "‘초대해 주셔서 영광입니다’는 행사나 모임에 초대해 준 것에 대해 영광스럽게 생각하며 감사할 때 쓰는 격식 있는 표현입니다."
+  },
+  {
+    "korean": "별로예요",
+    "english": "I don’t like it",
+    "details_en": "‘별로예요’ (byeollo-yeyo) politely conveys that something doesn’t appeal to you without sounding harsh.",
+    "details_ko": "‘별로예요’는 음식이나 물건 등이 마음에 들지 않을 때 부드럽게 표현하는 말입니다."
+  },
+  {
+    "korean": "훌륭해요!",
+    "english": "Excellent!",
+    "details_en": "Use ‘훌륭해요!’ (hullyunghaeyo) to enthusiastically praise outstanding work or performance.",
+    "details_ko": "‘훌륭해요!’는 누군가의 성과나 작품이 뛰어날 때 칭찬하며 감탄할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "길게 설명해 주세요",
+    "english": "Please explain in detail",
+    "details_en": "‘길게 설명해 주세요’ (gilge seolmyeonghae juseyo) asks for a more thorough explanation of a topic.",
+    "details_ko": "‘길게 설명해 주세요’는 요약이 아닌 자세하고 깊이 있는 설명을 부탁할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "기다려 주셔서 감사합니다",
+    "english": "Thank you for waiting",
+    "details_en": "Say ‘기다려 주셔서 감사합니다’ (gidalyeo jusyeoseo gamsahamnida) to appreciate someone’s patience after a delay.",
+    "details_ko": "‘기다려 주셔서 감사합니다’는 처리 지연 등으로 상대방이 기다려 준 것에 대해 감사할 때 쓰는 정중한 표현입니다."
+  },
+  {
+    "korean": "곧 끝낼게요",
+    "english": "I’ll finish soon",
+    "details_en": "‘곧 끝낼게요’ (got kkeutnaelgeyo) reassures others that you will wrap up your task shortly.",
+    "details_ko": "‘곧 끝낼게요’는 작업이나 발표가 거의 끝나가니 조금만 더 기다려 달라고 알릴 때 쓰는 말입니다."
+  },
+  {
+    "korean": "제 시간에 도착했어요",
+    "english": "I arrived on time",
+    "details_en": "Use ‘제 시간에 도착했어요’ (je sigan-e dochakhaesseoyo) to state proudly that you were punctual.",
+    "details_ko": "‘제 시간에 도착했어요’는 약속된 시간에 맞춰 도착했음을 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "전혀 문제없어요",
+    "english": "No problem at all",
+    "details_en": "‘전혀 문제없어요’ (jeonhyeo munje eopseoyo) strongly assures that everything is completely fine.",
+    "details_ko": "‘전혀 문제없어요’는 어떤 문제나 걱정이 전혀 없음을 강조할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "중요한 건 아니에요",
+    "english": "It’s not important",
+    "details_en": "Say ‘중요한 건 아니에요’ (jungyohan geon anieyo) to downplay an issue or relieve concern.",
+    "details_ko": "‘중요한 건 아니에요’는 사소한 일에 대해 너무 신경 쓰지 말라고 말할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "메모해 둘게요",
+    "english": "I’ll make a note of it",
+    "details_en": "‘메모해 둘게요’ (memohae dulgeyo) promises to jot something down so it won’t be forgotten.",
+    "details_ko": "‘메모해 둘게요’는 정보를 기억하기 위해 적어 두겠다고 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "내일 다시 연락드릴게요",
+    "english": "I’ll contact you again tomorrow",
+    "details_en": "Use ‘내일 다시 연락드릴게요’ (naeil dasi yeollak deurilgeyo) to set follow-up communication the next day.",
+    "details_ko": "‘내일 다시 연락드릴게요’는 다음 날 다시 연락하겠다고 약속할 때 쓰는 정중한 표현입니다."
+  },
+  {
+    "korean": "사양할게요",
+    "english": "I’ll pass",
+    "details_en": "‘사양할게요’ (sayanghalgeyo) politely declines an offer without offending the other party.",
+    "details_ko": "‘사양할게요’는 음식·제안 등을 정중히 거절할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "언젠가 다시 만나요",
+    "english": "Let’s meet again someday",
+    "details_en": "Say ‘언젠가 다시 만나요’ (eonjenga dasi mannayo) when parting without a fixed next meeting date.",
+    "details_ko": "‘언젠가 다시 만나요’는 정확한 약속은 없지만 언젠가 다시 보자는 의미로 작별할 때 쓰는 인사입니다."
+  },
+  {
+    "korean": "궁금한 점이 있으세요?",
+    "english": "Do you have any questions?",
+    "details_en": "‘궁금한 점이 있으세요?’ (gunggeuman jeomi isseuseyo?) invites the listener to ask questions after a talk.",
+    "details_ko": "‘궁금한 점이 있으세요?’는 설명이나 발표 후 추가 질문이 있는지 정중히 확인할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "포함되어 있나요?",
+    "english": "Is it included?",
+    "details_en": "Use ‘포함되어 있나요?’ (pohamdoee innayo?) when checking if a fee or item is part of the package.",
+    "details_ko": "‘포함되어 있나요?’는 가격이나 서비스 항목에 포함 여부를 확인할 때 사용하는 질문입니다."
+  },
+  {
+    "korean": "확인하는 중이에요",
+    "english": "I’m checking now",
+    "details_en": "‘확인하는 중이에요’ (hwagin haneun jung-ieyo) informs others that you are currently verifying the information.",
+    "details_ko": "‘확인하는 중이에요’는 요청받은 사항을 지금 확인하고 있음을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "첫 번째 시도예요",
+    "english": "This is my first attempt",
+    "details_en": "Say ‘첫 번째 시도예요’ (cheot beonjjae sido-yeyo) to indicate you are trying something for the first time.",
+    "details_ko": "‘첫 번째 시도예요’는 처음 해 보는 일이라 서툴 수 있음을 양해 구할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "앞으로도 잘 부탁드립니다",
+    "english": "I look forward to your continued support",
+    "details_en": "‘앞으로도 잘 부탁드립니다’ (apeurodo jal butak deurimnida) extends gratitude and asks for ongoing cooperation.",
+    "details_ko": "‘앞으로도 잘 부탁드립니다’는 앞으로의 관계에서도 도움과 협력을 부탁하며 겸손히 인사하는 표현입니다."
+  },
+  {
+    "korean": "자료를 공유해 주세요",
+    "english": "Please share the materials",
+    "details_en": "Use ‘자료를 공유해 주세요’ (jaryoreul gongyuhae juseyo) to request documents or files for collaboration.",
+    "details_ko": "‘자료를 공유해 주세요’는 공동 작업을 위해 관련 자료를 전달해 달라고 부탁할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "일정이 바뀌었어요",
+    "english": "The schedule has changed",
+    "details_en": "‘일정이 바뀌었어요’ (iljeongi bakkwieosseoyo) informs participants that the timetable or plan has been altered.",
+    "details_ko": "‘일정이 바뀌었어요’는 회의나 행사 등의 날짜·시간이 변경되었음을 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "환영해요",
+    "english": "Welcome!",
+    "details_en": "Say ‘환영해요’ (hwanyeonghaeyo) to warmly greet newcomers to a group or place.",
+    "details_ko": "‘환영해요’는 새로운 사람을 맞이하거나 방문객을 따뜻하게 환영할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "갈 준비됐어요",
+    "english": "I’m ready to go",
+    "details_en": "‘갈 준비됐어요’ (gal junbidwaesseoyo) states that you are fully prepared to leave or depart.",
+    "details_ko": "‘갈 준비됐어요’는 외출이나 이동할 준비가 끝났음을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "자리 잡았어요",
+    "english": "I’ve taken a seat",
+    "details_en": "Use ‘자리 잡았어요’ (jari jabasseoyo) to tell friends you’re already seated at a venue.",
+    "details_ko": "‘자리 잡았어요’는 약속 장소에 먼저 도착해 자리를 확보했음을 알릴 때 사용하는 말입니다."
+  },
+  {
+    "korean": "예약이 취소됐어요",
+    "english": "The reservation was canceled",
+    "details_en": "‘예약이 취소됐어요’ (yeyagi chwiso dwaesseoyo) informs that a booking is no longer valid.",
+    "details_ko": "‘예약이 취소됐어요’는 호텔·식당 등 예약이 취소되었음을 알리거나 확인할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "사용 기간이 끝났어요",
+    "english": "The usage period has expired",
+    "details_en": "Say ‘사용 기간이 끝났어요’ (sayong gigani kkeunnasseoyo) when a subscription or license has lapsed.",
+    "details_ko": "‘사용 기간이 끝났어요’는 서비스나 라이선스의 이용 기간이 만료되었음을 알릴 때 쓰는 말입니다."
+  },
+  {
+    "korean": "연결이 안 돼요",
+    "english": "I can’t connect",
+    "details_en": "‘연결이 안 돼요’ (yeongyeori an dwaeyo) reports failure to establish a network or device connection.",
+    "details_ko": "‘연결이 안 돼요’는 인터넷·블루투스 등 연결이 되지 않을 때 문제를 알리는 표현입니다."
+  },
+  {
+    "korean": "연결됐어요",
+    "english": "It’s connected",
+    "details_en": "Use ‘연결됐어요’ (yeongyeol dwaesseoyo) to confirm a successful connection has been established.",
+    "details_ko": "‘연결됐어요’는 기기나 네트워크 연결이 정상적으로 이루어졌음을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "업데이트가 필요해요",
+    "english": "An update is needed",
+    "details_en": "Say ‘업데이트가 필요해요’ (eobdeiteuga piryohaeyo) when software or information must be refreshed.",
+    "details_ko": "‘업데이트가 필요해요’는 프로그램이나 자료를 최신 상태로 변경해야 함을 알릴 때 사용하는 말입니다."
+  },
+  {
+    "korean": "지금 바로 가능해요",
+    "english": "I can do it right now",
+    "details_en": "‘지금 바로 가능해요’ (jigeum baro ganeunghaeyo) assures immediate availability to help or act.",
+    "details_ko": "‘지금 바로 가능해요’는 요청 사항을 즉시 처리할 수 있음을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "다음 주에 뵐게요",
+    "english": "See you next week",
+    "details_en": "Use ‘다음 주에 뵐게요’ (daeum jue boelgeyo) to set a polite meeting for the following week.",
+    "details_ko": "‘다음 주에 뵐게요’는 일주일 뒤 다시 만나자는 약속을 정중히 표현할 때 쓰는 인사입니다."
+  },
+  {
+    "korean": "건배!",
+    "english": "Cheers!",
+    "details_en": "Shout ‘건배!’ (geonbae!) when toasting drinks to celebrate or honor an occasion.",
+    "details_ko": "‘건배!’는 술자리에서 잔을 부딪치며 축하나 기원을 외칠 때 사용하는 표현입니다."
+  },
+    {
+    "korean": "동의해요",
+    "english": "I agree",
+    "details_en": "'동의해요' (dong-uihaeyo) politely expresses agreement with someone’s opinion or suggestion.",
+    "details_ko": "'동의해요'는 상대방의 의견이나 제안에 찬성함을 공손히 밝힐 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "반대합니다",
+    "english": "I disagree",
+    "details_en": "'반대합니다' (bandaehamnida) formally indicates disagreement while maintaining respect.",
+    "details_ko": "'반대합니다'는 정중한 태도로 의견에 반대 의사를 표할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "진정하세요",
+    "english": "Please calm down",
+    "details_en": "'진정하세요' (jinjeonghaseyo) gently asks someone to relax when emotions run high.",
+    "details_ko": "'진정하세요'는 감정이 격해진 상황에서 침착함을 되찾도록 권할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "비밀로 해 주세요",
+    "english": "Please keep it secret",
+    "details_en": "'비밀로 해 주세요' (bimillo hae juseyo) requests confidentiality about shared information.",
+    "details_ko": "'비밀로 해 주세요'는 전한 내용을 다른 사람에게 알리지 말라고 부탁할 때 사용합니다."
+  },
+  {
+    "korean": "긴급 상황이에요",
+    "english": "It's an emergency",
+    "details_en": "'긴급 상황이에요' (gingeup sanghwang-ieyo) alerts others that urgent action is required.",
+    "details_ko": "'긴급 상황이에요'는 즉각적인 대응이 필요한 위급 상황을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "바로 돌아올게요",
+    "english": "I'll return immediately",
+    "details_en": "'바로 돌아올게요' (baro doraolgeyo) promises to come back right away after stepping out.",
+    "details_ko": "'바로 돌아올게요'는 잠시 자리를 비우지만 곧 돌아오겠다고 알릴 때 사용하는 말입니다."
+  },
+  {
+    "korean": "처음 듣는 얘기예요",
+    "english": "That's new to me",
+    "details_en": "'처음 듣는 얘기예요' (cheoeum deutneun yaegieyo) shows surprise at unfamiliar information.",
+    "details_ko": "'처음 듣는 얘기예요'는 처음 접한 소식이나 사실에 놀라움을 표현할 때 씁니다."
+  },
+  {
+    "korean": "몰랐어요",
+    "english": "I didn't know",
+    "details_en": "'몰랐어요' (mollasseoyo) admits lack of prior awareness about something just mentioned.",
+    "details_ko": "'몰랐어요'는 방금 알게 된 사실에 대해 이전에는 알지 못했음을 전할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "다음에 다시 시도해요",
+    "english": "Let's try again later",
+    "details_en": "'다음에 다시 시도해요' (da-eume dasi sidohaeyo) suggests postponing an attempt for better results.",
+    "details_ko": "'다음에 다시 시도해요'는 지금은 어려우니 나중에 재도전하자고 제안할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "상관없어요",
+    "english": "It doesn't matter",
+    "details_en": "'상관없어요' (sanggwan eopseoyo) tells others that either option or outcome is acceptable.",
+    "details_ko": "'상관없어요'는 어느 쪽이든 괜찮아 특별한 선호가 없음을 밝힐 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "상상도 못했어요",
+    "english": "I never imagined",
+    "details_en": "'상상도 못했어요' (sangsangdo mothaesseoyo) expresses great surprise at an unexpected event.",
+    "details_ko": "'상상도 못했어요'는 전혀 예상치 못한 일이 벌어졌을 때 놀라움을 나타내는 말입니다."
+  },
+  {
+    "korean": "이번이 마지막이에요",
+    "english": "This is the last time",
+    "details_en": "'이번이 마지막이에요' (ibeoni majimak-ieyo) states firmly that no further repetitions will follow.",
+    "details_ko": "'이번이 마지막이에요'는 같은 일을 다시 하지 않겠다고 단호히 말할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "시간이 걸릴 거예요",
+    "english": "It will take time",
+    "details_en": "'시간이 걸릴 거예요' (sigani geollil geoyeyo) warns that a task or process won't finish quickly.",
+    "details_ko": "'시간이 걸릴 거예요'는 일정이 지연될 수 있음을 미리 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "방법이 있을까요?",
+    "english": "Is there a way?",
+    "details_en": "'방법이 있을까요?' (bangbeobi isseulkkayo?) politely asks for possible solutions.",
+    "details_ko": "'방법이 있을까요?'는 문제 해결책을 함께 고민하고자 할 때 정중히 묻는 표현입니다."
+  },
+  {
+    "korean": "대안이 있나요?",
+    "english": "Are there alternatives?",
+    "details_en": "'대안이 있나요?' (daeani innayo?) inquires about other options to consider.",
+    "details_ko": "'대안이 있나요?'는 제안된 방안 외에 다른 선택지가 있는지 물을 때 사용하는 말입니다."
+  },
+  {
+    "korean": "의견을 존중합니다",
+    "english": "I respect your opinion",
+    "details_en": "'의견을 존중합니다' (uigyeoneul jonjunghamnida) acknowledges and honors another person’s viewpoint.",
+    "details_ko": "'의견을 존중합니다'는 상대방의 생각을 인정하고 배려함을 전할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "설명이 필요해요",
+    "english": "I need an explanation",
+    "details_en": "'설명이 필요해요' (seolmyeongi piryohaeyo) requests clarification for better understanding.",
+    "details_ko": "'설명이 필요해요'는 내용을 제대로 파악하기 위해 추가 설명을 부탁할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "자료가 부족해요",
+    "english": "We lack data",
+    "details_en": "'자료가 부족해요' (jaryoga bujokhaeyo) indicates insufficient information to proceed confidently.",
+    "details_ko": "'자료가 부족해요'는 결정을 내리기에 필요한 데이터가 부족함을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "준비 시간 주세요",
+    "english": "Please give me time to prepare",
+    "details_en": "'준비 시간 주세요' (junbi sigan juseyo) asks politely for additional prep time.",
+    "details_ko": "'준비 시간 주세요'는 작업 전 준비할 시간을 더 달라고 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "결과를 알려 주세요",
+    "english": "Let me know the result",
+    "details_en": "'결과를 알려 주세요' (gyeolgwareul allyeo juseyo) requests notification once an outcome is known.",
+    "details_ko": "'결과를 알려 주세요'는 일이 끝난 뒤 결과를 전달해 달라고 부탁할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "참여해도 될까요?",
+    "english": "May I join?",
+    "details_en": "'참여해도 될까요?' (chamyeohaedo doelkkayo?) politely asks permission to take part in an activity.",
+    "details_ko": "'참여해도 될까요?'는 모임이나 프로젝트에 참여해도 되는지 정중히 묻는 표현입니다."
+  },
+  {
+    "korean": "도전해 볼까요?",
+    "english": "Shall we try?",
+    "details_en": "'도전해 볼까요?' (dojeonhae bolkkayo?) suggests attempting something new together.",
+    "details_ko": "'도전해 볼까요?'는 새로운 일에 함께 도전하자고 제안할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "불편을 드려 죄송합니다",
+    "english": "Sorry for the inconvenience",
+    "details_en": "'불편을 드려 죄송합니다' (bulpyeoneul deuryeo joesonghamnida) is a formal apology for causing trouble.",
+    "details_ko": "'불편을 드려 죄송합니다'는 이용자나 고객에게 불편을 끼쳤을 때 사과할 때 쓰는 정중한 표현입니다."
+  },
+  {
+    "korean": "확인 즉시 연락드리겠습니다",
+    "english": "I'll contact you once I confirm",
+    "details_en": "'확인 즉시 연락드리겠습니다' (hwagin jeuksi yeollak deurigetseumnida) promises prompt follow-up after verification.",
+    "details_ko": "'확인 즉시 연락드리겠습니다'는 내용을 확인한 뒤 바로 연락하겠다고 약속할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "지금은 곤란해요",
+    "english": "It's difficult right now",
+    "details_en": "'지금은 곤란해요' (jigeumeun gollanhaeyo) politely declines because timing is inconvenient.",
+    "details_ko": "'지금은 곤란해요'는 현재 상황상 요청을 들어주기 힘들 때 정중히 거절하는 표현입니다."
+  },
+  {
+    "korean": "늦게까지 일했어요",
+    "english": "I worked late",
+    "details_en": "'늦게까지 일했어요' (neutgekkaji ilhaesseoyo) explains fatigue or unavailability due to overtime.",
+    "details_ko": "'늦게까지 일했어요'는 야근으로 인해 피곤하거나 일정이 지연됐음을 알릴 때 쓰는 말입니다."
+  },
+  {
+    "korean": "휴가가 필요해요",
+    "english": "I need a vacation",
+    "details_en": "'휴가가 필요해요' (hyugaga piryohaeyo) states the need for a break to rest and recharge.",
+    "details_ko": "'휴가가 필요해요'는 업무 스트레스 해소나 휴식을 위해 휴가가 필요함을 전할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "혼자 있고 싶어요",
+    "english": "I want to be alone",
+    "details_en": "'혼자 있고 싶어요' (honja itgo sip-eoyo) expresses desire for solitude to think or rest.",
+    "details_ko": "'혼자 있고 싶어요'는 조용히 혼자만의 시간이 필요함을 전할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "같이 공부할래요?",
+    "english": "Do you want to study together?",
+    "details_en": "'같이 공부할래요?' (gachi gongbu hallaeyo?) invites a peer to join a study session.",
+    "details_ko": "'같이 공부할래요?'는 공부를 함께 하며 시너지 내자고 제안할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "다른 의견 있으신가요?",
+    "english": "Does anyone have a different opinion?",
+    "details_en": "'다른 의견 있으신가요?' (dareun uigyeon isseusinkayo?) opens the floor for alternative views in discussion.",
+    "details_ko": "'다른 의견 있으신가요?'는 회의나 토론에서 다양한 의견을 수렴하고자 할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "자세히 들어 볼게요",
+    "english": "I'll listen carefully",
+    "details_en": "'자세히 들어 볼게요' (jasehi deureo bolgeyo) shows willingness to pay close attention.",
+    "details_ko": "'자세히 들어 볼게요'는 상대의 말을 세심하게 듣겠다는 의지를 표현할 때 사용합니다."
+  },
+  {
+    "korean": "시간이 맞지 않아요",
+    "english": "The timing doesn't work",
+    "details_en": "'시간이 맞지 않아요' (sigani matji anayo) explains scheduling conflict politely.",
+    "details_ko": "'시간이 맞지 않아요'는 약속 시간을 조정해야 함을 알릴 때 쓰는 말입니다."
+  },
+  {
+    "korean": "예산을 초과했어요",
+    "english": "The budget was exceeded",
+    "details_en": "'예산을 초과했어요' (yesaneul chogwa haesseoyo) reports costs have gone over the planned budget.",
+    "details_ko": "'예산을 초과했어요'는 지출이 예산을 넘어섰음을 알려 대책이 필요함을 전할 때 사용합니다."
+  },
+  {
+    "korean": "수정해 주세요",
+    "english": "Please revise it",
+    "details_en": "'수정해 주세요' (sujeonghae juseyo) requests edits or corrections to a document or plan.",
+    "details_ko": "'수정해 주세요'는 문서나 일정 등을 수정해 달라고 정중히 부탁하는 표현입니다."
+  },
+  {
+    "korean": "업데이트 완료됐어요",
+    "english": "The update is complete",
+    "details_en": "'업데이트 완료됐어요' (eobdeiteu wanryo dwaesseoyo) notifies others that updating finished successfully.",
+    "details_ko": "'업데이트 완료됐어요'는 프로그램이나 자료가 최신 상태로 갱신되었음을 알릴 때 쓰는 말입니다."
+  },
+  {
+    "korean": "시스템을 재시작하세요",
+    "english": "Please restart the system",
+    "details_en": "'시스템을 재시작하세요' (siseutemeul jaesijak haseyo) instructs users to reboot devices for changes to apply.",
+    "details_ko": "'시스템을 재시작하세요'는 업데이트 후 변경 사항을 적용하기 위해 재부팅을 권할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "비밀번호를 잊어버렸어요",
+    "english": "I forgot my password",
+    "details_en": "'비밀번호를 잊어버렸어요' (bimilbeonhoreul ijeobeoryeosseoyo) states you can’t recall login credentials and need help.",
+    "details_ko": "'비밀번호를 잊어버렸어요'는 계정 비밀번호를 잊어 초기화가 필요함을 알릴 때 쓰는 말입니다."
+  },
+  {
+    "korean": "다시 로그인해 보세요",
+    "english": "Please try logging in again",
+    "details_en": "'다시 로그인해 보세요' (dasi rogeuin hae boseyo) suggests re-signing in to resolve minor access issues.",
+    "details_ko": "'다시 로그인해 보세요'는 접속 오류 발생 시 재로그인을 안내할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "기록해 두세요",
+    "english": "Please record it",
+    "details_en": "'기록해 두세요' (girokhae duseyo) asks someone to write down information for future reference.",
+    "details_ko": "'기록해 두세요'는 나중에 참조할 수 있도록 메모를 남겨 달라고 부탁할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "계약서를 검토해 주세요",
+    "english": "Please review the contract",
+    "details_en": "'계약서를 검토해 주세요' (gyeyakseoreul geomto hae juseyo) requests legal or content review before signing.",
+    "details_ko": "'계약서를 검토해 주세요'는 계약 체결 전 내용 확인을 부탁할 때 사용하는 말입니다."
+  },
+  {
+    "korean": "서명 부탁드립니다",
+    "english": "Please sign",
+    "details_en": "'서명 부탁드립니다' (seomyeong butak deurimnida) politely asks for a signature on a document.",
+    "details_ko": "'서명 부탁드립니다'는 서류나 계약서에 서명을 요청할 때 쓰는 격식 있는 표현입니다."
+  },
+  {
+    "korean": "인쇄해 주세요",
+    "english": "Please print it",
+    "details_en": "'인쇄해 주세요' (inswae hae juseyo) asks for a hard copy of a file or document.",
+    "details_ko": "'인쇄해 주세요'는 문서를 출력해 달라고 부탁할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "배송이 지연됐어요",
+    "english": "The delivery is delayed",
+    "details_en": "'배송이 지연됐어요' (baesongi jiyeon dwaesseoyo) informs customers that shipping will arrive later than planned.",
+    "details_ko": "'배송이 지연됐어요'는 택배나 물품 배송이 예정보다 늦어졌음을 알릴 때 쓰는 말입니다."
+  },
+  {
+    "korean": "주소를 알려 주세요",
+    "english": "Please provide the address",
+    "details_en": "'주소를 알려 주세요' (jusoreul allyeo juseyo) requests location details for sending items or visiting.",
+    "details_ko": "'주소를 알려 주세요'는 물건 배송이나 방문을 위해 정확한 주소를 부탁할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "문의해 주셔서 감사합니다",
+    "english": "Thank you for your inquiry",
+    "details_en": "'문의해 주셔서 감사합니다' (munuihae jusyeoseo gamsahamnida) formally thanks someone for reaching out with questions.",
+    "details_ko": "'문의해 주셔서 감사합니다'는 상담이나 문의를 해 준 고객에게 감사 인사를 전할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "다음 단계로 넘어가죠",
+    "english": "Let's move to the next step",
+    "details_en": "'다음 단계로 넘어가죠' (daeum danggyero neomeogajyo) encourages progressing the workflow or discussion.",
+    "details_ko": "'다음 단계로 넘어가죠'는 절차나 프로젝트가 순조롭게 이어지도록 다음 단계를 제안할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "회의를 연기할까요?",
+    "english": "Shall we postpone the meeting?",
+    "details_en": "'회의를 연기할까요?' (hoeuirul yeongi halkkayo?) proposes delaying a meeting due to conflicts.",
+    "details_ko": "'회의를 연기할까요?'는 일정 변경이 필요할 때 회의 연기를 제안하는 정중한 표현입니다."
+  },
+  {
+    "korean": "참석이 어려워요",
+    "english": "I can't attend",
+    "details_en": "'참석이 어려워요' (chamseogi eoryeowoyo) politely declines an invitation because attendance is difficult.",
+    "details_ko": "'참석이 어려워요'는 개인 사정이나 일정으로 참석이 불가함을 알릴 때 쓰는 말입니다."
+  },
+  {
+    "korean": "대신 전해 주세요",
+    "english": "Please pass it on",
+    "details_en": "'대신 전해 주세요' (daesin jeonhae juseyo) asks someone to convey a message on your behalf.",
+    "details_ko": "'대신 전해 주세요'는 직접 전달이 어려울 때 메시지를 대신 전달해 달라고 요청할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "잘 작동해요",
+    "english": "It works well",
+    "details_en": "'잘 작동해요' (jal jakdonghaeyo) confirms that a device or feature functions correctly.",
+    "details_ko": "'잘 작동해요'는 기기나 시스템이 문제없이 작동함을 알릴 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "작동하지 않아요",
+    "english": "It doesn't work",
+    "details_en": "'작동하지 않아요' (jakdonghaji anayo) reports malfunction of equipment or software.",
+    "details_ko": "'작동하지 않아요'는 기기가 고장 나거나 프로그램이 실행되지 않을 때 사용합니다."
+  },
+  {
+    "korean": "신속한 답변 부탁드립니다",
+    "english": "Please respond quickly",
+    "details_en": "'신속한 답변 부탁드립니다' (sinsokhan dapbyeon butak deurimnida) urges a prompt reply in formal correspondence.",
+    "details_ko": "'신속한 답변 부탁드립니다'는 빠른 회신이 필요할 때 격식을 갖추어 요청하는 표현입니다."
+  },
+  {
+    "korean": "기대에 부응하겠습니다",
+    "english": "I'll meet your expectations",
+    "details_en": "'기대에 부응하겠습니다' (gidae-e buunghagetseumnida) pledges to live up to standards or hopes.",
+    "details_ko": "'기대에 부응하겠습니다'는 상대방의 기대를 충족시키도록 노력하겠다고 다짐할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "사진 잘 나왔어요",
+    "english": "The photo turned out well",
+    "details_en": "'사진 잘 나왔어요' (sajin jal nawasseoyo) compliments a picture’s quality or composition.",
+    "details_ko": "'사진 잘 나왔어요'는 찍은 사진이 만족스럽게 나왔음을 칭찬하거나 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "위치를 공유해 주세요",
+    "english": "Please share your location",
+    "details_en": "'위치를 공유해 주세요' (wichireul gongyuhae juseyo) asks someone to send their GPS or map pin.",
+    "details_ko": "'위치를 공유해 주세요'는 만남이나 배송을 위해 위치 정보를 제공해 달라고 요청할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "곧 출발할게요",
+    "english": "I'll depart soon",
+    "details_en": "'곧 출발할게요' (got chulbalhalgeyo) informs others you will leave shortly.",
+    "details_ko": "'곧 출발할게요'는 약속 장소를 향해 곧 출발하겠다고 알릴 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "건강 조심하세요",
+    "english": "Take care of your health",
+    "details_en": "'건강 조심하세요' (geongang josimhaseyo) wishes someone to stay healthy, especially during outbreaks or stress.",
+    "details_ko": "'건강 조심하세요'는 감기나 코로나 등 건강이 우려될 때 조심하라고 당부하는 말입니다."
+  },
+  {
+    "korean": "마음에 드시나요?",
+    "english": "Do you like it?",
+    "details_en": "'마음에 드시나요?' (maeume deusinayo?) politely asks if something meets the listener’s taste or preference.",
+    "details_ko": "'마음에 드시나요?'는 상품·서비스 등이 만족스러운지 정중히 확인할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "작품이 멋져요",
+    "english": "The work is wonderful",
+    "details_en": "'작품이 멋져요' (jakpumi meotjyeoyo) praises artwork, writing, or any creative output.",
+    "details_ko": "'작품이 멋져요'는 예술 작품이나 결과물이 인상적일 때 칭찬하는 표현입니다."
+  },
+  {
+    "korean": "날짜를 확인해 주세요",
+    "english": "Please confirm the date",
+    "details_en": "'날짜를 확인해 주세요' (naljjareul hwagin hae juseyo) asks a party to verify scheduled dates.",
+    "details_ko": "'날짜를 확인해 주세요'는 일정이나 마감 기한을 다시 확인해 달라고 요청할 때 쓰는 말입니다."
+  },
+  {
+    "korean": "비용이 얼마인가요?",
+    "english": "How much does it cost?",
+    "details_en": "'비용이 얼마인가요?' (biyongi eolmaingayo?) inquires about total expense for goods or services.",
+    "details_ko": "'비용이 얼마인가요?'는 전체 비용이나 요금을 정중히 물어볼 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "길게 기다리셨죠?",
+    "english": "You waited long, didn't you?",
+    "details_en": "'길게 기다리셨죠?' (gilge gidalisyeotjyo?) shows empathy for someone who has waited a while.",
+    "details_ko": "'길게 기다리셨죠?'는 상대방의 긴 대기 시간을 이해하고 배려할 때 쓰는 표현입니다."
+  },
+  {
+    "korean": "좋은 소식이 있어요",
+    "english": "I have good news",
+    "details_en": "'좋은 소식이 있어요' (joeun sosigi isseoyo) introduces positive information enthusiastically.",
+    "details_ko": "'좋은 소식이 있어요'는 기쁜 소식을 전하거나 공유할 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "슬픈 소식이 있어요",
+    "english": "I have sad news",
+    "details_en": "'슬픈 소식이 있어요' (seulpeun sosigi isseoyo) gently prepares the listener for unfortunate news.",
+    "details_ko": "'슬픈 소식이 있어요'는 안타까운 소식을 전달하기 전 조심스럽게 말을 꺼낼 때 사용하는 표현입니다."
+  },
+  {
+    "korean": "편안한 밤 되세요",
+    "english": "Have a relaxing night",
+    "details_en": "'편안한 밤 되세요' (pyeonanan bam doeseyo) offers a warm wish for a restful evening.",
+    "details_ko": "'편안한 밤 되세요'는 밤에 헤어질 때 상대방이 편히 쉬기를 바라는 인사말입니다."
+  }
+]
+

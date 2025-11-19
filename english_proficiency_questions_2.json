@@ -1,0 +1,342 @@
+[
+  {
+    "question": "Choose the correct plural form of the noun \"criterion.\"",
+    "options": ["criterions", "criteria", "criterium", "criterias"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the sentence that correctly distinguishes \"amount\" from \"number\" in British usage.",
+    "options": [
+      "A large amount of people attended the match.",
+      "A large number of people attended the match.",
+      "A large amount of books were sold.",
+      "There was a huge number of rainfall last night."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the gap: \"I have known him ___ 2010.\"",
+    "options": ["for", "since", "from", "by"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which spelling is correct for the noun in British English?",
+    "options": ["driver’s license", "driver’s licence", "driver’s licance", "driver’s lizence"],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the synonym closest in meaning to \"concise.\"",
+    "options": ["verbose", "succinct", "vague", "elaborate"],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct comparative: \"This puzzle is ___ than that one.\"",
+    "options": ["difficult", "more difficult", "difficulter", "most difficult"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence is in the active voice?",
+    "options": [
+      "The cake was eaten by the children.",
+      "The children ate the cake.",
+      "The cake has been eaten by the children.",
+      "The cake is being eaten by the children."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the correct article: \"It will take ___ hour to get there.\"",
+    "options": ["a", "an", "the", "no article"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which word is an antonym of \"optimistic\"?",
+    "options": ["hopeful", "sanguine", "pessimistic", "buoyant"],
+    "answer_index": 2
+  },
+  {
+    "question": "Identify the figure of speech in the phrase \"Bang! Crash! The gates flew open.\"",
+    "options": ["Onomatopoeia", "Metaphor", "Irony", "Oxymoron"],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct tag question: \"He arrived early, ___?\"",
+    "options": ["did he", "didn’t he", "hasn’t he", "doesn’t he"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the correctly punctuated possessive noun.",
+    "options": ["The womens rights movement", "The women's rights movement", "The womens' rights movement", "The womens's rights movement"],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the blank: \"He succeeded ___ sheer determination.\"",
+    "options": ["for", "by", "through", "of"],
+    "answer_index": 2
+  },
+  {
+    "question": "Identify the dangling modifier.",
+    "options": [
+      "Having finished the report, the printer was switched off.",
+      "Having finished the report, she switched off the printer.",
+      "She switched off the printer after finishing the report.",
+      "After she finished the report, she switched off the printer."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the phrasal verb that means \"investigate\": \"We must ___ the complaint.\"",
+    "options": ["look after", "look into", "look over", "look out"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which spelling is correct in British English?",
+    "options": ["odor", "odour", "oder", "odouer"],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the tense: \"They had been working on the project for months before it was cancelled.\"",
+    "options": ["Past perfect", "Past perfect continuous", "Past continuous", "Present perfect continuous"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the sentence that correctly uses the mandative subjunctive (British usage).",
+    "options": [
+      "It is vital that she be informed immediately.",
+      "It is vital that she is informed immediately.",
+      "It is vital that she will be informed immediately.",
+      "It is vital that she should informed immediately."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correctly ordered adjectives.",
+    "options": [
+      "A small square wooden table",
+      "A wooden small square table",
+      "A square small wooden table",
+      "A wooden square small table"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the idiom that means \"to pursue a mistaken course.\"",
+    "options": ["Bark up the wrong tree", "Let sleeping dogs lie", "Every dog has its day", "Dog-eat-dog"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which option contains a gerund phrase?",
+    "options": [
+      "To read ancient texts is challenging.",
+      "Reading ancient texts is challenging.",
+      "Read ancient texts carefully.",
+      "He has read ancient texts."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct reported-speech transformation: She said, \"I must leave early.\"",
+    "options": [
+      "She said she had to leave early.",
+      "She said she must leave early.",
+      "She said she should leave early.",
+      "She said she have to leave early."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which word is spelled incorrectly in British English?",
+    "options": ["accommodation", "millennium", "apparant", "maintenance"],
+    "answer_index": 2
+  },
+  {
+    "question": "What part of speech is the word \"fast\" in the sentence \"He runs fast\"?",
+    "options": ["noun", "adjective", "adverb", "verb"],
+    "answer_index": 2
+  },
+  {
+    "question": "Select the Type 3 conditional sentence.",
+    "options": [
+      "If you practise, you will improve.",
+      "If you had practised, you would have improved.",
+      "If you practised, you would improve.",
+      "If you practise, you improve."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the sentence with correct subject-verb agreement (collective noun).",
+    "options": [
+      "The government are debating the issue this evening.",
+      "The government is debating the issue this evening.",
+      "The government has debate the issue this evening.",
+      "The government were debates the issue this evening."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correct preposition: \"She is very good ___ mathematics.\"",
+    "options": ["in", "on", "at", "with"],
+    "answer_index": 2
+  },
+  {
+    "question": "Choose the sentence that correctly uses the Oxford comma (where allowed).",
+    "options": [
+      "For the picnic we packed sandwiches, juice, and biscuits.",
+      "For the picnic we packed sandwiches, juice and, biscuits.",
+      "For the picnic we packed sandwiches, juice and biscuits.",
+      "For the picnic, we packed sandwiches and juice, and biscuits."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the literary device used predominantly to hint at future events in a narrative.",
+    "options": ["Foreshadowing", "Alliteration", "Litotes", "Euphemism"],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct object pronoun: \"The professor to ___ I spoke was helpful.\"",
+    "options": ["who", "whom", "which", "that"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the sentence that correctly uses a semi-colon.",
+    "options": [
+      "She loves skiing; whereas he prefers snowboarding.",
+      "She loves skiing; he prefers snowboarding.",
+      "She loves skiing, he prefers snowboarding.",
+      "She loves skiing: he prefers; snowboarding."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the phrasal verb that means \"to mention or raise a topic.\"",
+    "options": ["bring about", "bring back", "bring up", "bring in"],
+    "answer_index": 2
+  },
+  {
+    "question": "Select the correctly punctuated line of dialogue in British style.",
+    "options": [
+      "“Are you joining us tomorrow?” she asked.",
+      "“Are you joining us tomorrow?”, she asked.",
+      "“Are you joining us tomorrow?”, asked she.",
+      "“Are you joining us tomorrow”? she asked."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct plural form of \"analysis.\"",
+    "options": ["analysises", "analyses", "analysis", "analysiseses"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the word that correctly completes the sentence: \"She acted on the ___ that honesty is the best policy.\"",
+    "options": ["principle", "principal", "principel", "principle"],
+    "answer_index": 0
+  },
+  {
+    "question": "Who wrote the play *Pygmalion*?",
+    "options": ["Oscar Wilde", "George Bernard Shaw", "T. S. Eliot", "Noël Coward"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the sentence that avoids a comma splice.",
+    "options": [
+      "It was raining heavily, we decided to stay indoors.",
+      "It was raining heavily; we decided to stay indoors.",
+      "It was raining heavily, therefore, we decided to stay indoors.",
+      "It was raining heavily, and we decided, to stay indoors."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct perfect infinitive to complete the sentence: \"They appear ___ the keynote address.\"",
+    "options": ["to miss", "to have missed", "to be missing", "to missed"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence best paraphrases: \"No sooner had she spoken than the room fell silent.\"",
+    "options": [
+      "She spoke after the room fell silent.",
+      "The room fell silent immediately after she spoke.",
+      "The room fell silent long before she spoke.",
+      "She spoke because the room fell silent."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the gap with an appropriate discourse marker: \"___ the evidence, the committee reached a unanimous verdict.\"",
+    "options": ["In view of", "Because", "So that", "Since"],
+    "answer_index": 0
+  },
+  {
+    "question": "In British English, which phrasal verb means \"to discontinue gradually\"?",
+    "options": ["phase out", "phase up", "phase in", "phase off"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the sentence that correctly uses *whom* in formal British English.",
+    "options": [
+      "Whom did you invite to the ceremony?",
+      "Who did you invite to the ceremony?",
+      "Whom you invited to the ceremony?",
+      "Who did you invite whom to the ceremony?"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the elliptical conditional sentence.",
+    "options": [
+      "Had I received the letter, I would have replied.",
+      "If I receive the letter, I will reply.",
+      "If I had received the letter, I would reply.",
+      "If I receiving the letter, I reply."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which modernist writer is celebrated for the *stream of consciousness* technique in *Ulysses*?",
+    "options": ["James Joyce", "E. M. Forster", "D. H. Lawrence", "Graham Greene"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correct definition of the idiom \"to spill the beans.\"",
+    "options": ["Cause disappointment", "Reveal confidential information", "Complain loudly", "Assist generously"],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the clause type in italics: \"He won the prize, *which surprised everyone*.\"",
+    "options": ["Defining relative clause", "Non-defining relative clause", "Adverbial clause", "Conditional clause"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence correctly uses a fronted negative for emphasis?",
+    "options": [
+      "Never have I tasted such exquisite chocolate.",
+      "I never have tasted such exquisite chocolate.",
+      "I have tasted such exquisite chocolate never.",
+      "I tasted never such exquisite chocolate."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Fill in the collocation: \"She made a ___ apology after the incident.\"",
+    "options": ["hard-line", "heartfelt", "long-term", "far-fetched"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the sentence that demonstrates correct cleft construction for emphasis.",
+    "options": [
+      "What I enjoyed most was the dessert.",
+      "It enjoyed most was the dessert what I did.",
+      "The dessert, it was what I enjoyed most.",
+      "I enjoyed most what was the dessert."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Read the excerpt and answer the inference question:\n\n*“Mist seeped across the moor, muffling the heather and blotting out the horizon.”*\n\nWhat mood is the writer most likely trying to convey?",
+    "options": ["Serene contentment", "Eerie uncertainty", "Festive excitement", "Triumphant joy"],
+    "answer_index": 1
+  }
+]

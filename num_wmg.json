@@ -1,0 +1,20 @@
+[
+  { "word": "열", "definition": "10" },
+  { "word": "스물", "definition": "20" },
+  { "word": "서른", "definition": "30" },
+  { "word": "마흔", "definition": "40" },
+  { "word": "쉰", "definition": "50" },
+  { "word": "예순", "definition": "60" },
+  { "word": "일흔", "definition": "70" },
+  { "word": "여든", "definition": "80" },
+  { "word": "아흔", "definition": "90" },
+  { "word": "십", "definition": "10" },
+  { "word": "백", "definition": "100" },
+  { "word": "천", "definition": "1,000" },
+  { "word": "만", "definition": "10,000" },
+  { "word": "십만", "definition": "100,000" },
+  { "word": "백만", "definition": "1,000,000" },
+  { "word": "천만", "definition": "10,000,000" },
+  { "word": "억", "definition": "100,000,000" },
+  { "word": "십억", "definition": "1,000,000,000" }
+]

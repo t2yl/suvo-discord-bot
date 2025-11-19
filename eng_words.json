@@ -1,0 +1,1702 @@
+[
+  {
+    "word": "Morning",
+    "pronunciation": "MAW-ning",
+    "meaning": "the early part of the day between sunrise and midday"
+  },
+  {
+    "word": "Serendipity",
+    "pronunciation": "seh-ruhn-DIP-ih-tee",
+    "meaning": "the occurrence of events by chance in a beneficial way"
+  },
+  {
+    "word": "Resilience",
+    "pronunciation": "ri-ZIL-ee-uhns",
+    "meaning": "the capacity to recover quickly from difficulties"
+  },
+  {
+    "word": "Quintessential",
+    "pronunciation": "kwin-ti-SEN-shuhl",
+    "meaning": "representing the most perfect or typical example of a quality"
+  },
+  {
+    "word": "Benevolent",
+    "pronunciation": "buh-NEV-uh-luhnt",
+    "meaning": "well meaning and kindly"
+  },
+  {
+    "word": "Loquacious",
+    "pronunciation": "luh-KWAY-shuhs",
+    "meaning": "tending to talk a great deal; talkative"
+  },
+  {
+    "word": "Panacea",
+    "pronunciation": "pa-nuh-SEE-uh",
+    "meaning": "a solution or remedy for all difficulties or diseases"
+  },
+  {
+    "word": "Ubiquitous",
+    "pronunciation": "yoo-BIK-wi-tuhs",
+    "meaning": "present, appearing, or found everywhere"
+  },
+  {
+    "word": "Mellifluous",
+    "pronunciation": "meh-LIF-loo-uhs",
+    "meaning": "sweet or musical; pleasant to hear"
+  },
+  {
+    "word": "Ephemeral",
+    "pronunciation": "ih-FEM-uh-ruhl",
+    "meaning": "lasting for a very short time"
+  },
+  {
+    "word": "Luminous",
+    "pronunciation": "LOO-mi-nuhs",
+    "meaning": "full of or shedding light; bright"
+  },
+  {
+    "word": "Ineffable",
+    "pronunciation": "in-EF-uh-buhl",
+    "meaning": "too great or extreme to be expressed in words"
+  },
+  {
+    "word": "Euphoria",
+    "pronunciation": "yoo-FAW-ree-uh",
+    "meaning": "a feeling or state of intense excitement and happiness"
+  },
+  {
+    "word": "Solitude",
+    "pronunciation": "SOL-i-tyood",
+    "meaning": "the state or situation of being alone"
+  },
+  {
+    "word": "Nostalgia",
+    "pronunciation": "noh-STAL-juh",
+    "meaning": "a sentimental longing for the past"
+  },
+  {
+    "word": "Petrichor",
+    "pronunciation": "PET-ri-kaw",
+    "meaning": "a pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather"
+  },
+  {
+    "word": "Lethargy",
+    "pronunciation": "LETH-uh-jee",
+    "meaning": "a lack of energy and enthusiasm"
+  },
+  {
+    "word": "Obfuscate",
+    "pronunciation": "OB-fuh-skayt",
+    "meaning": "to render obscure, unclear, or unintelligible"
+  },
+  {
+    "word": "Plethora",
+    "pronunciation": "PLETH-uh-ruh",
+    "meaning": "a large or excessive amount of something"
+  },
+  {
+    "word": "Serene",
+    "pronunciation": "suh-REEN",
+    "meaning": "calm, peaceful, and untroubled"
+  },
+  {
+    "word": "Pulchritude",
+    "pronunciation": "PUHL-kri-tyood",
+    "meaning": "physical beauty, especially of a person"
+  },
+  {
+    "word": "Perspicacious",
+    "pronunciation": "pur-spi-KAY-shuhs",
+    "meaning": "having a ready insight into and understanding of things"
+  },
+  {
+    "word": "Discombobulate",
+    "pronunciation": "dis-kom-BOB-yuh-layt",
+    "meaning": "to confuse or disconcert"
+  },
+  {
+    "word": "Susurration",
+    "pronunciation": "soo-suh-RAY-shuhn",
+    "meaning": "whispering, murmuring, or rustling"
+  },
+  {
+    "word": "Evanescent",
+    "pronunciation": "ee-vuh-NES-uhnt",
+    "meaning": "soon passing out of sight, memory, or existence; quickly fading"
+  },
+  {
+    "word": "Obstreperous",
+    "pronunciation": "ob-STREP-uh-ruhs",
+    "meaning": "noisy and difficult to control"
+  },
+  {
+    "word": "Recalcitrant",
+    "pronunciation": "ri-KAL-si-truhnt",
+    "meaning": "having an obstinately uncooperative attitude toward authority or discipline"
+  },
+  {
+    "word": "Demagogue",
+    "pronunciation": "DEM-uh-gog",
+    "meaning": "a political leader who seeks support by appealing to popular desires rather than rational argument"
+  },
+  {
+    "word": "Vituperative",
+    "pronunciation": "vi-TYOO-puh-ruh-tiv",
+    "meaning": "bitter and abusive in criticism"
+  },
+  {
+    "word": "Grandiloquent",
+    "pronunciation": "gran-DIL-uh-kwuhnt",
+    "meaning": "pompous or extravagant in language or style"
+  },
+  {
+    "word": "Liminal",
+    "pronunciation": "LIM-uh-nuhl",
+    "meaning": "relating to a transitional or initial stage of a process"
+  },
+  {
+    "word": "Hegemony",
+    "pronunciation": "heh-JEM-uh-nee",
+    "meaning": "leadership or dominance, especially by one state or social group"
+  },
+  {
+    "word": "Enigmatic",
+    "pronunciation": "en-ig-MAT-ik",
+    "meaning": "difficult to interpret or understand; mysterious"
+  },
+  {
+    "word": "Nebulous",
+    "pronunciation": "NEB-yuh-luhs",
+    "meaning": "in the form of a cloud or haze; unclear"
+  },
+  {
+    "word": "Solipsism",
+    "pronunciation": "SOL-ip-siz-uhm",
+    "meaning": "the theory that only the self is knowable to exist"
+  },
+  {
+    "word": "Insouciant",
+    "pronunciation": "in-SOO-see-uhnt",
+    "meaning": "showing a casual lack of concern; indifferent"
+  },
+  {
+    "word": "Intransigent",
+    "pronunciation": "in-TRAN-si-juhnt",
+    "meaning": "unwilling to change one's views or agree"
+  },
+  {
+    "word": "Perfidious",
+    "pronunciation": "puh-FID-ee-uhs",
+    "meaning": "deceitful and untrustworthy"
+  },
+  {
+    "word": "Disparate",
+    "pronunciation": "DIS-puh-ruht",
+    "meaning": "essentially different in kind; not comparable"
+  },
+  {
+    "word": "Epistolary",
+    "pronunciation": "ih-PIS-tuh-luh-ree",
+    "meaning": "relating to the writing of letters"
+  },
+  {
+    "word": "Pusillanimous",
+    "pronunciation": "pyoo-suh-LAN-uh-muhs",
+    "meaning": "showing a lack of courage or determination; timid"
+  },
+  {
+    "word": "Sagacious",
+    "pronunciation": "suh-GAY-shuhs",
+    "meaning": "having or showing keen mental discernment and good judgment"
+  },
+  {
+    "word": "Enervate",
+    "pronunciation": "EN-uh-vayt",
+    "meaning": "to weaken or drain of energy"
+  },
+  {
+    "word": "Perspicuity",
+    "pronunciation": "pur-spi-KYOO-uh-tee",
+    "meaning": "clarity, especially of expression; lucidity"
+  },
+  {
+    "word": "Redolent",
+    "pronunciation": "RED-uh-luhnt",
+    "meaning": "strongly reminiscent or suggestive of something"
+  },
+  {
+    "word": "Fastidious",
+    "pronunciation": "fa-STID-ee-uhs",
+    "meaning": "very attentive to detail; hard to please"
+  },
+  {
+    "word": "Cachinnate",
+    "pronunciation": "KAK-uh-nayt",
+    "meaning": "to laugh loudly or immoderately"
+  },
+  {
+    "word": "Impecunious",
+    "pronunciation": "im-pi-KYOO-nee-uhs",
+    "meaning": "having little or no money"
+  },
+  {
+    "word": "Sesquipedalian",
+    "pronunciation": "ses-kwi-puh-DAY-lee-uhn",
+    "meaning": "characterised by long words; long-winded"
+  },
+  {
+    "word": "Apocryphal",
+    "pronunciation": "uh-POK-ri-fuhl",
+    "meaning": "of doubtful authenticity, although widely circulated as true"
+  },
+  {
+    "word": "Peregrinate",
+    "pronunciation": "PER-uh-gri-nayt",
+    "meaning": "to travel or wander from place to place"
+  },
+  {
+    "word": "Transmogrify",
+    "pronunciation": "tranz-MOG-ri-fy",
+    "meaning": "to transform in a surprising or magical manner"
+  },
+  {
+    "word": "Ineluctable",
+    "pronunciation": "in-i-LUK-tuh-buhl",
+    "meaning": "unable to be resisted or avoided; inescapable"
+  },
+  {
+    "word": "Conflagration",
+    "pronunciation": "kon-fluh-GRAY-shuhn",
+    "meaning": "a large, destructive fire"
+  },
+  {
+    "word": "Caliginous",
+    "pronunciation": "kuh-LIJ-uh-nuhs",
+    "meaning": "dark, dim, or misty"
+  },
+  {
+    "word": "Vicissitude",
+    "pronunciation": "vih-SIS-i-tyood",
+    "meaning": "a change of circumstances, typically unwelcome or unpleasant"
+  },
+  {
+    "word": "Inscrutable",
+    "pronunciation": "in-SKROO-tuh-buhl",
+    "meaning": "impossible to understand or interpret"
+  },
+  {
+    "word": "Effulgent",
+    "pronunciation": "ih-FUL-juhnt",
+    "meaning": "shining brightly; radiant"
+  },
+  {
+    "word": "Recondite",
+    "pronunciation": "REK-uhn-dyt",
+    "meaning": "little known; abstruse"
+  },
+  {
+    "word": "Abstemious",
+    "pronunciation": "ab-STEE-mee-uhs",
+    "meaning": "not self-indulgent, especially with food or drink"
+  },
+  {
+    "word": "Antediluvian",
+    "pronunciation": "an-tee-di-LOO-vee-uhn",
+    "meaning": "extremely old or antiquated; belonging to a time before the biblical Flood"
+  },
+  {
+    "word": "Supercilious",
+    "pronunciation": "soo-puh-SIL-ee-uhs",
+    "meaning": "behaving or looking as though one thinks one is superior to others"
+  },
+  {
+    "word": "Obsequious",
+    "pronunciation": "ob-SEE-kwee-uhs",
+    "meaning": "excessively eager to please or obey"
+  },
+  {
+    "word": "Pernicious",
+    "pronunciation": "puh-NISH-uhs",
+    "meaning": "having a harmful effect, especially in a gradual or subtle way"
+  },
+  {
+    "word": "Quixotic",
+    "pronunciation": "kwik-SOT-ik",
+    "meaning": "exceedingly idealistic; unrealistic and impractical"
+  },
+  {
+    "word": "Sycophant",
+    "pronunciation": "SIK-uh-fuhnt",
+    "meaning": "a person who acts obsequiously toward someone important in order to gain advantage"
+  },
+  {
+    "word": "Lugubrious",
+    "pronunciation": "loo-GYOO-bree-uhs",
+    "meaning": "looking or sounding sad and dismal"
+  },
+  {
+    "word": "Equanimity",
+    "pronunciation": "ee-kwuh-NIM-uh-tee",
+    "meaning": "mental calmness and composure, especially in a difficult situation"
+  },
+  {
+    "word": "Insidious",
+    "pronunciation": "in-SID-ee-uhs",
+    "meaning": "proceeding in a gradual, subtle way, but with harmful effects"
+  },
+  {
+    "word": "Propinquity",
+    "pronunciation": "pro-PING-kwuh-tee",
+    "meaning": "nearness in place, time, or relationship"
+  },
+  {
+    "word": "Inchoate",
+    "pronunciation": "in-KOH-it",
+    "meaning": "just begun and not fully formed or developed; rudimentary"
+  },
+  {
+    "word": "Polyglot",
+    "pronunciation": "POL-ee-glot",
+    "meaning": "a person who knows and is able to use several languages"
+  },
+  {
+    "word": "Rebarbative",
+    "pronunciation": "ri-BAR-buh-tiv",
+    "meaning": "unattractive and objectionable; repellent"
+  },
+  {
+    "word": "Proclivity",
+    "pronunciation": "pro-KLIV-uh-tee",
+    "meaning": "a tendency to choose or do something regularly; an inclination"
+  },
+  {
+    "word": "Magnanimous",
+    "pronunciation": "mag-NAN-uh-muhs",
+    "meaning": "very generous or forgiving, especially toward a rival or someone less powerful"
+  },
+  {
+    "word": "Effervescent",
+    "pronunciation": "ef-uh-VES-uhnt",
+    "meaning": "vivacious and enthusiastic; giving off bubbles"
+  },
+  {
+    "word": "Truculent",
+    "pronunciation": "TRUK-yuh-luhnt",
+    "meaning": "eager or quick to argue or fight; aggressively defiant"
+  },
+  {
+    "word": "Congruous",
+    "pronunciation": "KON-groo-uhs",
+    "meaning": "in agreement or harmony"
+  },
+  {
+    "word": "Deleterious",
+    "pronunciation": "del-uh-TEER-ee-uhs",
+    "meaning": "causing harm or damage"
+  },
+  {
+    "word": "Garrulous",
+    "pronunciation": "GAR-uh-luhs",
+    "meaning": "excessively talkative, especially on trivial matters"
+  },
+  {
+    "word": "Halcyon",
+    "pronunciation": "HAL-see-uhn",
+    "meaning": "denoting a period of time that was idyllically happy and peaceful"
+  },
+  {
+    "word": "Imbroglio",
+    "pronunciation": "im-BROHL-ee-oh",
+    "meaning": "an extremely confused, complicated, or embarrassing situation"
+  },
+  {
+    "word": "Juxtaposition",
+    "pronunciation": "juks-tuh-puh-ZISH-uhn",
+    "meaning": "the fact of two things being seen or placed close together with contrasting effect"
+  },
+  {
+    "word": "Kismet",
+    "pronunciation": "KIZ-met",
+    "meaning": "destiny or fate"
+  },
+  {
+    "word": "Labyrinthine",
+    "pronunciation": "lab-uh-RIN-thyn",
+    "meaning": "like a labyrinth; intricate and confusing"
+  },
+  {
+    "word": "Malfeasance",
+    "pronunciation": "mal-FEE-zuhns",
+    "meaning": "wrongdoing, especially by a public official"
+  },
+  {
+    "word": "Nostrum",
+    "pronunciation": "NOS-truhm",
+    "meaning": "a medicine recommended by its preparer but of unproven effectiveness"
+  },
+  {
+    "word": "Onerous",
+    "pronunciation": "OH-nuh-rus",
+    "meaning": "involving a great deal of effort, difficulty, or responsibility"
+  },
+  {
+    "word": "Palimpsest",
+    "pronunciation": "PAL-imp-sest",
+    "meaning": "a manuscript or piece of writing material on which later writing has been superimposed on effaced earlier writing"
+  },
+  {
+    "word": "Quagmire",
+    "pronunciation": "KWAG-myr",
+    "meaning": "a soft boggy area of land; a difficult or awkward situation"
+  },
+  {
+    "word": "Refulgent",
+    "pronunciation": "ri-FUL-juhnt",
+    "meaning": "shining brightly; radiant"
+  },
+  {
+    "word": "Sybaritic",
+    "pronunciation": "sib-uh-RIT-ik",
+    "meaning": "fond of sensuous luxury or pleasure; self-indulgent"
+  },
+  {
+    "word": "Tenebrous",
+    "pronunciation": "TEN-uh-bruhs",
+    "meaning": "dark, shadowy, or obscure"
+  },
+  {
+    "word": "Uxorious",
+    "pronunciation": "uk-SOR-ee-uhs",
+    "meaning": "having or showing an excessive fondness for one's wife"
+  },
+  {
+    "word": "Verisimilitude",
+    "pronunciation": "veh-ri-si-MIL-i-tyood",
+    "meaning": "the appearance of being true or real"
+  },
+  {
+    "word": "Winsome",
+    "pronunciation": "WIN-suhm",
+    "meaning": "attractive or appealing in a fresh, innocent way"
+  },
+  {
+    "word": "Xenial",
+    "pronunciation": "ZEE-nee-uhl",
+    "meaning": "relating to hospitality or relations between host and guest"
+  },
+  {
+    "word": "Ylem",
+    "pronunciation": "EYE-lum",
+    "meaning": "in cosmology, the hypothetical original substance of the universe"
+  },
+  {
+    "word": "Zaftig",
+    "pronunciation": "ZAF-tig",
+    "meaning": "having a full, rounded figure; plump"
+  },
+  {
+    "word": "Zeitgeist",
+    "pronunciation": "ZYTE-gyst",
+    "meaning": "the defining spirit or mood of a particular period of history"
+  },
+  {
+    "word": "Abjure",
+    "pronunciation": "ab-JOOR",
+    "meaning": "to renounce or reject formally and solemnly"
+  },
+  {
+    "word": "Alacrity",
+    "pronunciation": "uh-LAK-ri-tee",
+    "meaning": "brisk and cheerful readiness"
+  },
+  {
+    "word": "Ameliorate",
+    "pronunciation": "uh-MEE-lee-uh-rayt",
+    "meaning": "to make something bad or unsatisfactory better"
+  },
+  {
+    "word": "Anomie",
+    "pronunciation": "AN-uh-mee",
+    "meaning": "social instability caused by the erosion of standards and values"
+  },
+  {
+    "word": "Apotheosis",
+    "pronunciation": "uh-poth-ee-OH-sis",
+    "meaning": "the elevation of someone to divine status; a perfect example"
+  },
+  {
+    "word": "Asseverate",
+    "pronunciation": "uh-SEV-uh-rayt",
+    "meaning": "to assert or declare positively"
+  },
+  {
+    "word": "Avaricious",
+    "pronunciation": "av-uh-RISH-uhs",
+    "meaning": "having or showing an extreme greed for wealth or material gain"
+  },
+  {
+    "word": "Bellicose",
+    "pronunciation": "BEL-ih-kohs",
+    "meaning": "demonstrating aggression and willingness to fight"
+  },
+  {
+    "word": "Cacophony",
+    "pronunciation": "kuh-KOF-uh-nee",
+    "meaning": "a harsh, discordant mixture of sounds"
+  },
+  {
+    "word": "Capitulate",
+    "pronunciation": "kuh-PIT-yuh-layt",
+    "meaning": "to cease resisting; to surrender unconditionally"
+  },
+  {
+    "word": "Circumlocution",
+    "pronunciation": "sur-kum-loh-KYOO-shuhn",
+    "meaning": "the use of many words where fewer would do, especially as a deliberate attempt to be vague"
+  },
+  {
+    "word": "Commensurate",
+    "pronunciation": "kuh-MEN-shuh-ruht",
+    "meaning": "corresponding in size, extent, or degree; proportionate"
+  },
+  {
+    "word": "Concatenation",
+    "pronunciation": "kon-kat-uh-NAY-shuhn",
+    "meaning": "a series of interconnected things or events"
+  },
+  {
+    "word": "Confluent",
+    "pronunciation": "KON-floo-uhnt",
+    "meaning": "flowing together or merging"
+  },
+  {
+    "word": "Contumacious",
+    "pronunciation": "kon-tyoo-MAY-shuhs",
+    "meaning": "stubbornly or willfully disobedient to authority"
+  },
+  {
+    "word": "Copacetic",
+    "pronunciation": "koh-puh-SET-ik",
+    "meaning": "in excellent order"
+  },
+  {
+    "word": "Defenestrate",
+    "pronunciation": "dee-FEN-uh-strayt",
+    "meaning": "to throw someone or something out of a window"
+  },
+  {
+    "word": "Dilatory",
+    "pronunciation": "DIL-uh-tuh-ree",
+    "meaning": "slow to act; intended to cause delay"
+  },
+  {
+    "word": "Disquisition",
+    "pronunciation": "dis-kwuh-ZISH-uhn",
+    "meaning": "a long or formal discussion of a subject"
+  },
+  {
+    "word": "Ebullient",
+    "pronunciation": "ih-BUL-yuhnt",
+    "meaning": "overflowing with enthusiasm or excitement"
+  },
+  {
+    "word": "Egregious",
+    "pronunciation": "ih-GREE-juhs",
+    "meaning": "outstandingly bad; shocking"
+  },
+  {
+    "word": "Emollient",
+    "pronunciation": "ih-MOL-yuhnt",
+    "meaning": "softening or soothing, especially to the skin"
+  },
+  {
+    "word": "Ennui",
+    "pronunciation": "on-WEE",
+    "meaning": "a feeling of listlessness and dissatisfaction arising from a lack of occupation or excitement"
+  },
+  {
+    "word": "Esoteric",
+    "pronunciation": "es-uh-TER-ik",
+    "meaning": "intended for or likely to be understood by only a small number of people"
+  },
+  {
+    "word": "Excoriate",
+    "pronunciation": "eks-KAW-ree-ayt",
+    "meaning": "to censure or criticise severely"
+  },
+  {
+    "word": "Execrable",
+    "pronunciation": "EK-suh-kruh-buhl",
+    "meaning": "extremely bad or unpleasant"
+  },
+  {
+    "word": "Fecund",
+    "pronunciation": "FEE-kuhnd",
+    "meaning": "producing or capable of producing an abundance of offspring or new growth; fertile"
+  },
+  {
+    "word": "Fulminate",
+    "pronunciation": "FUL-muh-nayt",
+    "meaning": "to express vehement protest"
+  },
+  {
+    "word": "Grandiose",
+    "pronunciation": "GRAN-dee-ohs",
+    "meaning": "impressive or magnificent in appearance or style, especially pretentiously so"
+  },
+  {
+    "word": "Harangue",
+    "pronunciation": "huh-RANG",
+    "meaning": "a lengthy and aggressive speech"
+  },
+  {
+    "word": "Ignominious",
+    "pronunciation": "ig-nuh-MIN-ee-uhs",
+    "meaning": "deserving or causing public disgrace or shame"
+  },
+  {
+    "word": "Implacable",
+    "pronunciation": "im-PLAK-uh-buhl",
+    "meaning": "unable to be placated; relentless; unstoppable"
+  },
+  {
+    "word": "Insuperable",
+    "pronunciation": "in-SOO-puh-ruh-buhl",
+    "meaning": "impossible to overcome"
+  },
+  {
+    "word": "Invidious",
+    "pronunciation": "in-VID-ee-uhs",
+    "meaning": "likely to arouse or incur resentment or anger in others"
+  },
+  {
+    "word": "Lachrymose",
+    "pronunciation": "LAK-ruh-mohs",
+    "meaning": "tearful or given to weeping"
+  },
+  {
+    "word": "Maladroit",
+    "pronunciation": "mal-uh-DROYT",
+    "meaning": "inefficient or inept; clumsy"
+  },
+  {
+    "word": "Munificent",
+    "pronunciation": "myoo-NIF-uh-suhnt",
+    "meaning": "larger or more generous than is usual or necessary"
+  },
+  {
+    "word": "Obdurate",
+    "pronunciation": "OB-dyuh-ruht",
+    "meaning": "stubbornly refusing to change one's opinion"
+  },
+  {
+    "word": "Persnickety",
+    "pronunciation": "puh-SNIK-uh-tee",
+    "meaning": "placing too much emphasis on trivial or minor details; fussy"
+  },
+  {
+    "word": "Remonstrate",
+    "pronunciation": "ri-MON-strayt",
+    "meaning": "to make a forcefully reproachful protest"
+  },
+  {
+    "word": "Paroxysm",
+    "pronunciation": "PAR-uk-siz-uhm",
+    "meaning": "a sudden attack or violent expression of a particular emotion or activity"
+  },
+  {
+    "word": "Perfunctory",
+    "pronunciation": "puh-FUNK-tuh-ree",
+    "meaning": "carried out with minimum effort or reflection"
+  },
+  {
+    "word": "Mendacious",
+    "pronunciation": "men-DAY-shuhs",
+    "meaning": "not telling the truth; lying"
+  },
+  {
+    "word": "Sanguine",
+    "pronunciation": "SANG-gwin",
+    "meaning": "optimistic or positive, especially in a difficult situation"
+  },
+  {
+    "word": "Redoubtable",
+    "pronunciation": "ri-DOW-tuh-buhl",
+    "meaning": "formidable, especially as an opponent"
+  },
+  {
+    "word": "Recrudescent",
+    "pronunciation": "ree-kroo-DES-uhnt",
+    "meaning": "breaking out again after a period of dormancy or inactivity"
+  },
+  {
+    "word": "Diaphanous",
+    "pronunciation": "dy-AF-uh-nuhs",
+    "meaning": "light, delicate, and translucent"
+  },
+  {
+    "word": "Insipid",
+    "pronunciation": "in-SIP-id",
+    "meaning": "lacking flavour, vigour, or interest"
+  },
+  {
+    "word": "Soporific",
+    "pronunciation": "sop-uh-RIF-ik",
+    "meaning": "tending to induce drowsiness or sleep"
+  },
+  {
+    "word": "Sententious",
+    "pronunciation": "sen-TEN-shuhs",
+    "meaning": "given to moralising in a pompous manner"
+  },
+  {
+    "word": "Baleful",
+    "pronunciation": "BAYL-fuhl",
+    "meaning": "threatening harm; menacing"
+  },
+  {
+    "word": "Concupiscence",
+    "pronunciation": "kon-KYOO-pi-suhns",
+    "meaning": "strong sexual desire; lust"
+  },
+  {
+    "word": "Flummox",
+    "pronunciation": "FLUM-uhks",
+    "meaning": "to perplex greatly; bewilder"
+  },
+  {
+    "word": "Gibbous",
+    "pronunciation": "GIB-uhs",
+    "meaning": "convex or bulging, used especially of the moon between half and full"
+  },
+  {
+    "word": "Histrionic",
+    "pronunciation": "his-tree-ON-ik",
+    "meaning": "excessively theatrical or dramatic in character or style"
+  },
+  {
+    "word": "Inveterate",
+    "pronunciation": "in-VET-uh-ruht",
+    "meaning": "having a particular habit, activity, or interest that is long-established and unlikely to change"
+  },
+  {
+    "word": "Anachronistic",
+    "pronunciation": "uh-nak-ruh-NIS-tik",
+    "meaning": "belonging to a period other than that being portrayed"
+  },
+  {
+    "word": "Oubliette",
+    "pronunciation": "oo-blee-ET",
+    "meaning": "a secret dungeon with access only through a trapdoor in its ceiling"
+  },
+  {
+    "word": "Pastiche",
+    "pronunciation": "pa-STEESH",
+    "meaning": "an artistic work imitating that of other works, often with satirical intent"
+  },
+  {
+    "word": "Pellucid",
+    "pronunciation": "pe-LOO-sid",
+    "meaning": "translucently clear; easily understood"
+  },
+  {
+    "word": "Peripatetic",
+    "pronunciation": "per-uh-puh-TET-ik",
+    "meaning": "travelling from place to place, especially for work"
+  },
+  {
+    "word": "Prurient",
+    "pronunciation": "PROO-ree-uhnt",
+    "meaning": "having or encouraging an excessive interest in sexual matters"
+  },
+  {
+    "word": "Quiescent",
+    "pronunciation": "kwy-ES-uhnt",
+    "meaning": "in a state or period of inactivity or dormancy"
+  },
+  {
+    "word": "Raconteur",
+    "pronunciation": "ra-kon-TUR",
+    "meaning": "a person who tells anecdotes in a skilful and amusing way"
+  },
+  {
+    "word": "Salubrious",
+    "pronunciation": "suh-LOO-bree-uhs",
+    "meaning": "health-giving; healthy"
+  },
+  {
+    "word": "Sapient",
+    "pronunciation": "SAY-pee-uhnt",
+    "meaning": "wise, or attempting to appear wise"
+  },
+  {
+    "word": "Taciturn",
+    "pronunciation": "TAS-i-turn",
+    "meaning": "reserved or uncommunicative in speech; saying little"
+  },
+  {
+    "word": "Temerity",
+    "pronunciation": "tuh-MER-uh-tee",
+    "meaning": "excessive confidence or boldness; audacity"
+  },
+  {
+    "word": "Unctuous",
+    "pronunciation": "UNGK-choo-uhs",
+    "meaning": "excessively flattering or ingratiating; oily"
+  },
+  {
+    "word": "Vagary",
+    "pronunciation": "VAY-guh-ree",
+    "meaning": "an unexpected and inexplicable change in a situation or behaviour"
+  },
+  {
+    "word": "Weltschmerz",
+    "pronunciation": "VELT-shmerts",
+    "meaning": "a feeling of melancholy and world-weariness"
+  },
+  {
+    "word": "Xenophobia",
+    "pronunciation": "zen-uh-FOH-bee-uh",
+    "meaning": "dislike of or prejudice against people from other countries"
+  },
+  {
+    "word": "Yare",
+    "pronunciation": "YAIR",
+    "meaning": "ready or prepared; easily manoeuvred"
+  },
+  {
+    "word": "Yawp",
+    "pronunciation": "YAWP",
+    "meaning": "to utter a loud, harsh cry; to yelp"
+  },
+  {
+    "word": "Zephyr",
+    "pronunciation": "ZEH-fuh",
+    "meaning": "a soft, gentle breeze"
+  },
+  {
+    "word": "Abrogate",
+    "pronunciation": "AB-ruh-gayt",
+    "meaning": "to repeal or do away with (a law, right, or formal agreement)"
+  },
+  {
+    "word": "Aver",
+    "pronunciation": "uh-VUR",
+    "meaning": "to state or assert to be the case"
+  },
+  {
+    "word": "Exculpate",
+    "pronunciation": "EX-kul-payt",
+    "meaning": "to show or declare that someone is not guilty of wrongdoing"
+  },
+  {
+    "word": "Efflorescence",
+    "pronunciation": "ef-luh-RES-uhns",
+    "meaning": "the state or a period of flowering; an example of growth or development"
+  },
+  {
+    "word": "Ersatz",
+    "pronunciation": "AIR-zats",
+    "meaning": "made or used as a substitute, typically of inferior quality"
+  },
+  {
+    "word": "Bucolic",
+    "pronunciation": "byoo-KOL-ik",
+    "meaning": "relating to the pleasant aspects of the countryside and country life"
+  },
+  {
+    "word": "Caducity",
+    "pronunciation": "kuh-DYOO-si-tee",
+    "meaning": "the frailty or perishableness of old age; transitoriness"
+  },
+  {
+    "word": "Desuetude",
+    "pronunciation": "DES-wi-tyood",
+    "meaning": "a state of disuse"
+  },
+  {
+    "word": "Exiguous",
+    "pronunciation": "eg-ZIG-yoo-uhs",
+    "meaning": "very small in amount; scanty"
+  },
+  {
+    "word": "Floccinaucinihilipilification",
+    "pronunciation": "flok-sih-naw-sih-ny-hil-ih-pil-ih-fi-KAY-shuhn",
+    "meaning": "the action of describing or regarding something as unimportant"
+  },
+  {
+    "word": "Hebetude",
+    "pronunciation": "HEE-buh-tyood",
+    "meaning": "the state of being dull or lethargic"
+  },
+  {
+    "word": "Irascible",
+    "pronunciation": "ih-RAS-uh-buhl",
+    "meaning": "easily provoked to anger; very irritable"
+  },
+  {
+    "word": "Jejune",
+    "pronunciation": "je-JOON",
+    "meaning": "naïve, simplistic, or superficial"
+  },
+  {
+    "word": "Kafkaesque",
+    "pronunciation": "kahf-kah-ESK",
+    "meaning": "having a nightmarishly complex, bizarre, or illogical quality"
+  },
+  {
+    "word": "Lilliputian",
+    "pronunciation": "lil-i-PYOO-shuhn",
+    "meaning": "trivial or very small"
+  },
+  {
+    "word": "Miasma",
+    "pronunciation": "my-AZ-muh",
+    "meaning": "an oppressive or unpleasant atmosphere that surrounds or emanates from something"
+  },
+  {
+    "word": "Nefarious",
+    "pronunciation": "nuh-FAIR-ee-uhs",
+    "meaning": "wicked or criminal"
+  },
+  {
+    "word": "Obsequy",
+    "pronunciation": "OB-si-kwee",
+    "meaning": "a funeral rite or ceremony"
+  },
+  {
+    "word": "Phantasmagoria",
+    "pronunciation": "fan-taz-muh-GAW-ree-uh",
+    "meaning": "a rapidly changing series of images or illusions"
+  },
+  {
+    "word": "Quidnunc",
+    "pronunciation": "KWID-nunk",
+    "meaning": "a person who is eager to know the latest news and gossip"
+  },
+  {
+    "word": "Rodomontade",
+    "pronunciation": "roh-duh-mon-TAHD",
+    "meaning": "boastful or inflated talk or behaviour"
+  },
+  {
+    "word": "Syzygy",
+    "pronunciation": "SIZ-uh-jee",
+    "meaning": "a rare alignment of three celestial bodies"
+  },
+  {
+    "word": "Tatterdemalion",
+    "pronunciation": "tat-uh-duh-MAY-lee-uhn",
+    "meaning": "a person dressed in ragged clothing; ragged or disreputable"
+  },
+  {
+    "word": "Ukase",
+    "pronunciation": "yoo-KAYS",
+    "meaning": "an authoritative decree or order"
+  },
+  {
+    "word": "Velleity",
+    "pronunciation": "vuh-LEE-uh-tee",
+    "meaning": "a wish or inclination not strong enough to lead to action"
+  },
+  {
+    "word": "Whilom",
+    "pronunciation": "WY-luhm",
+    "meaning": "former; of times past"
+  },
+  {
+    "word": "Xylophilous",
+    "pronunciation": "zy-LOF-ih-luhs",
+    "meaning": "growing on or living in wood"
+  },
+  {
+    "word": "Yclept",
+    "pronunciation": "i-KLEPT",
+    "meaning": "by the name of; called"
+  },
+  {
+    "word": "Zugzwang",
+    "pronunciation": "TSOOG-tsvang",
+    "meaning": "a situation in chess where any move puts the player at a disadvantage"
+  },
+  {
+    "word": "Dolorous",
+    "pronunciation": "DOL-uh-rus",
+    "meaning": "feeling or expressing great sorrow or distress"
+  },
+  {
+    "word": "Epigone",
+    "pronunciation": "EP-ih-goh-nee",
+    "meaning": "a less distinguished imitator or follower"
+  },
+  {
+    "word": "Farouche",
+    "pronunciation": "fuh-ROOSH",
+    "meaning": "sullen or shy in company, yet fierce or savage in private"
+  },
+  {
+    "word": "Gelid",
+    "pronunciation": "JEL-id",
+    "meaning": "icy; extremely cold"
+  },
+  {
+    "word": "Inimical",
+    "pronunciation": "ih-NIM-i-kuhl",
+    "meaning": "tending to obstruct or harm; unfriendly"
+  },
+  {
+    "word": "Jackanapes",
+    "pronunciation": "JAK-uh-nayps",
+    "meaning": "an impertinent person; a cheeky or presumptuous child"
+  },
+  {
+    "word": "Knavery",
+    "pronunciation": "NAY-vuh-ree",
+    "meaning": "unprincipled, untrustworthy, or dishonest dealing"
+  },
+  {
+    "word": "Legerdemain",
+    "pronunciation": "lej-uh-duh-MAYN",
+    "meaning": "skilful use of one's hands when performing conjuring tricks; deceit or trickery"
+  },
+  {
+    "word": "Manichean",
+    "pronunciation": "man-ih-KEE-uhn",
+    "meaning": "characterised by a dualistic worldview of good versus evil"
+  },
+  {
+    "word": "Noisome",
+    "pronunciation": "NOI-suhm",
+    "meaning": "having an extremely offensive smell; disagreeable or unpleasant"
+  },
+  {
+    "word": "Orotund",
+    "pronunciation": "OR-uh-tuhnd",
+    "meaning": "full, round, and imposing (of a voice); pompous or bombastic"
+  },
+  {
+    "word": "Parvenu",
+    "pronunciation": "PAR-vuh-nyoo",
+    "meaning": "a person of humble origin who has gained wealth or influence but is not accepted by the social class associated with that status"
+  },
+  {
+    "word": "Quiddity",
+    "pronunciation": "KWID-ih-tee",
+    "meaning": "the inherent nature or essence of someone or something"
+  },
+  {
+    "word": "Resipiscence",
+    "pronunciation": "ree-sih-PIS-uhns",
+    "meaning": "the act of returning to a sane, sound, or correct state of mind"
+  },
+  {
+    "word": "Schadenfreude",
+    "pronunciation": "SHAH-duhn-froy-duh",
+    "meaning": "pleasure derived from another person's misfortune"
+  },
+  {
+    "word": "Triskaidekaphobia",
+    "pronunciation": "tris-kai-dek-uh-FOH-bee-uh",
+    "meaning": "fear or avoidance of the number thirteen"
+  },
+  {
+    "word": "Absquatulate",
+    "pronunciation": "ab-SKWOT-yuh-layt",
+    "meaning": "to leave abruptly or flee, especially to avoid responsibilities"
+  },
+  {
+    "word": "Adumbrate",
+    "pronunciation": "AD-um-brayt",
+    "meaning": "to foreshadow or outline faintly"
+  },
+  {
+    "word": "Amphigory",
+    "pronunciation": "AM-fi-gaw-ree",
+    "meaning": "a piece of nonsensical or parody writing"
+  },
+  {
+    "word": "Anfractuous",
+    "pronunciation": "an-FRAK-choo-uhs",
+    "meaning": "winding and intricate; full of twists and turns"
+  },
+  {
+    "word": "Apothegm",
+    "pronunciation": "AP-uh-them",
+    "meaning": "a concise, instructive saying or maxim"
+  },
+  {
+    "word": "Brobdingnagian",
+    "pronunciation": "brob-ding-NAG-ee-uhn",
+    "meaning": "gigantic in size or extent"
+  },
+  {
+    "word": "Callipygian",
+    "pronunciation": "kal-uh-PIJ-ee-uhn",
+    "meaning": "having well-shaped, beautiful buttocks"
+  },
+  {
+    "word": "Catachresis",
+    "pronunciation": "kat-uh-KREE-sis",
+    "meaning": "the improper use of a word or mixed metaphor"
+  },
+  {
+    "word": "Concinnity",
+    "pronunciation": "kun-SIN-uh-tee",
+    "meaning": "the harmonious and elegant arrangement of parts"
+  },
+  {
+    "word": "Contrapuntal",
+    "pronunciation": "kon-truh-PUN-tuhl",
+    "meaning": "composed of two or more independent melodic lines"
+  },
+  {
+    "word": "Deliquesce",
+    "pronunciation": "del-ih-KWES",
+    "meaning": "to melt, dissolve, or become liquid"
+  },
+  {
+    "word": "Discalced",
+    "pronunciation": "dis-KALST",
+    "meaning": "barefoot, especially referring to certain monastic orders"
+  },
+  {
+    "word": "Eschatology",
+    "pronunciation": "es-kuh-TOL-uh-jee",
+    "meaning": "the branch of theology concerned with death, judgment, and the final destiny of the soul"
+  },
+  {
+    "word": "Esurient",
+    "pronunciation": "ee-SYOO-ree-uhnt",
+    "meaning": "hungry or greedy"
+  },
+  {
+    "word": "Fata Morgana",
+    "pronunciation": "FAH-tuh mor-GAH-nuh",
+    "meaning": "a complex and rapidly changing mirage seen at sea or in deserts"
+  },
+  {
+    "word": "Fustian",
+    "pronunciation": "FUS-chun",
+    "meaning": "pompous or pretentious speech or writing"
+  },
+  {
+    "word": "Griffinage",
+    "pronunciation": "GRIF-in-ij",
+    "meaning": "illegible or scrawled handwriting"
+  },
+  {
+    "word": "Habiliment",
+    "pronunciation": "huh-BIL-uh-muhnt",
+    "meaning": "dress or attire, especially of a distinctive kind"
+  },
+  {
+    "word": "Heterodox",
+    "pronunciation": "HET-uh-ruh-doks",
+    "meaning": "not conforming with accepted or orthodox standards or beliefs"
+  },
+  {
+    "word": "Imprecation",
+    "pronunciation": "im-pruh-KAY-shuhn",
+    "meaning": "a spoken curse or malediction"
+  },
+  {
+    "word": "Internecine",
+    "pronunciation": "in-ter-NES-een",
+    "meaning": "mutually destructive; involving conflict within a group"
+  },
+  {
+    "word": "Jeremiad",
+    "pronunciation": "jer-uh-MY-ud",
+    "meaning": "a prolonged and mournful complaint or lamentation"
+  },
+  {
+    "word": "Klaxon",
+    "pronunciation": "KLAX-uhn",
+    "meaning": "a loud electric horn used for warning"
+  },
+  {
+    "word": "Languor",
+    "pronunciation": "LANG-guh",
+    "meaning": "a pleasant feeling of tiredness or inertia"
+  },
+  {
+    "word": "Mawkish",
+    "pronunciation": "MAW-kish",
+    "meaning": "excessively sentimental in a feeble way"
+  },
+  {
+    "word": "Nepenthe",
+    "pronunciation": "nuh-PEN-thee",
+    "meaning": "a drug or drink that banishes grief or trouble from the mind"
+  },
+  {
+    "word": "Opsimath",
+    "pronunciation": "OP-suh-math",
+    "meaning": "a person who begins to learn late in life"
+  },
+  {
+    "word": "Paronomasia",
+    "pronunciation": "par-uh-noh-MAY-zee-uh",
+    "meaning": "a play on words; a pun"
+  },
+  {
+    "word": "Quincunx",
+    "pronunciation": "KWING-kunks",
+    "meaning": "an arrangement of five objects with four at the corners and one at the centre"
+  },
+  {
+    "word": "Ratiocination",
+    "pronunciation": "rash-ee-os-uh-NAY-shuhn",
+    "meaning": "the process of logical, methodical reasoning"
+  },
+  {
+    "word": "Soubrette",
+    "pronunciation": "soo-BRET",
+    "meaning": "an actress or lively maidservant character in comic opera or drama"
+  },
+  {
+    "word": "Tautological",
+    "pronunciation": "taw-tuh-LOJ-ih-kuhl",
+    "meaning": "needlessly repetitive or redundant"
+  },
+  {
+    "word": "Terpsichorean",
+    "pronunciation": "turp-sik-uh-REE-uhn",
+    "meaning": "relating to dancing"
+  },
+  {
+    "word": "Ullage",
+    "pronunciation": "UL-ij",
+    "meaning": "the unfilled space in a container, such as a barrel or bottle"
+  },
+  {
+    "word": "Vicennial",
+    "pronunciation": "vy-SEN-ee-uhl",
+    "meaning": "occurring every twenty years"
+  },
+  {
+    "word": "Widdershins",
+    "pronunciation": "WID-ur-shinz",
+    "meaning": "in a direction contrary to the sun’s course; anticlockwise"
+  },
+  {
+    "word": "Xanthic",
+    "pronunciation": "ZAN-thik",
+    "meaning": "yellowish in colour"
+  },
+  {
+    "word": "Yonderly",
+    "pronunciation": "YON-der-lee",
+    "meaning": "mentally or emotionally distant; absent-minded"
+  },
+  {
+    "word": "Ziggurat",
+    "pronunciation": "ZIG-uh-rat",
+    "meaning": "an ancient Mesopotamian terraced, pyramid-shaped tower"
+  },
+  {
+    "word": "Zoetic",
+    "pronunciation": "zoh-ET-ik",
+    "meaning": "relating to life; living or vital"
+  },
+  {
+    "word": "Afflatus",
+    "pronunciation": "uh-FLAY-tuhs",
+    "meaning": "a sudden and powerful creative or inspirational impulse"
+  },
+  {
+    "word": "Agelast",
+    "pronunciation": "AY-juh-last",
+    "meaning": "a person who never laughs"
+  },
+  {
+    "word": "Aggrandize",
+    "pronunciation": "uh-GRAN-dyz",
+    "meaning": "to increase the power, status, or wealth of someone or something"
+  },
+  {
+    "word": "Alarum",
+    "pronunciation": "uh-LAR-uhm",
+    "meaning": "an old-fashioned term for a call to arms or warning signal"
+  },
+  {
+    "word": "Barmecide",
+    "pronunciation": "BAR-muh-syd",
+    "meaning": "illusory or disappointing, especially a pretended generosity with nothing given"
+  },
+  {
+    "word": "Banausic",
+    "pronunciation": "buh-NAW-sik",
+    "meaning": "concerned with merely utilitarian or mechanical activities; mundane"
+  },
+  {
+    "word": "Blandishment",
+    "pronunciation": "BLAN-dish-muhnt",
+    "meaning": "a flattering or pleasing statement used to gently persuade"
+  },
+  {
+    "word": "Bloviate",
+    "pronunciation": "BLOH-vee-ayt",
+    "meaning": "to speak pompously or at great length with empty rhetoric"
+  },
+  {
+    "word": "Bruxism",
+    "pronunciation": "BRUK-siz-uhm",
+    "meaning": "the involuntary or habitual grinding of the teeth, typically during sleep"
+  },
+  {
+    "word": "Caesura",
+    "pronunciation": "see-ZYOOR-uh",
+    "meaning": "a natural pause or break in a line of verse, usually near the middle"
+  },
+  {
+    "word": "Calumny",
+    "pronunciation": "KAL-uhm-nee",
+    "meaning": "a false and slanderous statement made to injure someone’s reputation"
+  },
+  {
+    "word": "Cathexis",
+    "pronunciation": "kuh-THEK-sis",
+    "meaning": "the concentration of mental energy on one particular person, idea, or object"
+  },
+  {
+    "word": "Chatoyant",
+    "pronunciation": "shuh-TOY-uhnt",
+    "meaning": "having a changeable, shimmering lustre like a cat’s eye"
+  },
+  {
+    "word": "Chiaroscuro",
+    "pronunciation": "kee-ar-uh-SKYOO-roh",
+    "meaning": "the artistic treatment of light and shade to give the illusion of depth"
+  },
+  {
+    "word": "Cynosure",
+    "pronunciation": "SY-nuh-shoor",
+    "meaning": "a person or thing that is the centre of attention or admiration"
+  },
+  {
+    "word": "Deipnosophist",
+    "pronunciation": "dyp-NOS-uh-fist",
+    "meaning": "a person skilled in the art of witty dinner-table conversation"
+  },
+  {
+    "word": "Desideratum",
+    "pronunciation": "de-SID-uh-RAY-tuhm",
+    "meaning": "something that is needed or wanted"
+  },
+  {
+    "word": "Dyspeptic",
+    "pronunciation": "dis-PEP-tik",
+    "meaning": "displaying a morose or irritable temperament; relating to indigestion"
+  },
+  {
+    "word": "Eleemosynary",
+    "pronunciation": "el-uh-MOS-uh-nuh-ree",
+    "meaning": "relating to or dependent on charity; charitable"
+  },
+  {
+    "word": "Epistemic",
+    "pronunciation": "ep-ih-STEM-ik",
+    "meaning": "relating to knowledge or the degree of its validation"
+  },
+  {
+    "word": "Exsanguinate",
+    "pronunciation": "ek-SANG-gwi-nayt",
+    "meaning": "to drain or remove blood; to deprive of vital force"
+  },
+  {
+    "word": "Frisson",
+    "pronunciation": "free-SON",
+    "meaning": "a sudden strong feeling of excitement or fear; a thrill"
+  },
+  {
+    "word": "Gasconade",
+    "pronunciation": "gas-kuh-NAYD",
+    "meaning": "extravagant boasting or bravado"
+  },
+  {
+    "word": "Hypnagogic",
+    "pronunciation": "hip-nuh-GOJ-ik",
+    "meaning": "relating to the transitional state immediately before falling asleep"
+  },
+  {
+    "word": "Irenic",
+    "pronunciation": "eye-REE-nik",
+    "meaning": "aiming or tending to promote peace or reconciliation"
+  },
+  {
+    "word": "Janissary",
+    "pronunciation": "JAN-uh-suh-ree",
+    "meaning": "a loyal follower or supporter, originally a member of the Ottoman guard"
+  },
+  {
+    "word": "Kerfuffle",
+    "pronunciation": "kuh-FUF-uhl",
+    "meaning": "a commotion or heated fuss over something minor"
+  },
+  {
+    "word": "Laconic",
+    "pronunciation": "luh-KON-ik",
+    "meaning": "using very few words; concise to the point of seeming terse"
+  },
+  {
+    "word": "Lacuna",
+    "pronunciation": "luh-KYOO-nuh",
+    "meaning": "an unfilled space or gap, especially in a manuscript or argument"
+  },
+  {
+    "word": "Lipogram",
+    "pronunciation": "LIP-uh-gram",
+    "meaning": "a composition deliberately omitting a particular letter of the alphabet"
+  },
+  {
+    "word": "Mendicant",
+    "pronunciation": "MEN-di-kuhnt",
+    "meaning": "a beggar, or practising begging as a religious vow of poverty"
+  },
+  {
+    "word": "Numinous",
+    "pronunciation": "NYOO-mi-nuhs",
+    "meaning": "indicating or suggesting the presence of a divinity; spiritually transcendent"
+  },
+  {
+    "word": "Obsolescent",
+    "pronunciation": "ob-suh-LES-uhnt",
+    "meaning": "becoming outdated or no longer used"
+  },
+  {
+    "word": "Opalescent",
+    "pronunciation": "oh-puh-LES-uhnt",
+    "meaning": "showing a play of lustrous, rainbow-like colours"
+  },
+  {
+    "word": "Panegyric",
+    "pronunciation": "pan-uh-JEE-rik",
+    "meaning": "a formal speech or written praise of someone or something"
+  },
+  {
+    "word": "Prandial",
+    "pronunciation": "PRAN-dee-uhl",
+    "meaning": "relating to a meal, especially dinner or lunch"
+  },
+  {
+    "word": "Quotidian",
+    "pronunciation": "kwoh-TID-ee-uhn",
+    "meaning": "occurring daily; commonplace or ordinary"
+  },
+  {
+    "word": "Rococo",
+    "pronunciation": "roh-KOH-koh",
+    "meaning": "elaborately ornate and decorative in style"
+  },
+  {
+    "word": "Synecdoche",
+    "pronunciation": "si-NEK-duh-kee",
+    "meaning": "a figure of speech in which a part represents the whole or vice versa"
+  },
+  {
+    "word": "Tintinnabulation",
+    "pronunciation": "tin-tin-ab-yuh-LAY-shuhn",
+    "meaning": "the ringing or tinkling sound of bells"
+  },
+  {
+    "word": "Anacoluthon",
+    "pronunciation": "an-uh-ku-LOO-thon",
+    "meaning": "a sudden break in the grammatical sequence of a sentence, creating a stylistic effect"
+  },
+  {
+    "word": "Bibelot",
+    "pronunciation": "BEE-buh-loh",
+    "meaning": "a small decorative trinket or curiosity"
+  },
+  {
+    "word": "Cenotaph",
+    "pronunciation": "SEN-uh-taf",
+    "meaning": "a monument erected in honour of a person or group whose remains are elsewhere"
+  },
+  {
+    "word": "Delitescent",
+    "pronunciation": "del-i-TESS-uhnt",
+    "meaning": "lying hidden or dormant; concealed"
+  },
+  {
+    "word": "Eidolon",
+    "pronunciation": "eye-DOH-luhn",
+    "meaning": "an idealised person or thing; a spectre or phantom"
+  },
+  {
+    "word": "Flibbertigibbet",
+    "pronunciation": "flib-ur-tee-JIB-it",
+    "meaning": "a frivolous, flighty, or excessively talkative person"
+  },
+  {
+    "word": "Gallimaufry",
+    "pronunciation": "gal-ih-MAW-free",
+    "meaning": "a confused mixture or medley of things"
+  },
+  {
+    "word": "Hebdomadal",
+    "pronunciation": "heb-DOM-uh-dl",
+    "meaning": "occurring every week; weekly"
+  },
+  {
+    "word": "Incunabula",
+    "pronunciation": "in-kyoo-NAB-yuh-luh",
+    "meaning": "books printed before 1501; early stages of something"
+  },
+  {
+    "word": "Juvenescent",
+    "pronunciation": "joo-vuh-NESS-uhnt",
+    "meaning": "becoming young or youthful; growing fresh again"
+  },
+  {
+    "word": "Kakistocracy",
+    "pronunciation": "kak-iss-TOCK-ruh-see",
+    "meaning": "government by the least qualified or most unprincipled citizens"
+  },
+  {
+    "word": "Limerence",
+    "pronunciation": "LIM-er-uhns",
+    "meaning": "an intense, involuntary infatuation with another person"
+  },
+  {
+    "word": "Mephitic",
+    "pronunciation": "muh-FIT-ik",
+    "meaning": "foul-smelling; noxious or poisonous"
+  },
+  {
+    "word": "Nidificate",
+    "pronunciation": "nid-IF-uh-kayt",
+    "meaning": "to build a nest"
+  },
+  {
+    "word": "Obnubilate",
+    "pronunciation": "ob-NOO-buh-layt",
+    "meaning": "to cloud over; to obscure or darken"
+  },
+  {
+    "word": "Palaver",
+    "pronunciation": "puh-LAH-vuh",
+    "meaning": "prolonged and idle discussion; persuasive talk"
+  },
+  {
+    "word": "Quomodocunquizing",
+    "pronunciation": "kwoh-moh-doh-KUNK-wy-zing",
+    "meaning": "making money by any means possible"
+  },
+  {
+    "word": "Rutilant",
+    "pronunciation": "ROO-tih-luhnt",
+    "meaning": "glowing or sparkling with a reddish or golden light"
+  },
+  {
+    "word": "Sciamachy",
+    "pronunciation": "sy-AM-uh-kee",
+    "meaning": "shadow-boxing; an imaginary or futile combat"
+  },
+  {
+    "word": "Trenchant",
+    "pronunciation": "TREN-chuhnt",
+    "meaning": "incisive, vigorous, and sharply perceptive"
+  },
+  {
+    "word": "Ultracrepidarian",
+    "pronunciation": "ul-truh-krep-ih-DAIR-ee-uhn",
+    "meaning": "one who offers opinions beyond their knowledge or expertise"
+  },
+  {
+    "word": "Veridical",
+    "pronunciation": "vuh-RID-ih-kuhl",
+    "meaning": "truthful; corresponding to facts"
+  },
+  {
+    "word": "Woolgathering",
+    "pronunciation": "WOOL-gath-uh-ring",
+    "meaning": "indulgence in aimless day-dreaming or absent-mindedness"
+  },
+  {
+    "word": "Xylography",
+    "pronunciation": "zy-LOG-ruh-fee",
+    "meaning": "the art of engraving on wood"
+  },
+  {
+    "word": "Yonic",
+    "pronunciation": "YON-ik",
+    "meaning": "symbolic of the female genitalia; counterpart to phallic"
+  },
+  {
+    "word": "Zaibatsu",
+    "pronunciation": "zye-BAT-soo",
+    "meaning": "a large Japanese business conglomerate"
+  },
+  {
+    "word": "Aestival",
+    "pronunciation": "EES-tuh-vuhl",
+    "meaning": "pertaining to or appearing in summer"
+  },
+  {
+    "word": "Borborygmus",
+    "pronunciation": "baw-buh-RIG-muhs",
+    "meaning": "the rumbling sound made by the movement of gas in the intestines"
+  },
+  {
+    "word": "Chthonic",
+    "pronunciation": "THON-ik",
+    "meaning": "relating to deities or spirits of the underworld"
+  },
+  {
+    "word": "Dysania",
+    "pronunciation": "dis-AN-ee-uh",
+    "meaning": "the state of finding it hard to get out of bed in the morning"
+  },
+  {
+    "word": "Epizeuxis",
+    "pronunciation": "ep-ih-ZOOK-sis",
+    "meaning": "the rhetorical repetition of a word for emphasis"
+  },
+  {
+    "word": "Funambulate",
+    "pronunciation": "fyoo-NAM-byuh-layt",
+    "meaning": "to perform tight-rope walking"
+  },
+  {
+    "word": "Gravid",
+    "pronunciation": "GRAV-id",
+    "meaning": "pregnant; carrying eggs or young"
+  },
+  {
+    "word": "Introit",
+    "pronunciation": "IN-troyt",
+    "meaning": "a hymn or psalm sung at the beginning of a church service"
+  },
+  {
+    "word": "Kenopsia",
+    "pronunciation": "keh-NOP-see-uh",
+    "meaning": "the eerie, forlorn atmosphere of a place usually bustling with people but now abandoned"
+  },
+  {
+    "word": "Lissome",
+    "pronunciation": "LISS-uhm",
+    "meaning": "thin, supple, and graceful"
+  },
+  {
+    "word": "Metanoia",
+    "pronunciation": "met-uh-NOY-uh",
+    "meaning": "a profound, transformative change in one’s life or way of thinking"
+  },
+  {
+    "word": "Nacreous",
+    "pronunciation": "NAY-kree-uhs",
+    "meaning": "having an iridescent, mother-of-pearl lustre"
+  },
+  {
+    "word": "Odalisque",
+    "pronunciation": "oh-duh-LISK",
+    "meaning": "a female attendant or concubine in a Turkish harem"
+  },
+  {
+    "word": "Psithurism",
+    "pronunciation": "SITH-uh-riz-um",
+    "meaning": "the soft sound of wind whispering through trees"
+  }
+]

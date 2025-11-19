@@ -1,0 +1,357 @@
+[
+  {
+    "question": "Choose the correct plural of the noun \"curriculum.\"",
+    "options": ["curriculums", "curriculi", "curricula", "curriculum"],
+    "answer_index": 2
+  },
+  {
+    "question": "Select the sentence that follows standard British punctuation for direct speech.",
+    "options": [
+      "“I’m on holiday next week”, she said.",
+      "“I’m on holiday next week,” she said.",
+      "“I’m on holiday next week,” she said?",
+      "“I’m on holiday next week”, said she."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the gap: \"I’d rather you ___ here by six o’clock.\"",
+    "options": ["are", "will be", "were", "have been"],
+    "answer_index": 2
+  },
+  {
+    "question": "Which spelling is correct in British English?",
+    "options": ["travelling", "traveling", "trave lling", "travelingg"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the synonym closest in meaning to \"candid.\"",
+    "options": ["evasive", "frank", "reserved", "dubious"],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct comparative: \"This route is ___ than the motorway.\"",
+    "options": ["scenic", "more scenic", "scenicer", "most scenic"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": [
+      "The committee approved the proposal.",
+      "The proposal was approved by the committee.",
+      "The committee will approve the proposal.",
+      "The committee has approved the proposal."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the correct preposition: \"The shop is opposite ___ bank.\"",
+    "options": ["the", "a", "an", "no article"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which word is an antonym of \"scarce\"?",
+    "options": ["abundant", "meagre", "rare", "sparse"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the figure of speech in \"Time tip-toed past.\"",
+    "options": ["Personification", "Alliteration", "Simile", "Euphemism"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence that correctly distinguishes between \"fewer\" and \"less\" in British usage.",
+    "options": [
+      "We need less volunteers this year.",
+      "She drank fewer water than yesterday.",
+      "There were fewer trains running at night.",
+      "I own fewer pieces of furniture."
+    ],
+    "answer_index": 2
+  },
+  {
+    "question": "Choose the correct tag question: \"You've finished the report, ___?\"",
+    "options": ["have you", "haven’t you", "did you", "don’t you"],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the correctly punctuated possessive form.",
+    "options": ["The childrens' playground", "The children's playground", "The childrens playground", "The childrens's playground"],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill in the blank: \"The Prime Minister announced a series of ___ measures.\"",
+    "options": ["far-reaching", "far reaching", "farreaching", "far- reach"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which sentence contains a dangling modifier?",
+    "options": [
+      "Driving down the road, the new stadium came into view.",
+      "Driving down the road, we saw the new stadium.",
+      "We saw the new stadium as we were driving down the road.",
+      "As we drove, the new stadium came into view."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct phrasal verb: \"I’ll ___ the matter with HR tomorrow.\"",
+    "options": ["take after", "take over", "take up", "take off"],
+    "answer_index": 2
+  },
+  {
+    "question": "Select the sentence written in British English spelling AND grammar.",
+    "options": [
+      "The programme was well-received by the organisers.",
+      "The program was well-received by the organizers.",
+      "The programme was well received by the organizers.",
+      "The program was well received by the organisers."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the tense: \"By this time next year, they will have been living here for a decade.\"",
+    "options": [
+      "Future perfect", 
+      "Future perfect continuous", 
+      "Present perfect continuous", 
+      "Future continuous"
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence correctly uses the subjunctive in British English?",
+    "options": [
+      "It is essential that he attends the meeting.",
+      "It is essential that he attend the meeting.",
+      "It is essential that he will attend the meeting.",
+      "It is essential that he attending the meeting."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correctly ordered adjectives.",
+    "options": [
+      "An old lovely stone cottage",
+      "A lovely old stone cottage",
+      "A stone lovely old cottage",
+      "An old stone lovely cottage"
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the phrasal verb meaning \"to tolerate\".",
+    "options": ["put up with", "put over", "put away", "put in for"],
+    "answer_index": 0
+  },
+  {
+    "question": "Fill the gap: \"Neither the staff nor the manager ___ willing to compromise.\"",
+    "options": ["is", "are", "was", "be"],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the sentence that correctly uses the semi-colon.",
+    "options": [
+      "We visited Bath; which is famous for its Roman baths.",
+      "We visited Bath; it is famous for its Roman baths.",
+      "We visited Bath, it is famous for its Roman baths.",
+      "We visited Bath: it is famous; for its Roman baths."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Which option contains a gerund phrase?",
+    "options": [
+      "To swim across the lake was daring.",
+      "Swimming across the lake was daring.",
+      "Swim across the lake quickly.",
+      "He had swum across the lake."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the correct reported-speech transformation (British usage): He said, \"I can’t attend the conference.\"",
+    "options": [
+      "He said he couldn’t attend the conference.",
+      "He said he can’t attend the conference.",
+      "He said he won’t attend the conference.",
+      "He said that he don’t attend the conference."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which of these words is spelled incorrectly in British English?",
+    "options": ["defence", "licence", "offence", "independance"],
+    "answer_index": 3
+  },
+  {
+    "question": "What part of speech is the underlined word? \"She spoke _softly_.\"",
+    "options": ["adjective", "adverb", "noun", "verb"],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct conditional (Type 2).",
+    "options": [
+      "If you caught the early train, you would be on time.",
+      "If you catch the early train, you are on time.",
+      "If you will catch the early train, you would be on time.",
+      "If you caught the early train, you will be on time."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the sentence with correct subject-verb agreement for a collective noun in British English.",
+    "options": [
+      "The team are winning comfortably.",
+      "The team is winning comfortably.",
+      "The team were winning comfortably.",
+      "The team has win comfortably."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correct definition of the idiom \"to pull someone’s leg.\"",
+    "options": ["Annoy them", "Deceive them playfully", "Assist them", "Hurry them"],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the sentence using a non-defining relative clause.",
+    "options": [
+      "My sister who lives in Leeds is a doctor.",
+      "My sister, who lives in Leeds, is a doctor.",
+      "The sisters who live in Leeds are doctors.",
+      "My sister that lives in Leeds is a doctor."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the gap with the correct article: \"___ Himalayas are breathtaking.\"",
+    "options": ["A", "An", "The", "No article"],
+    "answer_index": 2
+  },
+  {
+    "question": "Which sentence demonstrates correct use of the Oxford (serial) comma according to *British style guides that allow it*?",
+    "options": [
+      "We bought apples, pears, and oranges.",
+      "We bought apples, pears and, oranges.",
+      "We bought apples, pears and oranges.",
+      "We bought apples and, pears and oranges."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct spelling in British English:",
+    "options": ["manoeuvre", "maneuver", "manoeuver", "manouver"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the literary device: \"All the world’s a stage.\"",
+    "options": ["Metaphor", "Simile", "Hyperbole", "Onomatopoeia"],
+    "answer_index": 0
+  },
+  {
+    "question": "In Shakespeare’s *Macbeth*, who first greets Macbeth as \"Thane of Cawdor\"?",
+    "options": ["King Duncan", "Banquo", "One of the Witches", "Macduff"],
+    "answer_index": 2
+  },
+  {
+    "question": "Select the sentence that avoids a comma splice.",
+    "options": [
+      "The lecture was long, many students left early.",
+      "The lecture was long; many students left early.",
+      "The lecture was long, many students, left early.",
+      "The lecture was long: many students left early"
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct perfect infinitive to complete the sentence: \"She seems ___ the deadline.\"",
+    "options": ["to miss", "to have missed", "to be missing", "to missed"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which option best paraphrases this sentence while retaining its meaning? \"Hardly had I arrived when the meeting started.\"",
+    "options": [
+      "I arrived after the meeting started.",
+      "The meeting started just after I arrived.",
+      "I had arrived long before the meeting started.",
+      "I started the meeting after I arrived."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the gap using an appropriate discourse marker: \"___ his qualifications, he was not shortlisted.\"",
+    "options": ["Despite", "Because of", "Owing to", "Since"],
+    "answer_index": 0
+  },
+  {
+    "question": "In British English, which phrasal verb means \"to cancel\"?",
+    "options": ["call in", "call at", "call off", "call for"],
+    "answer_index": 2
+  },
+  {
+    "question": "Identify the sentence that correctly uses *whom* in formal British English.",
+    "options": [
+      "The candidate, whom we interviewed yesterday, was impressive.",
+      "The candidate whom interviewed yesterday was impressive.",
+      "The candidate, who we interviewed yesterday, was impressive.",
+      "The candidate who we interviewed yesterday, was impressive."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the sentence that illustrates an *elliptical conditional*.",
+    "options": [
+      "Were I to know, I would help.",
+      "If I know, I will help.",
+      "If I had known, I would have helped.",
+      "Knowing, I would help."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which author is known for the *Stream of Consciousness* technique in British literature?",
+    "options": ["Virginia Woolf", "Emily Brontë", "Thomas Hardy", "George Eliot"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correct definition of the idiom \"to throw a spanner in the works.\"",
+    "options": ["Improve efficiency", "Cause an unexpected problem", "Offer constructive criticism", "Speed up a process"],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the type of clause in italics: \"The report, *which was compiled last year*, is now obsolete.\"",
+    "options": ["Defining relative clause", "Non-defining relative clause", "Conditional clause", "Adverbial clause"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which of the following sentences uses *fronted adverbials* correctly?",
+    "options": [
+      "Yesterday evening, we watched the fireworks.",
+      "We watched yesterday evening the fireworks.",
+      "We watched the fireworks, yesterday evening.",
+      "We watched the fireworks yesterday evening."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Fill in with the correct collocation: \"A ___ decision was taken to relocate the headquarters.\"",
+    "options": ["deep-rooted", "far-fetched", "hard-line", "far-reaching"],
+    "answer_index": 3
+  },
+  {
+    "question": "Select the sentence that demonstrates correct *cleft-sentence* structure for emphasis.",
+    "options": [
+      "It was the manager who approved the budget.",
+      "It was approved the budget by the manager.",
+      "It is the budget the manager approved.",
+      "The budget, it was the manager who approved."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Read the short excerpt and answer the inference question:\n\n*“The sky over London was a flat, metallic grey; the air tasted faintly of soot and distant rain.”*\n\nWhat atmosphere does the author MOST LIKELY intend to create?",
+    "options": ["Buoyant anticipation", "Oppressive gloom", "Chaotic excitement", "Pastoral calm"],
+    "answer_index": 1
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "question": "Choose the correct plural form of the noun \"syllabus.\"",
+    "options": ["syllabuses", "syllabi", "syllabii", "syllabia"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the sentence that uses \"its / it’s\" correctly.",
+    "options": [
+      "Its raining, so bring it’s umbrella.",
+      "It’s raining, so bring your umbrella.",
+      "Its’ raining, so bring your umbrella.",
+      "It’s raining, so bring it’s umbrella."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the blank: \"I’m used to ___ up early.\"",
+    "options": ["get", "getting", "got", "to get"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which spelling is correct in British English?",
+    "options": ["theater", "theatre", "theetre", "theatr"],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the synonym for \"amiable.\"",
+    "options": ["hostile", "gregarious", "friendly", "aloof"],
+    "answer_index": 2
+  },
+  {
+    "question": "Choose the correct comparative: \"This cushion is ___ than that one.\"",
+    "options": ["soft", "softer", "more soft", "softest"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence is in the passive voice?",
+    "options": [
+      "The technician repaired the copier.",
+      "The copier was repaired by the technician.",
+      "The technician is repairing the copier.",
+      "The technician will repair the copier."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the correct article: \"They reached ___ unanimous verdict.\"",
+    "options": ["a", "an", "the", "no article"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which word is an antonym of \"expand\"?",
+    "options": ["contract", "extend", "widen", "prolong"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the figure of speech: \"The classroom buzzed with excitement.\"",
+    "options": ["Personification", "Onomatopoeia", "Simile", "Metaphor"],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct tag question: \"Nobody called back, ___?\"",
+    "options": ["did they", "didn’t they", "did he", "don’t they"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correctly punctuated possessive noun.",
+    "options": [
+      "The childrens’ toys were everywhere.",
+      "The children's toys were everywhere.",
+      "The childrens toys were everywhere.",
+      "The childrens's toys were everywhere."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the gap: \"The proposal was rejected ___ budget constraints.\"",
+    "options": ["owing to", "because", "due", "since"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the dangling modifier.",
+    "options": [
+      "Walking down the street, the skyscrapers amazed her.",
+      "Walking down the street, she was amazed by the skyscrapers.",
+      "She was amazed by the skyscrapers while walking down the street.",
+      "As she walked down the street, the skyscrapers amazed her."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the phrasal verb that means \"to surrender\": \"They finally ___ after hours of negotiation.\"",
+    "options": ["gave in", "gave up on", "gave out", "gave over"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which spelling is correct in British English?",
+    "options": ["neighbour", "neighbor", "neibor", "neighbur"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the tense: \"They have been renovating the house for months.\"",
+    "options": [
+      "Present perfect continuous",
+      "Present perfect",
+      "Past perfect continuous",
+      "Past continuous"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence that correctly uses the mandative subjunctive (British).",
+    "options": [
+      "It is crucial that he attend the briefing.",
+      "It is crucial that he attends the briefing.",
+      "It is crucial that he will attend the briefing.",
+      "It is crucial that he attending the briefing."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correctly ordered adjectives.",
+    "options": [
+      "A charming old stone bridge",
+      "An old charming stone bridge",
+      "A stone charming old bridge",
+      "A charming stone old bridge"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the idiom that means \"to disclose secret information.\"",
+    "options": ["Let the cat out of the bag", "Throw in the towel", "Kick the bucket", "Turn a blind eye"],
+    "answer_index": 0
+  },
+  {
+    "question": "Which option contains an infinitive phrase acting as a subject?",
+    "options": [
+      "To err is human.",
+      "Erring is human.",
+      "Human is to err.",
+      "To be human err."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct reported speech: He said, \"I needn’t come tomorrow.\"",
+    "options": [
+      "He said he needn’t come the next day.",
+      "He said he didn’t need to come the next day.",
+      "He said he doesn’t need to come tomorrow.",
+      "He said he needn’t to come the next day."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Which word is spelled incorrectly in British English?",
+    "options": ["conscience", "acquaintance", "definately", "separate"],
+    "answer_index": 2
+  },
+  {
+    "question": "Identify the part of speech of the underlined word: \"They walked _briskly_ to the station.\"",
+    "options": ["verb", "adverb", "adjective", "conjunction"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the correct third conditional sentence.",
+    "options": [
+      "If she had known, she would have acted differently.",
+      "If she knew, she would have acted differently.",
+      "If she has known, she would act differently.",
+      "If she had known, she would act differently."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the sentence with correct subject–verb agreement (collective noun).",
+    "options": [
+      "The committee are presenting their findings today.",
+      "The committee is presenting its findings today.",
+      "The committee were presents its findings today.",
+      "The committee have presents its findings today."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill in the blank with the correct preposition: \"She specialises ___ environmental law.\"",
+    "options": ["in", "at", "on", "for"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the literary device that represents an object as something closely associated with it (e.g., \"the Whitehall\" for the UK government).",
+    "options": ["Metonymy", "Personification", "Hyperbole", "Irony"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the object pronoun that completes the sentence: \"This stays between you and ___ only.\"",
+    "options": ["I", "me", "mine", "myself"],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the sentence that correctly uses a semicolon.",
+    "options": [
+      "He was exhausted; nevertheless, he continued working.",
+      "He was exhausted; nevertheless he continued working.",
+      "He was exhausted, nevertheless; he continued working.",
+      "He was exhausted;; nevertheless, he continued working."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which phrasal verb means \"to extinguish\"?",
+    "options": ["put out", "put down", "put over", "put aside"],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct plural form of \"focus.\"",
+    "options": ["focuses", "foci", "focusii", "focusses"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the sentence that avoids a misplaced modifier.",
+    "options": [
+      "He served sandwiches to the guests on paper plates.",
+      "He served the guests sandwiches on paper plates.",
+      "He served sandwiches on paper plates to the guests.",
+      "He on paper plates served sandwiches to the guests."
+    ],
+    "answer_index": 2
+  },
+  {
+    "question": "Which sentence correctly uses parallel structure?",
+    "options": [
+      "Her hobbies include painting, to cycle, and reading.",
+      "Her hobbies include painting, cycling, and reading.",
+      "Her hobbies include to paint, cycling, and reading.",
+      "Her hobbies include painting, cycling, and to read."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the tense: \"She will be studying when you arrive.\"",
+    "options": [
+      "Future continuous",
+      "Future perfect",
+      "Future perfect continuous",
+      "Present continuous"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct spelling in British English:",
+    "options": ["programme", "program", "programne", "programe"],
+    "answer_index": 0
+  },
+  {
+    "question": "Who wrote the dystopian novel *A Clockwork Orange*?",
+    "options": ["Anthony Burgess", "George Orwell", "Aldous Huxley", "John Wyndham"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence that correctly avoids a comma splice.",
+    "options": [
+      "The deadline is tomorrow; we must act now.",
+      "The deadline is tomorrow, we must act now.",
+      "The deadline is tomorrow therefore, we must act now.",
+      "The deadline is tomorrow, and must act now we."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct perfect infinitive: \"She is believed ___ the documents.\"",
+    "options": ["to sign", "to have signed", "to be signing", "to signed"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence best paraphrases: \"No sooner had the gates opened than the crowd surged forward.\"",
+    "options": [
+      "The crowd surged forward just after the gates opened.",
+      "The gates opened long after the crowd surged forward.",
+      "The crowd surged forward because the gates had long been open.",
+      "The gates opened because the crowd surged forward."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Fill the gap with a discourse marker: \"___ his injuries, the cyclist completed the race.\"",
+    "options": ["In spite of", "Because of", "Alongside", "Owing to"],
+    "answer_index": 0
+  },
+  {
+    "question": "In British English, which phrasal verb means \"to investigate thoroughly\"?",
+    "options": ["look into", "look over", "look after", "look out for"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the sentence that correctly uses *whom* after a preposition.",
+    "options": [
+      "The colleague with whom I travelled was punctual.",
+      "The colleague whom I travelled with was punctual.",
+      "The colleague who I travelled with was punctual.",
+      "The colleague with who I travelled was punctual."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the elliptical conditional sentence.",
+    "options": [
+      "Had she asked, we would have explained.",
+      "If she had asked, we would explain.",
+      "If she asking, we would have explained.",
+      "She had asked, we would have explained."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which author is known for the play *The Importance of Being Earnest*?",
+    "options": ["Oscar Wilde", "George Bernard Shaw", "Noël Coward", "J. M. Barrie"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correct definition of the idiom \"to move the goalposts.\"",
+    "options": [
+      "Change the rules unfairly",
+      "Celebrate a success loudly",
+      "Finish ahead of schedule",
+      "Predict an outcome accurately"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the clause type in italics: \"He left early, *so that he could catch the last train*.\"",
+    "options": [
+      "Adverbial clause of purpose",
+      "Adverbial clause of reason",
+      "Relative clause",
+      "Conditional clause"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which sentence correctly uses inversion for emphasis?",
+    "options": [
+      "Hardly had the film begun when the power failed.",
+      "The film hardly had begun when the power failed.",
+      "The film had begun hardly when the power failed.",
+      "Hardly the film had begun when the power failed."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Fill the collocation: \"They launched a ___ campaign to raise awareness.\"",
+    "options": ["nationwide", "nationwidely", "nationwiding", "nation-wide"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence demonstrating correct *cleft sentence* with fronted element.",
+    "options": [
+      "What really matters is trust.",
+      "It really matters what is trust.",
+      "Trust is what really matters it.",
+      "Really matters what is trust."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Read the excerpt and answer: *“A brittle silence spread through the courtroom like frost.”* What atmosphere does this create?",
+    "options": [
+      "Tense apprehension",
+      "Carefree joy",
+      "Boisterous humour",
+      "Triumphant celebration"
+    ],
+    "answer_index": 0
+  }
+]

@@ -1,0 +1,24 @@
+{
+    "1377712467307663360": {
+        "1195309351792033843": [
+            {
+                "warn_id": "4773e562",
+                "moderator_id": 1353629464709300338,
+                "timestamp": "2025-06-10T12:52:51.089592",
+                "reason": "Repeated disruptive behavior and making other users uncomfortable. Please be mindful of how your actions impact others."
+            },
+            {
+                "warn_id": "d44bf11f",
+                "moderator_id": 1353629464709300338,
+                "timestamp": "2025-06-10T12:53:29.244274",
+                "reason": "Repeatedly mentioning users against their wishes and making false accusations. This behavior is disruptive, constitutes harassment, and violates our rules against spreading misinformation and creating a hostile environment."
+            },
+            {
+                "warn_id": "55fc5605",
+                "moderator_id": 1353629464709300338,
+                "timestamp": "2025-06-10T12:54:46.664012",
+                "reason": "Engaging in highly disrespectful conduct and the use of offensive racial slurs."
+            }
+        ]
+    }
+}

@@ -1,0 +1,377 @@
+[
+  {
+    "question": "Choose the correct plural form of the noun \"phenomenon.\"",
+    "options": ["phenomena", "phenomenons", "phenomenae", "phenomenon"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence that correctly uses \"whose / who's.\"",
+    "options": [
+      "Who's keys are these?",
+      "Whose keys are these?",
+      "Whose's keys are these?",
+      "Who keys are these?"
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill in the blank: \"I have never ___ such a breathtaking view.\"",
+    "options": ["see", "saw", "seen", "seeing"],
+    "answer_index": 2
+  },
+  {
+    "question": "Which spelling is correct in British English?",
+    "options": ["centre", "center", "centar", "centr"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the synonym for \"lucid.\"",
+    "options": ["confused", "opaque", "clear", "vague"],
+    "answer_index": 2
+  },
+  {
+    "question": "Choose the correct article: \"It was ___ historic victory for the team.\"",
+    "options": ["a", "an", "the", "no article"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the figure of speech: \"The wind whispered through the trees.\"",
+    "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+    "answer_index": 2
+  },
+  {
+    "question": "Which sentence is written in the passive voice?",
+    "options": [
+      "The gardener planted the roses.",
+      "The roses were planted by the gardener.",
+      "The gardener is planting the roses.",
+      "The gardener will plant the roses."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct comparative: \"This lane is ___ than the main road.\"",
+    "options": ["narrow", "narrower", "more narrow", "narrowest"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which word is an antonym of \"rigid\"?",
+    "options": ["stiff", "inflexible", "flexible", "solid"],
+    "answer_index": 2
+  },
+  {
+    "question": "Choose the correct tag question: \"Let's sit in the garden, ___?\"",
+    "options": ["shall we", "will we", "won't we", "should we"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence that uses the mandative subjunctive correctly in British English.",
+    "options": [
+      "I suggest that he take the train.",
+      "I suggest that he takes the train.",
+      "I suggest that he will take the train.",
+      "I suggest that he taking the train."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which spelling is correct in British English?",
+    "options": ["fulfil", "fulfill", "fulfil l", "fullfil"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the tense: \"She has been writing emails since dawn.\"",
+    "options": [
+      "Present perfect",
+      "Present perfect continuous",
+      "Past perfect continuous",
+      "Present continuous"
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the phrasal verb that means \"to postpone\": \"They decided to ___ the meeting.\"",
+    "options": ["put off", "put out", "put across", "put away"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correctly ordered adjectives.",
+    "options": [
+      "A beautiful large antique vase",
+      "A large antique beautiful vase",
+      "An antique beautiful large vase",
+      "A beautiful antique large vase"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which sentence contains a dangling modifier?",
+    "options": [
+      "While reading the book, the phone rang.",
+      "While she was reading the book, the phone rang.",
+      "She was reading the book when the phone rang.",
+      "As she read the book, the phone rang."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the idiom that means \"to start again from the beginning.\"",
+    "options": [
+      "Go back to square one",
+      "Cross that bridge",
+      "Cut corners",
+      "Bite the bullet"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correctly punctuated sentence.",
+    "options": [
+      "My friends, Sarah, Tom and Priya are arriving.",
+      "My friends Sarah, Tom, and Priya are arriving.",
+      "My friends Sarah, Tom and, Priya are arriving.",
+      "My friends Sarah Tom and Priya, are arriving."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Which option contains a gerund acting as a subject?",
+    "options": [
+      "Swimming is excellent exercise.",
+      "To swim is excellent exercise.",
+      "Swim carefully across the river.",
+      "He swam across the river."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct reported speech: She said, \"I may arrive late.\"",
+    "options": [
+      "She said she might arrive late.",
+      "She said she may arrive late.",
+      "She said she can arrive late.",
+      "She said she would arrive late."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which of these words is spelled incorrectly in British English?",
+    "options": ["supersede", "occurrence", "restaurent", "harassment"],
+    "answer_index": 2
+  },
+  {
+    "question": "Identify the part of speech of the underlined word: \"He spoke _loudly_.\"",
+    "options": ["noun", "adjective", "adverb", "preposition"],
+    "answer_index": 2
+  },
+  {
+    "question": "Select the correct second conditional sentence.",
+    "options": [
+      "If she were taller, she would reach the shelf.",
+      "If she is taller, she will reach the shelf.",
+      "If she was taller, she reaches the shelf.",
+      "If she were taller, she will reach the shelf."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the sentence with correct subject–verb agreement in British English.",
+    "options": [
+      "The staff are preparing for the event.",
+      "The staff is preparing for the event.",
+      "The staff has preparing for the event.",
+      "The staff was prepare for the event."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Fill in the blank with the correct preposition: \"She's keen ___ classical music.\"",
+    "options": ["about", "in", "on", "with"],
+    "answer_index": 2
+  },
+  {
+    "question": "Identify the literary device that gives human characteristics to inanimate objects.",
+    "options": ["Personification", "Metonymy", "Synecdoche", "Allusion"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the object pronoun that completes the sentence: \"The manager praised James and ___ for the idea.\"",
+    "options": ["I", "me", "myself", "mine"],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the sentence that correctly uses a colon.",
+    "options": [
+      "She brought three things: bread, cheese, and grapes.",
+      "She brought: bread, cheese, and grapes.",
+      "She brought, bread: cheese and grapes.",
+      "She: brought bread, cheese and grapes."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which phrasal verb means \"to tolerate\"?",
+    "options": ["put up with", "put up to", "put out with", "put up for"],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct plural form of \"index\".",
+    "options": ["indexes", "indices", "indexs", "indeces"],
+    "answer_index": 1
+  },
+  {
+    "question": "Select the sentence that avoids ambiguity caused by a misplaced modifier.",
+    "options": [
+      "She nearly drove her children to school every day.",
+      "She drove her children to school nearly every day.",
+      "Nearly she drove her children to school every day.",
+      "She drove nearly her children to school every day."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence correctly uses parallel structure?",
+    "options": [
+      "He enjoys reading, to cycle, and swimming.",
+      "He enjoys reading, cycling, and swimming.",
+      "He enjoys to read, cycling, and swimming.",
+      "He enjoys reading, cycling, and to swim."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the tense: \"We will have finished the project by Friday.\"",
+    "options": [
+      "Future perfect",
+      "Future continuous",
+      "Future perfect continuous",
+      "Present perfect"
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the correct spelling in British English:",
+    "options": ["cheque", "check", "chek", "chequee"],
+    "answer_index": 0
+  },
+  {
+    "question": "Who is the author of the novel *Brideshead Revisited*?",
+    "options": ["Evelyn Waugh", "Anthony Burgess", "Kingsley Amis", "Iris Murdoch"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence that correctly avoids a comma splice.",
+    "options": [
+      "The sun set, the air grew cold.",
+      "The sun set; the air grew cold.",
+      "The sun set, and the air grew cold.",
+      "The sun set the air grew cold."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Choose the correct perfect infinitive to complete the sentence: \"He seems ___ the memo.\"",
+    "options": ["to forget", "to have forgotten", "to be forgetting", "to forgot"],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence best paraphrases: \"Scarcely had we departed when the storm began.\"",
+    "options": [
+      "We left long after the storm began.",
+      "The storm began immediately after we left.",
+      "We departed because the storm began.",
+      "We scarcely left as the storm began."
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Fill the gap with a suitable discourse marker: \"___ their objections, the proposal was approved.\"",
+    "options": ["Notwithstanding", "Because of", "In case of", "Due to"],
+    "answer_index": 0
+  },
+  {
+    "question": "In British English, which phrasal verb means \"to meet by chance\"?",
+    "options": ["run into", "run over", "run up", "run down"],
+    "answer_index": 0
+  },
+  {
+    "question": "Identify the sentence that correctly uses *whom* after a preposition.",
+    "options": [
+      "The woman to whom I spoke was friendly.",
+      "The woman whom I spoke to was friendly.",
+      "The woman who I spoke to was friendly.",
+      "The woman whom I spoke was friendly."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Choose the elliptical conditional sentence.",
+    "options": [
+      "Should you need help, let me know.",
+      "If you need help, let me know.",
+      "In case you need help, let me know.",
+      "You should need help, let me know."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Which British novelist is famous for *Bleak House*?",
+    "options": ["Charles Dickens", "George Gissing", "Elizabeth Gaskell", "Wilkie Collins"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the correct definition of the idiom \"to keep someone at arm’s length.\"",
+    "options": [
+      "Maintain a close friendship",
+      "Avoid becoming too friendly",
+      "Offer assistance promptly",
+      "Persuade thoroughly"
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Identify the clause type in italics: \"I’ll call you after dinner, *when I'm free*.\"",
+    "options": [
+      "Relative clause",
+      "Adverbial clause of time",
+      "Conditional clause",
+      "Noun clause"
+    ],
+    "answer_index": 1
+  },
+  {
+    "question": "Which sentence correctly uses inversion for emphasis?",
+    "options": [
+      "Seldom have I seen such chaos.",
+      "I have seldom seen such chaos.",
+      "Seldom I have seen such chaos.",
+      "I seldom have seen such chaos."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Fill in the collocation: \"The manager reached a ___ agreement with the union.\"",
+    "options": ["mutual", "mutually", "mutualised", "mutuality"],
+    "answer_index": 0
+  },
+  {
+    "question": "Select the sentence demonstrating correct cleft structure with \"what.\"",
+    "options": [
+      "What she loves is classical music.",
+      "She what loves is classical music.",
+      "What is classical music she loves.",
+      "She loves what is classical music."
+    ],
+    "answer_index": 0
+  },
+  {
+    "question": "Read the excerpt and answer: *“A hush settled over the hall as the final notes faded into nothingness.”* What atmosphere is the writer conveying?",
+    "options": [
+      "Boisterous celebration",
+      "Tense anticipation",
+      "Calm reverence",
+      "Chaotic confusion"
+    ],
+    "answer_index": 2
+  }
+]

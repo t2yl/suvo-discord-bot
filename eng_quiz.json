@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Choose the correct pronoun: \"My sister and _____ are going to the movies.\"",
+    "options": ["me", "I", "myself", "mine"],
+    "answer_index": 1,
+    "level": "Beginner"
+  },
+  {
+    "question": "What is the opposite of \"hot\"?",
+    "options": ["warm", "cold", "sunny", "dry"],
+    "answer_index": 1,
+    "level": "Beginner"
+  },
+  {
+    "question": "Which word is a noun?",
+    "options": ["run", "happy", "quickly", "book"],
+    "answer_index": 3,
+    "level": "Beginner"
+  },
+  {
+    "question": "Fill in the blank: \"There _____ a cat on the sofa.\"",
+    "options": ["is", "are", "am", "be"],
+    "answer_index": 0,
+    "level": "Beginner"
+  },
+  {
+    "question": "Choose the correct past tense: \"He _____ his homework last night.\"",
+    "options": ["do", "does", "did", "done"],
+    "answer_index": 2,
+    "level": "Beginner"
+  },
+  {
+    "question": "Select the correct question word: \"_____ is your favorite color?\"",
+    "options": ["Who", "What", "When", "Where"],
+    "answer_index": 1,
+    "level": "Beginner"
+  },
+  {
+    "question": "Which of these is a fruit?",
+    "options": ["carrot", "potato", "banana", "broccoli"],
+    "answer_index": 2,
+    "level": "Beginner"
+  },
+  {
+    "question": "Complete the sentence: \"I would like _____ water, please.\"",
+    "options": ["some", "any", "a", "many"],
+    "answer_index": 0,
+    "level": "Beginner"
+  },
+  {
+    "question": "Choose the correct form: \"They _____ from Canada.\"",
+    "options": ["is", "am", "are", "be"],
+    "answer_index": 2,
+    "level": "Beginner"
+  },
+  {
+    "question": "What time is it? It's ten _____ three.",
+    "options": ["past", "to", "at", "for"],
+    "answer_index": 0,
+    "level": "Beginner"
+  },
+  {
+    "question": "Select the correctly spelled word.",
+    "options": ["freind", "friend", "frind", "frend"],
+    "answer_index": 1,
+    "level": "Beginner"
+  },
+    {
+    "question": "Choose the correct possessive form: \"That is the _____ car.\"",
+    "options": ["boys", "boy's", "boys'", "boyes"],
+    "answer_index": 1,
+    "level": "Beginner"
+  },
+  {
+    "question": "If you don't hurry, you _____ the bus.",
+    "options": ["will miss", "miss", "would miss", "are missing"],
+    "answer_index": 0,
+    "level": "Intermediate"
+  },
+  {
+    "question": "Choose the sentence that is grammatically correct.",
+    "options": ["She don't like coffee.", "She doesn't likes coffee.", "She no like coffee.", "She doesn't like coffee."],
+    "answer_index": 3,
+    "level": "Intermediate"
+  },
+  {
+    "question": "He has been working here _____ 2010.",
+    "options": ["for", "since", "at", "in"],
+    "answer_index": 1,
+    "level": "Intermediate"
+  },
+  {
+    "question": "I'm not very good _____ playing tennis.",
+    "options": ["at", "in", "on", "with"],
+    "answer_index": 0,
+    "level": "Intermediate"
+  },
+  {
+    "question": "Select the word that best fits the meaning: \"The police are _____ the cause of the accident.\"",
+    "options": ["looking up", "looking after", "looking into", "looking for"],
+    "answer_index": 2,
+    "level": "Intermediate"
+  },
+  {
+    "question": "This is the town _____ I was born.",
+    "options": ["which", "that", "when", "where"],
+    "answer_index": 3,
+    "level": "Intermediate"
+  },
+  {
+    "question": "You should _____ your computer before you leave.",
+    "options": ["turn off", "turn on", "turn down", "turn up"],
+    "answer_index": 0,
+    "level": "Intermediate"
+  },
+  {
+    "question": "The movie was so boring _____ I fell asleep.",
+    "options": ["so", "because", "that", "although"],
+    "answer_index": 2,
+    "level": "Intermediate"
+  },
+  {
+    "question": "What would you do if you _____ a million dollars?",
+    "options": ["win", "won", "will win", "would win"],
+    "answer_index": 1,
+    "level": "Intermediate"
+  },
+  {
+    "question": "My phone _____ yesterday while I was jogging.",
+    "options": ["was stolen", "stole", "is stolen", "has been stolen"],
+    "answer_index": 0,
+    "level": "Intermediate"
+  },
+    {
+    "question": "Despite _____ hard, he failed the exam.",
+    "options": ["of studying", "he studied", "studying", "to study"],
+    "answer_index": 2,
+    "level": "Intermediate"
+  },
+  {
+    "question": "I'm really looking forward _____ you again soon.",
+    "options": ["to seeing", "to see", "see", "seeing"],
+    "answer_index": 0,
+    "level": "Intermediate"
+  },
+  {
+    "question": "The politician's speech was so _____ that many people were persuaded to vote for her.",
+    "options": ["eloquent", "mundane", "inarticulate", "verbose"],
+    "answer_index": 0,
+    "level": "Advanced"
+  },
+  {
+    "question": "Choose the word that means \"to make something worse.\"",
+    "options": ["alleviate", "ameliorate", "exacerbate", "mitigate"],
+    "answer_index": 2,
+    "level": "Advanced"
+  },
+  {
+    "question": "Not only _____ late, but he also forgot his presentation.",
+    "options": ["he was", "he has been", "was he", "has he been"],
+    "answer_index": 2,
+    "level": "Advanced"
+  },
+  {
+    "question": "The company had to file for bankruptcy, _____ its ambitious expansion plans.",
+    "options": ["notwithstanding", "whereas", "thereby", "henceforth"],
+    "answer_index": 0,
+    "level": "Advanced"
+  },
+    {
+    "question": "The old manuscript was _____, with many pages faded and torn.",
+    "options": ["illegible", "pristine", "lucid", "coherent"],
+    "answer_index": 0,
+    "level": "Advanced"
+  },
+  {
+    "question": "Had I known about the traffic, I _____ a different route.",
+    "options": ["would take", "took", "would have taken", "had taken"],
+    "answer_index": 2,
+    "level": "Advanced"
+  }
+]

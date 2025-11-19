@@ -1,0 +1,1862 @@
+[
+  {
+    "phrase": "Good Morning",
+    "korean_pronunciation": "굿 모닝",
+    "meaning": "a friendly greeting used in the early part of the day",
+    "korean_meaning": "좋은 아침입니다"
+  },
+  {
+    "phrase": "How are you?",
+    "korean_pronunciation": "하우 아 유",
+    "meaning": "asking someone about their well-being",
+    "korean_meaning": "어떻게 지내세요?"
+  },
+  {
+    "phrase": "Thank you",
+    "korean_pronunciation": "땡큐",
+    "meaning": "expressing gratitude",
+    "korean_meaning": "감사합니다"
+  },
+  {
+    "phrase": "Good Night",
+    "korean_pronunciation": "굿 나잇",
+    "meaning": "a farewell or greeting used before going to sleep",
+    "korean_meaning": "안녕히 주무세요"
+  },
+  {
+    "phrase": "See you later",
+    "korean_pronunciation": "씨 유 레이터",
+    "meaning": "indicating you will meet someone again soon",
+    "korean_meaning": "나중에 봐요"
+  },
+  {
+    "phrase": "I love you",
+    "korean_pronunciation": "아이 러브 유",
+    "meaning": "expressing deep affection",
+    "korean_meaning": "사랑합니다"
+  },
+  {
+    "phrase": "Excuse me",
+    "korean_pronunciation": "익스큐즈 미",
+    "meaning": "used to politely get someone's attention or apologize for interrupting",
+    "korean_meaning": "실례합니다"
+  },
+  {
+    "phrase": "I'm sorry",
+    "korean_pronunciation": "아임 쏘리",
+    "meaning": "expressing apology",
+    "korean_meaning": "죄송합니다"
+  },
+  {
+    "phrase": "Congratulations",
+    "korean_pronunciation": "컨그레츄레이션스",
+    "meaning": "expressing praise for someone's achievement",
+    "korean_meaning": "축하합니다"
+  },
+  {
+    "phrase": "Happy Birthday",
+    "korean_pronunciation": "해피 버스데이",
+    "meaning": "wishing someone well on their birth anniversary",
+    "korean_meaning": "생일 축하합니다"
+  },
+  {
+    "phrase": "What's your name?",
+    "korean_pronunciation": "왓츠 유어 네임",
+    "meaning": "asking someone for their name",
+    "korean_meaning": "이름이 뭐예요?"
+  },
+  {
+    "phrase": "Nice to meet you",
+    "korean_pronunciation": "나이스 투 밋 유",
+    "meaning": "a polite greeting upon first meeting someone",
+    "korean_meaning": "만나서 반갑습니다"
+  },
+  {
+    "phrase": "Where is the restroom?",
+    "korean_pronunciation": "웨어 이즈 더 레스트룸",
+    "meaning": "asking for the location of the bathroom",
+    "korean_meaning": "화장실이 어디에 있나요?"
+  },
+  {
+    "phrase": "How much is this?",
+    "korean_pronunciation": "하우 머치 이즈 디스",
+    "meaning": "inquiring about the price of something",
+    "korean_meaning": "이거 얼마예요?"
+  },
+  {
+    "phrase": "Help me",
+    "korean_pronunciation": "헬프 미",
+    "meaning": "requesting assistance",
+    "korean_meaning": "도와주세요"
+  },
+  {
+    "phrase": "I don't understand",
+    "korean_pronunciation": "아이 돈 언더스탠드",
+    "meaning": "indicating you cannot comprehend something",
+    "korean_meaning": "이해하지 못했어요"
+  },
+  {
+    "phrase": "Cheers",
+    "korean_pronunciation": "치얼스",
+    "meaning": "a toast or expression of good wishes when drinking",
+    "korean_meaning": "건배"
+  },
+  {
+    "phrase": "Have a nice day",
+    "korean_pronunciation": "해브 어 나이스 데이",
+    "meaning": "wishing someone to enjoy their day",
+    "korean_meaning": "좋은 하루 되세요"
+  },
+  {
+    "phrase": "Take care",
+    "korean_pronunciation": "테이크 케어",
+    "meaning": "expressing concern for someone's well-being",
+    "korean_meaning": "건강 조심하세요"
+  },
+  {
+    "phrase": "See you soon",
+    "korean_pronunciation": "씨 유 순",
+    "meaning": "indicating a reunion in the near future",
+    "korean_meaning": "곧 봐요"
+  },
+  {
+    "phrase": "Could you give me directions to _",
+    "korean_pronunciation": "쿳 유 기브 미 다이렉션스 투 _",
+    "meaning": "requesting directions to a specific place",
+    "korean_meaning": "_ 가는 길을 알려 주시겠어요?"
+  },
+  {
+    "phrase": "How old are you?",
+    "korean_pronunciation": "하우 올드 아 유",
+    "meaning": "asking someone about their age",
+    "korean_meaning": "몇 살이에요?"
+  },
+  {
+    "phrase": "You know what",
+    "korean_pronunciation": "유 노 왓",
+    "meaning": "introducing a sudden thought or idea",
+    "korean_meaning": "있잖아요"
+  },
+  {
+    "phrase": "Say that again?",
+    "korean_pronunciation": "세이 댓 어겐",
+    "meaning": "asking someone to repeat what they said",
+    "korean_meaning": "다시 말씀해 주시겠어요?"
+  },
+  {
+    "phrase": "Would you mind?",
+    "korean_pronunciation": "우드 유 마인드",
+    "meaning": "politely asking for permission or favor",
+    "korean_meaning": "괜찮으시겠어요?"
+  },
+  {
+    "phrase": "I can't wait",
+    "korean_pronunciation": "아이 캔트 웨잇",
+    "meaning": "expressing eager anticipation",
+    "korean_meaning": "정말 기대돼요"
+  },
+  {
+    "phrase": "Good luck",
+    "korean_pronunciation": "굿 럭",
+    "meaning": "wishing someone success",
+    "korean_meaning": "행운을 빌어요"
+  },
+  {
+    "phrase": "Be careful",
+    "korean_pronunciation": "비 케어풀",
+    "meaning": "advising someone to act with caution",
+    "korean_meaning": "조심하세요"
+  },
+  {
+    "phrase": "Let's go",
+    "korean_pronunciation": "렛츠 고",
+    "meaning": "encouraging to move or leave together",
+    "korean_meaning": "가자"
+  },
+  {
+    "phrase": "I'm hungry",
+    "korean_pronunciation": "아임 헝그리",
+    "meaning": "expressing the need to eat",
+    "korean_meaning": "배고파요"
+  },
+  {
+    "phrase": "Good afternoon",
+    "korean_pronunciation": "굿 애프터눈",
+    "meaning": "a friendly greeting used in the middle of the day",
+    "korean_meaning": "좋은 오후입니다"
+  },
+  {
+    "phrase": "Good evening",
+    "korean_pronunciation": "굿 이브닝",
+    "meaning": "a friendly greeting used in the early night",
+    "korean_meaning": "좋은 저녁입니다"
+  },
+  {
+    "phrase": "Welcome",
+    "korean_pronunciation": "웰컴",
+    "meaning": "greeting someone arriving",
+    "korean_meaning": "환영합니다"
+  },
+  {
+    "phrase": "I'm thirsty",
+    "korean_pronunciation": "아임 뜨스티",
+    "meaning": "expressing need for a drink",
+    "korean_meaning": "목말라요"
+  },
+  {
+    "phrase": "I'm tired",
+    "korean_pronunciation": "아임 타이어드",
+    "meaning": "expressing fatigue",
+    "korean_meaning": "피곤해요"
+  },
+  {
+    "phrase": "What's the time?",
+    "korean_pronunciation": "왓츠 더 타임",
+    "meaning": "asking for the current time",
+    "korean_meaning": "지금 몇 시예요?"
+  },
+  {
+    "phrase": "I'm lost",
+    "korean_pronunciation": "아임 로스트",
+    "meaning": "indicating you don't know where you are",
+    "korean_meaning": "길을 잃었어요"
+  },
+  {
+    "phrase": "Can you speak English?",
+    "korean_pronunciation": "캔 유 스피크 잉글리쉬",
+    "meaning": "inquiring if someone can converse in English",
+    "korean_meaning": "영어 할 수 있어요?"
+  },
+  {
+    "phrase": "Please wait a moment",
+    "korean_pronunciation": "플리즈 웨잇 어 모먼트",
+    "meaning": "asking someone to wait briefly",
+    "korean_meaning": "잠시만 기다려 주세요"
+  },
+  {
+    "phrase": "Call the police",
+    "korean_pronunciation": "콜 더 폴리스",
+    "meaning": "requesting someone to contact law enforcement",
+    "korean_meaning": "경찰을 불러 주세요"
+  },
+  {
+    "phrase": "Where is the hospital?",
+    "korean_pronunciation": "웨어 이즈 더 하스피털",
+    "meaning": "asking for the location of medical assistance",
+    "korean_meaning": "병원이 어디에 있나요?"
+  },
+  {
+    "phrase": "This is delicious",
+    "korean_pronunciation": "디스 이즈 딜리셔스",
+    "meaning": "praising the taste of food",
+    "korean_meaning": "맛있어요"
+  },
+  {
+    "phrase": "I'm full",
+    "korean_pronunciation": "아임 풀",
+    "meaning": "indicating you have eaten enough",
+    "korean_meaning": "배불러요"
+  },
+  {
+    "phrase": "I miss you",
+    "korean_pronunciation": "아이 미스 유",
+    "meaning": "expressing longing for someone",
+    "korean_meaning": "보고 싶어요"
+  },
+  {
+    "phrase": "Long time no see",
+    "korean_pronunciation": "롱 타임 노 씨",
+    "meaning": "greeting someone after a long absence",
+    "korean_meaning": "오랜만이에요"
+  },
+  {
+    "phrase": "Get well soon",
+    "korean_pronunciation": "겟 웰 순",
+    "meaning": "wishing someone a quick recovery",
+    "korean_meaning": "빨리 나으세요"
+  },
+  {
+    "phrase": "Good job",
+    "korean_pronunciation": "굿 잡",
+    "meaning": "praising someone's work",
+    "korean_meaning": "잘했어요"
+  },
+  {
+    "phrase": "Awesome",
+    "korean_pronunciation": "어썸",
+    "meaning": "expressing admiration",
+    "korean_meaning": "대단해요"
+  },
+  {
+    "phrase": "That's interesting",
+    "korean_pronunciation": "댓츠 인터레스팅",
+    "meaning": "showing fascination",
+    "korean_meaning": "재밌네요"
+  },
+  {
+    "phrase": "It's okay",
+    "korean_pronunciation": "잇츠 오케이",
+    "meaning": "reassuring that everything is fine",
+    "korean_meaning": "괜찮아요"
+  },
+  {
+    "phrase": "I'm fine",
+    "korean_pronunciation": "아임 파인",
+    "meaning": "telling someone you're well",
+    "korean_meaning": "괜찮아요"
+  },
+  {
+    "phrase": "Really?",
+    "korean_pronunciation": "릴리?",
+    "meaning": "expressing surprise or seeking confirmation",
+    "korean_meaning": "정말요?"
+  },
+  {
+    "phrase": "Maybe",
+    "korean_pronunciation": "메이비",
+    "meaning": "expressing uncertainty",
+    "korean_meaning": "아마도요"
+  },
+  {
+    "phrase": "Of course",
+    "korean_pronunciation": "오브 코스",
+    "meaning": "affirming positively",
+    "korean_meaning": "물론이죠"
+  },
+  {
+    "phrase": "No problem",
+    "korean_pronunciation": "노 프라블럼",
+    "meaning": "saying something is easy or not an issue",
+    "korean_meaning": "문제없어요"
+  },
+  {
+    "phrase": "You're welcome",
+    "korean_pronunciation": "유어 웰컴",
+    "meaning": "responding to thanks",
+    "korean_meaning": "천만에요"
+  },
+  {
+    "phrase": "What do you think?",
+    "korean_pronunciation": "왓 두 유 씽크",
+    "meaning": "asking someone's opinion",
+    "korean_meaning": "어떻게 생각하세요?"
+  },
+  {
+    "phrase": "I agree",
+    "korean_pronunciation": "아이 어그리",
+    "meaning": "expressing agreement",
+    "korean_meaning": "동의합니다"
+  },
+  {
+    "phrase": "I disagree",
+    "korean_pronunciation": "아이 디스어그리",
+    "meaning": "expressing disagreement",
+    "korean_meaning": "동의하지 않아요"
+  },
+  {
+    "phrase": "I'm busy",
+    "korean_pronunciation": "아임 비지",
+    "meaning": "indicating you have no free time",
+    "korean_meaning": "바빠요"
+  },
+  {
+    "phrase": "See you tomorrow",
+    "korean_pronunciation": "씨 유 투모로우",
+    "meaning": "parting words for the next day",
+    "korean_meaning": "내일 봐요"
+  },
+  {
+    "phrase": "Sweet dreams",
+    "korean_pronunciation": "스윗 드림스",
+    "meaning": "wishing someone restful sleep",
+    "korean_meaning": "좋은 꿈 꾸세요"
+  },
+  {
+    "phrase": "Have fun",
+    "korean_pronunciation": "해브 펀",
+    "meaning": "encouraging enjoyment",
+    "korean_meaning": "즐거운 시간 보내세요"
+  },
+  {
+    "phrase": "Let's eat",
+    "korean_pronunciation": "렛츠 잇",
+    "meaning": "inviting others to start a meal",
+    "korean_meaning": "같이 먹어요"
+  },
+  {
+    "phrase": "I'm bored",
+    "korean_pronunciation": "아임 보어드",
+    "meaning": "expressing lack of interest",
+    "korean_meaning": "심심해요"
+  },
+  {
+    "phrase": "Hurry up",
+    "korean_pronunciation": "허리 업",
+    "meaning": "telling someone to be quick",
+    "korean_meaning": "서두르세요"
+  },
+  {
+    "phrase": "Calm down",
+    "korean_pronunciation": "캄 다운",
+    "meaning": "advising someone to relax",
+    "korean_meaning": "진정하세요"
+  },
+  {
+    "phrase": "Stop",
+    "korean_pronunciation": "스탑",
+    "meaning": "commanding to cease an action",
+    "korean_meaning": "멈춰요"
+  },
+  {
+    "phrase": "What's wrong?",
+    "korean_pronunciation": "왓츠 롱",
+    "meaning": "asking why someone looks upset",
+    "korean_meaning": "무슨 일이에요?"
+  },
+  {
+    "phrase": "I need help",
+    "korean_pronunciation": "아이 니드 헬프",
+    "meaning": "requesting assistance urgently",
+    "korean_meaning": "도움이 필요해요"
+  },
+  {
+    "phrase": "What's up?",
+    "korean_pronunciation": "왓츠 업",
+    "meaning": "informal greeting asking what is happening",
+    "korean_meaning": "무슨 일이야?"
+  },
+  {
+    "phrase": "Just a moment",
+    "korean_pronunciation": "저스트 어 모먼트",
+    "meaning": "asking someone to wait briefly",
+    "korean_meaning": "잠시만요"
+  },
+  {
+    "phrase": "I'm home",
+    "korean_pronunciation": "아임 홈",
+    "meaning": "informing that you have arrived home",
+    "korean_meaning": "집에 왔어요"
+  },
+  {
+    "phrase": "I'm leaving",
+    "korean_pronunciation": "아임 리빙",
+    "meaning": "telling others you are going out or departing",
+    "korean_meaning": "나 갈게요"
+  },
+  {
+    "phrase": "Take a seat",
+    "korean_pronunciation": "테이크 어 시트",
+    "meaning": "inviting someone to sit down",
+    "korean_meaning": "앉으세요"
+  },
+  {
+    "phrase": "Enjoy your meal",
+    "korean_pronunciation": "엔조이 유어 밀",
+    "meaning": "wishing someone a pleasant meal",
+    "korean_meaning": "맛있게 드세요"
+  },
+  {
+    "phrase": "Where are you going?",
+    "korean_pronunciation": "웨어 아 유 고잉",
+    "meaning": "asking someone’s destination",
+    "korean_meaning": "어디 가세요?"
+  },
+  {
+    "phrase": "Where are you from?",
+    "korean_pronunciation": "웨어 아 유 프럼",
+    "meaning": "inquiring about someone's country or hometown",
+    "korean_meaning": "어디서 오셨어요?"
+  },
+  {
+    "phrase": "Do you understand?",
+    "korean_pronunciation": "두 유 언더스탠드",
+    "meaning": "checking if someone comprehends",
+    "korean_meaning": "이해했어요?"
+  },
+  {
+    "phrase": "I got it",
+    "korean_pronunciation": "아이 갓 잇",
+    "meaning": "indicating comprehension or completion",
+    "korean_meaning": "알겠어요"
+  },
+  {
+    "phrase": "Excuse me for a second",
+    "korean_pronunciation": "익스큐즈 미 포 어 세컨드",
+    "meaning": "politely asking for a brief interruption",
+    "korean_meaning": "잠깐 실례합니다"
+  },
+  {
+    "phrase": "Turn left",
+    "korean_pronunciation": "턴 레프트",
+    "meaning": "directional instruction",
+    "korean_meaning": "왼쪽으로 가세요"
+  },
+  {
+    "phrase": "Turn right",
+    "korean_pronunciation": "턴 라이트",
+    "meaning": "directional instruction",
+    "korean_meaning": "오른쪽으로 가세요"
+  },
+  {
+    "phrase": "Go straight",
+    "korean_pronunciation": "고 스트레이트",
+    "meaning": "directional instruction to continue forward",
+    "korean_meaning": "직진하세요"
+  },
+  {
+    "phrase": "Slow down",
+    "korean_pronunciation": "슬로우 다운",
+    "meaning": "telling someone to reduce speed",
+    "korean_meaning": "천천히 가세요"
+  },
+  {
+    "phrase": "My name is _",
+    "korean_pronunciation": "마이 네임 이즈 _",
+    "meaning": "introducing yourself",
+    "korean_meaning": "제 이름은 _입니다"
+  },
+  {
+    "phrase": "Nice work",
+    "korean_pronunciation": "나이스 워크",
+    "meaning": "praising someone's effort",
+    "korean_meaning": "수고했어요"
+  },
+  {
+    "phrase": "See you next time",
+    "korean_pronunciation": "씨 유 넥스트 타임",
+    "meaning": "parting words until the next meeting",
+    "korean_meaning": "다음에 봐요"
+  },
+  {
+    "phrase": "Have a safe trip",
+    "korean_pronunciation": "해브 어 세이프 트립",
+    "meaning": "wishing someone safe travels",
+    "korean_meaning": "안전한 여행 되세요"
+  },
+  {
+    "phrase": "What's this?",
+    "korean_pronunciation": "왓츠 디스",
+    "meaning": "asking about something nearby",
+    "korean_meaning": "이게 뭐예요?"
+  },
+  {
+    "phrase": "What's that?",
+    "korean_pronunciation": "왓츠 댓",
+    "meaning": "asking about something farther away",
+    "korean_meaning": "저게 뭐예요?"
+  },
+  {
+    "phrase": "It's expensive",
+    "korean_pronunciation": "잇츠 익스펜시브",
+    "meaning": "stating that something costs a lot",
+    "korean_meaning": "비싸요"
+  },
+  {
+    "phrase": "It's cheap",
+    "korean_pronunciation": "잇츠 칩",
+    "meaning": "stating that something is low-priced",
+    "korean_meaning": "싸요"
+  },
+  {
+    "phrase": "I like it",
+    "korean_pronunciation": "아이 라이크 잇",
+    "meaning": "expressing preference or approval",
+    "korean_meaning": "마음에 들어요"
+  },
+  {
+    "phrase": "I don't like it",
+    "korean_pronunciation": "아이 돈 라이크 잇",
+    "meaning": "expressing dislike",
+    "korean_meaning": "마음에 안 들어요"
+  },
+  {
+    "phrase": "I'm cold",
+    "korean_pronunciation": "아임 콜드",
+    "meaning": "saying you feel chilly",
+    "korean_meaning": "추워요"
+  },
+  {
+    "phrase": "I'm hot",
+    "korean_pronunciation": "아임 핫",
+    "meaning": "saying you feel warm",
+    "korean_meaning": "더워요"
+  },
+  {
+    "phrase": "I'm sick",
+    "korean_pronunciation": "아임 식",
+    "meaning": "telling someone you feel ill",
+    "korean_meaning": "아파요"
+  },
+  {
+    "phrase": "I'm scared",
+    "korean_pronunciation": "아임 스케어드",
+    "meaning": "expressing fear",
+    "korean_meaning": "무서워요"
+  },
+  {
+    "phrase": "I'm happy",
+    "korean_pronunciation": "아임 해피",
+    "meaning": "expressing happiness",
+    "korean_meaning": "행복해요"
+  },
+  {
+    "phrase": "I'm sad",
+    "korean_pronunciation": "아임 새드",
+    "meaning": "expressing sadness",
+    "korean_meaning": "슬퍼요"
+  },
+  {
+    "phrase": "I'm confused",
+    "korean_pronunciation": "아임 컨퓨즈드",
+    "meaning": "expressing lack of clarity",
+    "korean_meaning": "혼란스러워요"
+  },
+  {
+    "phrase": "Don't worry",
+    "korean_pronunciation": "돈 워리",
+    "meaning": "reassuring someone not to fret",
+    "korean_meaning": "걱정하지 마세요"
+  },
+  {
+    "phrase": "Don't be late",
+    "korean_pronunciation": "돈트 비 레이트",
+    "meaning": "advising punctuality",
+    "korean_meaning": "늦지 마세요"
+  },
+  {
+    "phrase": "It's raining",
+    "korean_pronunciation": "잇츠 레이닝",
+    "meaning": "noting the weather condition",
+    "korean_meaning": "비가 와요"
+  },
+  {
+    "phrase": "I'm at home",
+    "korean_pronunciation": "아임 앳 홈",
+    "meaning": "telling someone your location is your residence",
+    "korean_meaning": "집에 있어요"
+  },
+  {
+    "phrase": "It's far",
+    "korean_pronunciation": "잇츠 파",
+    "meaning": "stating that something is distant",
+    "korean_meaning": "멀어요"
+  },
+  {
+    "phrase": "It's close",
+    "korean_pronunciation": "잇츠 클로즈",
+    "meaning": "stating that something is nearby",
+    "korean_meaning": "가까워요"
+  },
+  {
+    "phrase": "Can I try?",
+    "korean_pronunciation": "캔 아이 트라이",
+    "meaning": "asking permission to attempt or sample something",
+    "korean_meaning": "해봐도 될까요?"
+  },
+  {
+    "phrase": "Can I pay by card?",
+    "korean_pronunciation": "캔 아이 페이 바이 카드",
+    "meaning": "asking if card payment is acceptable",
+    "korean_meaning": "카드로 결제해도 되나요?"
+  },
+  {
+    "phrase": "I'm sorry I'm late",
+    "korean_pronunciation": "아임 쏘리 아임 레잇",
+    "meaning": "apologizing for being late",
+    "korean_meaning": "늦어서 죄송합니다"
+  },
+  {
+    "phrase": "Can you help me?",
+    "korean_pronunciation": "캔 유 헬프 미",
+    "meaning": "asking someone for assistance",
+    "korean_meaning": "도와주실 수 있나요?"
+  },
+  {
+    "phrase": "Could you repeat that, please?",
+    "korean_pronunciation": "쿳 유 리핏 댓 플리즈",
+    "meaning": "politely asking someone to say something again",
+    "korean_meaning": "다시 말씀해 주시겠어요?"
+  },
+  {
+    "phrase": "What time does it open?",
+    "korean_pronunciation": "왓 타임 더즈 잇 오픈",
+    "meaning": "asking about opening time of a place",
+    "korean_meaning": "몇 시에 문 열어요?"
+  },
+  {
+    "phrase": "What time does it close?",
+    "korean_pronunciation": "왓 타임 더즈 잇 클로즈",
+    "meaning": "asking about closing time",
+    "korean_meaning": "몇 시에 문 닫아요?"
+  },
+  {
+    "phrase": "Where can I buy tickets?",
+    "korean_pronunciation": "웨어 캔 아이 바이 티켓츠",
+    "meaning": "asking where to purchase tickets",
+    "korean_meaning": "표를 어디서 살 수 있나요?"
+  },
+  {
+    "phrase": "Do you have Wi-Fi?",
+    "korean_pronunciation": "두 유 해브 와이파이",
+    "meaning": "inquiring if Wi-Fi is available",
+    "korean_meaning": "와이파이 있나요?"
+  },
+  {
+    "phrase": "Where is the bus stop?",
+    "korean_pronunciation": "웨어 이즈 더 버스 스탑",
+    "meaning": "asking for the bus stop location",
+    "korean_meaning": "버스 정류장이 어디예요?"
+  },
+  {
+    "phrase": "Is this seat taken?",
+    "korean_pronunciation": "이즈 디스 시트 테이큰",
+    "meaning": "asking permission to sit",
+    "korean_meaning": "이 자리 비었나요?"
+  },
+  {
+    "phrase": "I'd like this, please",
+    "korean_pronunciation": "아이드 라이크 디스 플리즈",
+    "meaning": "ordering the indicated item",
+    "korean_meaning": "이거 주세요"
+  },
+  {
+    "phrase": "I'd like to cancel",
+    "korean_pronunciation": "아이드 라이크 투 캔슬",
+    "meaning": "requesting to cancel something",
+    "korean_meaning": "취소하고 싶어요"
+  },
+  {
+    "phrase": "Check, please",
+    "korean_pronunciation": "첵 플리즈",
+    "meaning": "asking for the bill in a restaurant",
+    "korean_meaning": "계산서 주세요"
+  },
+  {
+    "phrase": "Where is the exit?",
+    "korean_pronunciation": "웨어 이즈 디 엑싯",
+    "meaning": "asking for the exit location",
+    "korean_meaning": "출구가 어디예요?"
+  },
+  {
+    "phrase": "I don't know",
+    "korean_pronunciation": "아이 돈 노우",
+    "meaning": "stating lack of knowledge",
+    "korean_meaning": "모르겠어요"
+  },
+  {
+    "phrase": "I'm studying Korean",
+    "korean_pronunciation": "아임 스터디잉 코리언",
+    "meaning": "saying you study Korean",
+    "korean_meaning": "한국어 공부하고 있어요"
+  },
+  {
+    "phrase": "I live in _",
+    "korean_pronunciation": "아이 리브 인 _",
+    "meaning": "telling where you live",
+    "korean_meaning": "저는 _에 살아요"
+  },
+  {
+    "phrase": "What is your phone number?",
+    "korean_pronunciation": "왓 이즈 유어 폰 넘버",
+    "meaning": "asking someone's contact number",
+    "korean_meaning": "전화번호가 뭐예요?"
+  },
+  {
+    "phrase": "I'm allergic to _",
+    "korean_pronunciation": "아임 얼러직 투 _",
+    "meaning": "stating an allergy",
+    "korean_meaning": "저는 _ 알레르기가 있어요"
+  },
+  {
+    "phrase": "Call a doctor",
+    "korean_pronunciation": "콜 어 닥터",
+    "meaning": "requesting medical assistance",
+    "korean_meaning": "의사를 불러 주세요"
+  },
+  {
+    "phrase": "Fire!",
+    "korean_pronunciation": "파이어!",
+    "meaning": "alerting others to fire danger",
+    "korean_meaning": "불이야!"
+  },
+  {
+    "phrase": "Which way?",
+    "korean_pronunciation": "위치 웨이?",
+    "meaning": "asking which direction to go",
+    "korean_meaning": "어느 쪽이에요?"
+  },
+  {
+    "phrase": "How long will it take?",
+    "korean_pronunciation": "하우 롱 윌 잇 테이크",
+    "meaning": "asking about duration of time",
+    "korean_meaning": "얼마나 걸려요?"
+  },
+  {
+    "phrase": "Can you lower the price?",
+    "korean_pronunciation": "캔 유 로워 더 프라이스",
+    "meaning": "negotiating a discount",
+    "korean_meaning": "좀 깎아 주실 수 있나요?"
+  },
+  {
+    "phrase": "Do you accept credit cards?",
+    "korean_pronunciation": "두 유 액셉트 크레딧 카즈",
+    "meaning": "asking if credit cards are accepted",
+    "korean_meaning": "신용카드 받으세요?"
+  },
+  {
+    "phrase": "I'm looking for _",
+    "korean_pronunciation": "아임 루킹 포 _",
+    "meaning": "saying you are searching for something",
+    "korean_meaning": "_을(를) 찾고 있어요"
+  },
+  {
+    "phrase": "I'm from _",
+    "korean_pronunciation": "아임 프럼 _",
+    "meaning": "stating your origin",
+    "korean_meaning": "저는 _에서 왔어요"
+  },
+  {
+    "phrase": "What's your hobby?",
+    "korean_pronunciation": "왓츠 유어 하비",
+    "meaning": "asking someone's pastime interest",
+    "korean_meaning": "취미가 뭐예요?"
+  },
+  {
+    "phrase": "I'm sleepy",
+    "korean_pronunciation": "아임 슬리피",
+    "meaning": "expressing need for sleep",
+    "korean_meaning": "졸려요"
+  },
+  {
+    "phrase": "Turn on the light",
+    "korean_pronunciation": "턴 온 더 라이트",
+    "meaning": "requesting to switch on lights",
+    "korean_meaning": "불 켜 주세요"
+  },
+  {
+    "phrase": "Turn off the light",
+    "korean_pronunciation": "턴 오프 더 라이트",
+    "meaning": "requesting to switch off lights",
+    "korean_meaning": "불 꺼 주세요"
+  },
+  {
+    "phrase": "Can I sit here?",
+    "korean_pronunciation": "캔 아이 싯 히어",
+    "meaning": "asking permission to sit",
+    "korean_meaning": "여기 앉아도 될까요?"
+  },
+  {
+    "phrase": "That's enough",
+    "korean_pronunciation": "댓츠 이너프",
+    "meaning": "indicating sufficiency",
+    "korean_meaning": "그만하세요"
+  },
+  {
+    "phrase": "I forgot",
+    "korean_pronunciation": "아이 포갓",
+    "meaning": "admitting memory lapse",
+    "korean_meaning": "잊어버렸어요"
+  },
+  {
+    "phrase": "I'm married",
+    "korean_pronunciation": "아임 매리드",
+    "meaning": "stating marital status",
+    "korean_meaning": "결혼했어요"
+  },
+  {
+    "phrase": "I'm single",
+    "korean_pronunciation": "아임 싱글",
+    "meaning": "stating you are unmarried",
+    "korean_meaning": "미혼이에요"
+  },
+  {
+    "phrase": "What do you mean?",
+    "korean_pronunciation": "왓 두 유 민?",
+    "meaning": "asking for clarification",
+    "korean_meaning": "무슨 뜻이에요?"
+  },
+  {
+    "phrase": "Excuse my Korean",
+    "korean_pronunciation": "익스큐즈 마이 코리언",
+    "meaning": "apologizing for poor Korean",
+    "korean_meaning": "한국어가 서툴러서 죄송해요"
+  },
+  {
+    "phrase": "I'm learning Korean",
+    "korean_pronunciation": "아임 러닝 코리언",
+    "meaning": "saying you are learning the language",
+    "korean_meaning": "한국어 배우고 있어요"
+  },
+  {
+    "phrase": "Please write it down",
+    "korean_pronunciation": "플리즈 라이트 잇 다운",
+    "meaning": "requesting someone to write something",
+    "korean_meaning": "적어 주세요"
+  },
+  {
+    "phrase": "Where can I find a taxi?",
+    "korean_pronunciation": "웨어 캔 아이 파인드 어 택시",
+    "meaning": "asking where to get a taxi",
+    "korean_meaning": "택시 어디서 탈 수 있나요?"
+  },
+  {
+    "phrase": "Nice to see you again",
+    "korean_pronunciation": "나이스 투 씨 유 어게인",
+    "meaning": "greeting someone you’ve met before after some time",
+    "korean_meaning": "다시 만나서 반가워요"
+  },
+  {
+    "phrase": "Bless you",
+    "korean_pronunciation": "블레스 유",
+    "meaning": "said to someone after they sneeze",
+    "korean_meaning": "재채기할 때 하는 말"
+  },
+  {
+    "phrase": "Goodbye",
+    "korean_pronunciation": "굿바이",
+    "meaning": "a common farewell when parting",
+    "korean_meaning": "안녕히 가세요/안녕히 계세요"
+  },
+  {
+    "phrase": "Take it easy",
+    "korean_pronunciation": "테이크 잇 이지",
+    "meaning": "telling someone to relax or not worry",
+    "korean_meaning": "편히 쉬세요"
+  },
+  {
+    "phrase": "What is this called in Korean?",
+    "korean_pronunciation": "왓 이즈 디스 콜드 인 코리언",
+    "meaning": "asking for the Korean word for something",
+    "korean_meaning": "이것을 한국어로 뭐라고 하나요?"
+  },
+  {
+    "phrase": "Could you show me?",
+    "korean_pronunciation": "쿳 유 쇼우 미",
+    "meaning": "asking someone to demonstrate or point out",
+    "korean_meaning": "보여 주시겠어요?"
+  },
+  {
+    "phrase": "Where is the pharmacy?",
+    "korean_pronunciation": "웨어 이즈 더 파머시",
+    "meaning": "asking for the location of a drugstore",
+    "korean_meaning": "약국이 어디예요?"
+  },
+  {
+    "phrase": "Is there a discount?",
+    "korean_pronunciation": "이즈 데어 어 디스카운트",
+    "meaning": "inquiring if a reduced price is available",
+    "korean_meaning": "할인 있나요?"
+  },
+  {
+    "phrase": "Could you please speak slower?",
+    "korean_pronunciation": "쿳 유 플리즈 스픽 슬로어",
+    "meaning": "asking someone to reduce their speaking speed",
+    "korean_meaning": "천천히 말씀해 주시겠어요?"
+  },
+  {
+    "phrase": "Can I get a bag?",
+    "korean_pronunciation": "캔 아이 겟 어 백",
+    "meaning": "requesting a shopping bag",
+    "korean_meaning": "봉투 주실 수 있나요?"
+  },
+  {
+    "phrase": "Do you have vegetarian options?",
+    "korean_pronunciation": "두 유 해브 베지테리언 옵션즈",
+    "meaning": "asking if meat-free dishes are available",
+    "korean_meaning": "채식 메뉴 있나요?"
+  },
+  {
+    "phrase": "I'm allergic to peanuts",
+    "korean_pronunciation": "아임 얼러직 투 피넛츠",
+    "meaning": "warning of a peanut allergy",
+    "korean_meaning": "저는 땅콩 알레르기가 있어요"
+  },
+  {
+    "phrase": "I have a reservation",
+    "korean_pronunciation": "아이 해브 어 레저베이션",
+    "meaning": "informing staff that you booked ahead",
+    "korean_meaning": "예약했어요"
+  },
+  {
+    "phrase": "I would like some water",
+    "korean_pronunciation": "아이 우드 라이크 썸 워터",
+    "meaning": "asking for drinking water",
+    "korean_meaning": "물 좀 주세요"
+  },
+  {
+    "phrase": "Can we have the menu?",
+    "korean_pronunciation": "캔 위 해브 더 메뉴",
+    "meaning": "asking for a menu at a restaurant",
+    "korean_meaning": "메뉴판 주세요"
+  },
+  {
+    "phrase": "Where is the nearest ATM?",
+    "korean_pronunciation": "웨어 이즈 더 니어레스트 에이티엠",
+    "meaning": "asking for the closest cash machine",
+    "korean_meaning": "가장 가까운 ATM이 어디예요?"
+  },
+  {
+    "phrase": "Where is the subway station?",
+    "korean_pronunciation": "웨어 이즈 더 서브웨이 스테이션",
+    "meaning": "asking for the location of the metro",
+    "korean_meaning": "지하철역이 어디예요?"
+  },
+  {
+    "phrase": "How do I get to the airport?",
+    "korean_pronunciation": "하우 두 아이 겟 투 디 에어포트",
+    "meaning": "asking directions to the airport",
+    "korean_meaning": "공항까지 어떻게 가요?"
+  },
+  {
+    "phrase": "Can you recommend a good restaurant?",
+    "korean_pronunciation": "캔 유 레커멘드 어 굿 레스토런트",
+    "meaning": "seeking suggestions for dining",
+    "korean_meaning": "좋은 식당 추천해 주실 수 있나요?"
+  },
+  {
+    "phrase": "Could you take a picture of us?",
+    "korean_pronunciation": "쿳 유 테이크 어 픽쳐 오브 어스",
+    "meaning": "asking someone to photograph you and your group",
+    "korean_meaning": "사진 좀 찍어 주시겠어요?"
+  },
+  {
+    "phrase": "Can I charge my phone here?",
+    "korean_pronunciation": "캔 아이 차지 마이 폰 히어",
+    "meaning": "asking permission to use a power outlet",
+    "korean_meaning": "여기서 휴대폰 충전해도 되나요?"
+  },
+  {
+    "phrase": "I lost my phone",
+    "korean_pronunciation": "아이 로스트 마이 폰",
+    "meaning": "informing that your phone is missing",
+    "korean_meaning": "휴대폰을 잃어버렸어요"
+  },
+  {
+    "phrase": "I lost my wallet",
+    "korean_pronunciation": "아이 로스트 마이 월릿",
+    "meaning": "informing that your wallet is missing",
+    "korean_meaning": "지갑을 잃어버렸어요"
+  },
+  {
+    "phrase": "It hurts here",
+    "korean_pronunciation": "잇 허츠 히어",
+    "meaning": "pointing out the location of pain",
+    "korean_meaning": "여기가 아파요"
+  },
+  {
+    "phrase": "Do you have this in another size?",
+    "korean_pronunciation": "두 유 해브 디스 인 어나더 사이즈",
+    "meaning": "asking for clothing or item in a different size",
+    "korean_meaning": "다른 사이즈 있나요?"
+  },
+  {
+    "phrase": "Do you have this in another color?",
+    "korean_pronunciation": "두 유 해브 디스 인 어나더 컬러",
+    "meaning": "asking if there are other colors available",
+    "korean_meaning": "다른 색상 있나요?"
+  },
+  {
+    "phrase": "Can I try it on?",
+    "korean_pronunciation": "캔 아이 트라이 잇 온",
+    "meaning": "asking to test clothing for fit",
+    "korean_meaning": "입어봐도 될까요?"
+  },
+  {
+    "phrase": "Where can I exchange money?",
+    "korean_pronunciation": "웨어 캔 아이 익스체인지 머니",
+    "meaning": "asking for currency-exchange location",
+    "korean_meaning": "환전은 어디서 할 수 있나요?"
+  },
+  {
+    "phrase": "What's the exchange rate?",
+    "korean_pronunciation": "왓츠 디 익스체인지 레이트",
+    "meaning": "asking current currency rate",
+    "korean_meaning": "환율이 어떻게 되나요?"
+  },
+  {
+    "phrase": "Where is the information desk?",
+    "korean_pronunciation": "웨어 이즈 디 인포메이션 데스크",
+    "meaning": "asking for the help or info counter",
+    "korean_meaning": "안내 데스크가 어디예요?"
+  },
+  {
+    "phrase": "The Wi-Fi password, please",
+    "korean_pronunciation": "더 와이파이 패스워드 플리즈",
+    "meaning": "requesting access key for wireless internet",
+    "korean_meaning": "와이파이 비밀번호 좀 알려 주세요"
+  },
+  {
+    "phrase": "What time is check-out?",
+    "korean_pronunciation": "왓 타임 이즈 체크아웃",
+    "meaning": "asking when you must leave accommodation",
+    "korean_meaning": "체크아웃 시간이 언제예요?"
+  },
+  {
+    "phrase": "What time is check-in?",
+    "korean_pronunciation": "왓 타임 이즈 체크인",
+    "meaning": "asking when you can enter accommodation",
+    "korean_meaning": "체크인 시간이 언제예요?"
+  },
+  {
+    "phrase": "Is breakfast included?",
+    "korean_pronunciation": "이즈 브렉퍼스트 인클루디드",
+    "meaning": "asking if morning meal is part of your stay",
+    "korean_meaning": "아침식사 포함돼 있나요?"
+  },
+  {
+    "phrase": "Could you wake me up at 7?",
+    "korean_pronunciation": "쿳 유 웨이크 미 업 앳 세븐",
+    "meaning": "requesting a wake-up call",
+    "korean_meaning": "7시에 깨워 주시겠어요?"
+  },
+  {
+    "phrase": "I'm here on vacation",
+    "korean_pronunciation": "아임 히어 온 베케이션",
+    "meaning": "explaining your visit is for leisure",
+    "korean_meaning": "휴가로 왔어요"
+  },
+  {
+    "phrase": "I'm here on business",
+    "korean_pronunciation": "아임 히어 온 비즈니스",
+    "meaning": "explaining your visit is for work",
+    "korean_meaning": "출장 왔어요"
+  },
+  {
+    "phrase": "I don't eat pork",
+    "korean_pronunciation": "아이 돈 잇 포크",
+    "meaning": "informing of dietary restriction",
+    "korean_meaning": "저는 돼지고기를 안 먹어요"
+  },
+  {
+    "phrase": "I'm vegetarian",
+    "korean_pronunciation": "아임 베지테리언",
+    "meaning": "stating you follow a plant-based diet",
+    "korean_meaning": "저는 채식주의자예요"
+  },
+  {
+    "phrase": "Please call me a taxi",
+    "korean_pronunciation": "플리즈 콜 미 어 택시",
+    "meaning": "asking someone to order a cab",
+    "korean_meaning": "택시 불러 주세요"
+  },
+  {
+    "phrase": "What time is the last train?",
+    "korean_pronunciation": "왓 타임 이즈 더 라스트 트레인",
+    "meaning": "asking when the final train departs",
+    "korean_meaning": "막차가 몇 시예요?"
+  },
+  {
+    "phrase": "Can I have a map?",
+    "korean_pronunciation": "캔 아이 해브 어 맵",
+    "meaning": "requesting a map of the area",
+    "korean_meaning": "지도 하나 주실 수 있나요?"
+  },
+  {
+    "phrase": "Do you have any non-spicy dishes?",
+    "korean_pronunciation": "두 유 해브 애니 논 스파이시 디시즈",
+    "meaning": "asking if there are milder food options",
+    "korean_meaning": "맵지 않은 음식이 있나요?"
+  },
+  {
+    "phrase": "Where can I catch the bus to Seoul?",
+    "korean_pronunciation": "웨어 캔 아이 캐치 더 버스 투 서울",
+    "meaning": "asking where the Seoul-bound bus departs",
+    "korean_meaning": "서울행 버스를 어디서 탈 수 있나요?"
+  },
+  {
+    "phrase": "Can I have extra napkins?",
+    "korean_pronunciation": "캔 아이 해브 엑스트라 냅킨즈",
+    "meaning": "asking for additional napkins",
+    "korean_meaning": "냅킨 좀 더 주시겠어요?"
+  },
+  {
+    "phrase": "Is service charge included?",
+    "korean_pronunciation": "이즈 서비스 차지 인클루디드",
+    "meaning": "asking if the bill already includes service fee",
+    "korean_meaning": "서비스 요금이 포함돼 있나요?"
+  },
+  {
+    "phrase": "What is today's special?",
+    "korean_pronunciation": "왓 이즈 투데이스 스페셜",
+    "meaning": "asking about the restaurant's daily recommendation",
+    "korean_meaning": "오늘의 추천 메뉴가 뭐예요?"
+  },
+  {
+    "phrase": "I would like a window seat",
+    "korean_pronunciation": "아이 우드 라이크 어 윈도우 시트",
+    "meaning": "requesting a seat by the window",
+    "korean_meaning": "창가 자리로 주세요"
+  },
+  {
+    "phrase": "Where is the tourist information center?",
+    "korean_pronunciation": "웨어 이즈 더 투어리스트 인포메이션 센터",
+    "meaning": "asking for the location of tourist information",
+    "korean_meaning": "관광 안내소가 어디예요?"
+  },
+  {
+    "phrase": "Please take me to this address",
+    "korean_pronunciation": "플리즈 테이크 미 투 디스 어드레스",
+    "meaning": "instructing a driver to go to a specific address",
+    "korean_meaning": "이 주소로 가 주세요"
+  },
+  {
+    "phrase": "How many stops until ___ station?",
+    "korean_pronunciation": "하우 매니 스탑스 언틸 ___ 스테이션",
+    "meaning": "asking the number of stops before reaching a station",
+    "korean_meaning": "___역까지 몇 정거장 남았어요?"
+  },
+  {
+    "phrase": "Does this bus go to ___?",
+    "korean_pronunciation": "더즈 디스 버스 고 투 ___?",
+    "meaning": "asking if a bus route goes to a specific place",
+    "korean_meaning": "이 버스는 ___에 가나요?"
+  },
+  {
+    "phrase": "Can you recommend a local dish?",
+    "korean_pronunciation": "캔 유 레커멘드 어 로컬 디시?",
+    "meaning": "asking for a recommendation of regional food",
+    "korean_meaning": "현지 음식을 추천해 주시겠어요?"
+  },
+  {
+    "phrase": "I am here for sightseeing",
+    "korean_pronunciation": "아이 엠 히어 포어 사이트씨잉",
+    "meaning": "saying that your visit is for tourism",
+    "korean_meaning": "관광하러 왔어요"
+  },
+  {
+    "phrase": "I need a doctor",
+    "korean_pronunciation": "아이 니드 어 닥터",
+    "meaning": "stating you require medical assistance",
+    "korean_meaning": "의사가 필요해요"
+  },
+  {
+    "phrase": "Where can I buy medicine?",
+    "korean_pronunciation": "웨어 캔 아이 바이 메디슨",
+    "meaning": "asking where to purchase medication",
+    "korean_meaning": "약은 어디서 살 수 있나요?"
+  },
+  {
+    "phrase": "Could we get separate checks?",
+    "korean_pronunciation": "쿳 위 겟 세퍼릿 첵스",
+    "meaning": "asking to pay bills individually",
+    "korean_meaning": "계산을 따로따로 할 수 있을까요?"
+  },
+  {
+    "phrase": "Please make it to-go",
+    "korean_pronunciation": "플리즈 메이크 잇 투 고",
+    "meaning": "asking for take-out packaging",
+    "korean_meaning": "포장해 주세요"
+  },
+  {
+    "phrase": "Could you write it in Korean?",
+    "korean_pronunciation": "쿳 유 라이트 잇 인 코리언",
+    "meaning": "asking someone to write something in Korean",
+    "korean_meaning": "한국어로 적어 주시겠어요?"
+  },
+  {
+    "phrase": "Where can I find a laundry?",
+    "korean_pronunciation": "웨어 캔 아이 파인드 어 런드리",
+    "meaning": "asking for a place to wash clothes",
+    "korean_meaning": "세탁소는 어디에 있나요?"
+  },
+  {
+    "phrase": "Is breakfast buffet style?",
+    "korean_pronunciation": "이즈 브렉퍼스트 뷔페 스타일?",
+    "meaning": "asking if breakfast is served as a buffet",
+    "korean_meaning": "아침식사가 뷔페 형식인가요?"
+  },
+  {
+    "phrase": "Is there a bus schedule?",
+    "korean_pronunciation": "이즈 데어 어 버스 스케줄?",
+    "meaning": "asking if a timetable for buses is available",
+    "korean_meaning": "버스 시간표가 있나요?"
+  },
+  {
+    "phrase": "Can I pay when I leave?",
+    "korean_pronunciation": "캔 아이 페이 웬 아이 리브",
+    "meaning": "asking to settle the bill later",
+    "korean_meaning": "나중에 계산해도 될까요?"
+  },
+  {
+    "phrase": "Do you have change for this?",
+    "korean_pronunciation": "두 유 해브 체인지 포 디스",
+    "meaning": "asking if someone can break a larger bill",
+    "korean_meaning": "잔돈으로 바꿔 주실 수 있나요?"
+  },
+  {
+    "phrase": "Can I get a refund?",
+    "korean_pronunciation": "캔 아이 겟 어 리펀드",
+    "meaning": "asking for your money back",
+    "korean_meaning": "환불 받을 수 있나요?"
+  },
+  {
+    "phrase": "How late are you open?",
+    "korean_pronunciation": "하우 레이트 아 유 오픈",
+    "meaning": "asking closing time",
+    "korean_meaning": "몇 시까지 여세요?"
+  },
+  {
+    "phrase": "Is there an entrance fee?",
+    "korean_pronunciation": "이즈 데어 언 엔트런스 피?",
+    "meaning": "asking if you must pay to enter",
+    "korean_meaning": "입장료가 있나요?"
+  },
+  {
+    "phrase": "Do you offer guided tours?",
+    "korean_pronunciation": "두 유 오퍼 가이디드 투어즈?",
+    "meaning": "asking if guided tours are available",
+    "korean_meaning": "가이드 투어가 있나요?"
+  },
+  {
+    "phrase": "When does it start?",
+    "korean_pronunciation": "웬 더즈 잇 스타트?",
+    "meaning": "asking the start time of an event",
+    "korean_meaning": "언제 시작해요?"
+  },
+  {
+    "phrase": "Please recommend a good cafe",
+    "korean_pronunciation": "플리즈 레커멘드 어 굿 카페",
+    "meaning": "asking for a cafe suggestion",
+    "korean_meaning": "좋은 카페 추천해 주세요"
+  },
+  {
+    "phrase": "Could you call an ambulance?",
+    "korean_pronunciation": "쿳 유 콜 언 앰뷸런스?",
+    "meaning": "requesting emergency medical transport",
+    "korean_meaning": "구급차를 불러 주시겠어요?"
+  },
+  {
+    "phrase": "My battery is dead; could you lend me a charger?",
+    "korean_pronunciation": "마이 배터리 이즈 데드, 쿳 유 렌드 미 어 차저?",
+    "meaning": "asking to borrow a phone charger",
+    "korean_meaning": "배터리가 다 됐어요. 충전기 빌려주실 수 있나요?"
+  },
+  {
+    "phrase": "Where can I buy a SIM card?",
+    "korean_pronunciation": "웨어 캔 아이 바이 어 심 카드",
+    "meaning": "asking where to purchase a mobile SIM",
+    "korean_meaning": "SIM 카드 어디서 살 수 있나요?"
+  },
+  {
+    "phrase": "I don't eat seafood",
+    "korean_pronunciation": "아이 돈 잇 씨푸드",
+    "meaning": "stating a dietary restriction",
+    "korean_meaning": "저는 해산물을 안 먹어요"
+  },
+  {
+    "phrase": "Is there a locker here?",
+    "korean_pronunciation": "이즈 데어 어 로커 히어?",
+    "meaning": "asking if storage lockers are available",
+    "korean_meaning": "여기 보관함이 있나요?"
+  },
+  {
+    "phrase": "What time is the meeting?",
+    "korean_pronunciation": "왓 타임 이즈 더 미팅?",
+    "meaning": "asking for the meeting time",
+    "korean_meaning": "회의가 몇 시에 있나요?"
+  },
+  {
+    "phrase": "I will be back soon",
+    "korean_pronunciation": "아이 윌 비 백 순",
+    "meaning": "telling someone you’ll return shortly",
+    "korean_meaning": "곧 돌아올게요"
+  },
+  {
+    "phrase": "Let's keep in touch",
+    "korean_pronunciation": "렛츠 킵 인 터치",
+    "meaning": "suggesting continued communication",
+    "korean_meaning": "계속 연락해요"
+  },
+  {
+    "phrase": "Please wrap this as a gift",
+    "korean_pronunciation": "플리즈 랩 디스 애즈 어 기프트",
+    "meaning": "asking store staff for gift wrapping",
+    "korean_meaning": "선물용으로 포장해 주세요"
+  },
+  {
+    "phrase": "Do you have any souvenirs?",
+    "korean_pronunciation": "두 유 해브 애니 수비니어즈?",
+    "meaning": "asking if souvenirs are sold here",
+    "korean_meaning": "기념품 있나요?"
+  },
+  {
+    "phrase": "Can I have the receipt?",
+    "korean_pronunciation": "캔 아이 해브 더 리싯",
+    "meaning": "asking for a proof of purchase",
+    "korean_meaning": "영수증 주세요"
+  },
+  {
+    "phrase": "I'd like a refill",
+    "korean_pronunciation": "아이드 라이크 어 리필",
+    "meaning": "requesting another serving of a drink",
+    "korean_meaning": "리필 주세요"
+  },
+  {
+    "phrase": "I'm allergic to gluten",
+    "korean_pronunciation": "아임 얼러직 투 글루튼",
+    "meaning": "stating a dietary allergy",
+    "korean_meaning": "저는 글루텐 알레르기가 있어요"
+  },
+  {
+    "phrase": "Where can I rent a car?",
+    "korean_pronunciation": "웨어 캔 아이 렌트 어 카",
+    "meaning": "asking for a car-rental location",
+    "korean_meaning": "자동차를 어디에서 빌릴 수 있나요?"
+  },
+  {
+    "phrase": "Is there Wi-Fi on the bus?",
+    "korean_pronunciation": "이즈 데어 와이파이 온 더 버스",
+    "meaning": "inquiring about internet access on public transport",
+    "korean_meaning": "버스에 와이파이가 있나요?"
+  },
+  {
+    "phrase": "Can I see your ID?",
+    "korean_pronunciation": "캔 아이 씨 유어 아이디",
+    "meaning": "asking someone to show identification",
+    "korean_meaning": "신분증 보여 주시겠어요?"
+  },
+  {
+    "phrase": "I need directions",
+    "korean_pronunciation": "아이 니드 다이렉션스",
+    "meaning": "requesting how to get somewhere",
+    "korean_meaning": "길 좀 알려 주시겠어요?"
+  },
+  {
+    "phrase": "Can I pay in cash?",
+    "korean_pronunciation": "캔 아이 페이 인 캐시",
+    "meaning": "asking if cash payment is acceptable",
+    "korean_meaning": "현금으로 계산해도 되나요?"
+  },
+  {
+    "phrase": "Is it spicy?",
+    "korean_pronunciation": "이즈 잇 스파이시",
+    "meaning": "asking about the heat level of food",
+    "korean_meaning": "매워요?"
+  },
+  {
+    "phrase": "Please make it less spicy",
+    "korean_pronunciation": "플리즈 메이크 잇 렛스 스파이시",
+    "meaning": "asking for milder seasoning",
+    "korean_meaning": "덜 맵게 해 주세요"
+  },
+  {
+    "phrase": "Do you have any vacancies?",
+    "korean_pronunciation": "두 유 해브 애니 배컨시즈",
+    "meaning": "inquiring about available rooms",
+    "korean_meaning": "빈 방이 있나요?"
+  },
+  {
+    "phrase": "I'd like to make a reservation",
+    "korean_pronunciation": "아이드 라이크 투 메이크 어 레저베이션",
+    "meaning": "asking to book in advance",
+    "korean_meaning": "예약하고 싶어요"
+  },
+  {
+    "phrase": "What is the weather like today?",
+    "korean_pronunciation": "왓 이즈 더 웨더 라이크 투데이",
+    "meaning": "asking about today's weather",
+    "korean_meaning": "오늘 날씨가 어때요?"
+  },
+  {
+    "phrase": "Where is the nearest police station?",
+    "korean_pronunciation": "웨어 이즈 더 니어레스트 폴리스 스테이션",
+    "meaning": "asking for the closest police station",
+    "korean_meaning": "가장 가까운 경찰서가 어디예요?"
+  },
+  {
+    "phrase": "Could you recommend a museum?",
+    "korean_pronunciation": "쿳 유 레커멘드 어 뮤지엄",
+    "meaning": "asking for a good museum suggestion",
+    "korean_meaning": "박물관 추천해 주시겠어요?"
+  },
+  {
+    "phrase": "How do I get to downtown?",
+    "korean_pronunciation": "하우 두 아이 겟 투 다운타운",
+    "meaning": "asking directions to the city center",
+    "korean_meaning": "시내로 어떻게 가요?"
+  },
+  {
+    "phrase": "What time does the show start?",
+    "korean_pronunciation": "왓 타임 더즈 더 쇼 스타트",
+    "meaning": "asking the start time of a performance",
+    "korean_meaning": "공연이 몇 시에 시작해요?"
+  },
+  {
+    "phrase": "Is photography allowed?",
+    "korean_pronunciation": "이즈 포토그래피 어라우드",
+    "meaning": "asking if pictures may be taken",
+    "korean_meaning": "사진 촬영 가능해요?"
+  },
+  {
+    "phrase": "Could you keep the change?",
+    "korean_pronunciation": "쿳 유 킵 더 체인지",
+    "meaning": "telling someone to keep the remainder as a tip",
+    "korean_meaning": "거스름돈은 괜찮아요"
+  },
+  {
+    "phrase": "Could you split the bill?",
+    "korean_pronunciation": "쿳 유 스플릿 더 빌",
+    "meaning": "asking to divide the payment",
+    "korean_meaning": "계산을 나눠 주실 수 있나요?"
+  },
+  {
+    "phrase": "Is tap water safe to drink?",
+    "korean_pronunciation": "이즈 탭 워터 세이프 투 드링크",
+    "meaning": "asking about water safety",
+    "korean_meaning": "수돗물 마셔도 되나요?"
+  },
+  {
+    "phrase": "Where is the closest convenience store?",
+    "korean_pronunciation": "웨어 이즈 더 클로즈스트 컨비니언스 스토어",
+    "meaning": "asking for the nearest convenience shop",
+    "korean_meaning": "가장 가까운 편의점이 어디예요?"
+  },
+  {
+    "phrase": "May I use the restroom?",
+    "korean_pronunciation": "메이 아이 유즈 더 레스트룸",
+    "meaning": "politely asking to use a bathroom",
+    "korean_meaning": "화장실 써도 될까요?"
+  },
+  {
+    "phrase": "I need a translator",
+    "korean_pronunciation": "아이 니드 어 트랜슬레이터",
+    "meaning": "stating you need language assistance",
+    "korean_meaning": "통역이 필요해요"
+  },
+  {
+    "phrase": "Can I have a blanket?",
+    "korean_pronunciation": "캔 아이 해브 어 블랭킷",
+    "meaning": "requesting an extra blanket",
+    "korean_meaning": "담요 좀 주시겠어요?"
+  },
+  {
+    "phrase": "My room is too cold",
+    "korean_pronunciation": "마이 룸 이즈 투 콜드",
+    "meaning": "complaining about room temperature (cold)",
+    "korean_meaning": "방이 너무 추워요"
+  },
+  {
+    "phrase": "My room is too hot",
+    "korean_pronunciation": "마이 룸 이즈 투 핫",
+    "meaning": "complaining about room temperature (hot)",
+    "korean_meaning": "방이 너무 더워요"
+  },
+  {
+    "phrase": "The Wi-Fi isn't working",
+    "korean_pronunciation": "더 와이파이 이즈언 워킹",
+    "meaning": "reporting Wi-Fi connectivity issues",
+    "korean_meaning": "와이파이가 작동하지 않아요"
+  },
+  {
+    "phrase": "Could you fix it, please?",
+    "korean_pronunciation": "쿳 유 픽스 잇 플리즈",
+    "meaning": "politely asking for repair",
+    "korean_meaning": "고쳐 주시겠어요?"
+  },
+  {
+    "phrase": "I lost my passport",
+    "korean_pronunciation": "아이 로스트 마이 패스포트",
+    "meaning": "informing that your passport is missing",
+    "korean_meaning": "여권을 잃어버렸어요"
+  },
+  {
+    "phrase": "Can you fill it up, please?",
+    "korean_pronunciation": "캔 유 필 잇 업 플리즈",
+    "meaning": "requesting a full tank at a gas station",
+    "korean_meaning": "가득 채워 주세요"
+  },
+  {
+    "phrase": "Do you take reservations?",
+    "korean_pronunciation": "두 유 테이크 레저베이션즈",
+    "meaning": "asking if bookings are accepted",
+    "korean_meaning": "예약 받나요?"
+  },
+  {
+    "phrase": "Is breakfast free?",
+    "korean_pronunciation": "이즈 브렉퍼스트 프리",
+    "meaning": "asking if breakfast is complimentary",
+    "korean_meaning": "아침 식사 무료인가요?"
+  },
+  {
+    "phrase": "What is the checkout time?",
+    "korean_pronunciation": "왓 이즈 더 체크아웃 타임",
+    "meaning": "asking when you must leave the room",
+    "korean_meaning": "체크아웃 시간이 언제예요?"
+  },
+  {
+    "phrase": "Can we get a late checkout?",
+    "korean_pronunciation": "캔 위 겟 어 레이트 체크아웃",
+    "meaning": "asking to leave later than standard time",
+    "korean_meaning": "늦게 체크아웃할 수 있을까요?"
+  },
+  {
+    "phrase": "Where can I buy tickets online?",
+    "korean_pronunciation": "웨어 캔 아이 바이 티켓츠 온라인",
+    "meaning": "asking for a website to purchase tickets",
+    "korean_meaning": "온라인으로 티켓을 어디서 살 수 있나요?"
+  },
+  {
+    "phrase": "Is there a restroom nearby?",
+    "korean_pronunciation": "이즈 데어 어 레스트룸 니어바이",
+    "meaning": "asking if a toilet is close",
+    "korean_meaning": "근처에 화장실이 있나요?"
+  },
+  {
+    "phrase": "I'd like to order room service",
+    "korean_pronunciation": "아이드 라이크 투 오더 룸 서비스",
+    "meaning": "requesting food delivery to your hotel room",
+    "korean_meaning": "룸서비스 주문하고 싶어요"
+  },
+  {
+    "phrase": "Could you bring extra towels?",
+    "korean_pronunciation": "쿳 유 브링 엑스트라 타월즈",
+    "meaning": "asking hotel staff for more towels",
+    "korean_meaning": "수건 좀 더 가져다 주세요"
+  },
+  {
+    "phrase": "May I have a wake-up call?",
+    "korean_pronunciation": "메이 아이 해브 어 웨이크업 콜",
+    "meaning": "requesting a phone call to wake you up",
+    "korean_meaning": "모닝콜 부탁드립니다"
+  },
+  {
+    "phrase": "Is there a supermarket nearby?",
+    "korean_pronunciation": "이즈 데어 어 수퍼마켓 니어바이",
+    "meaning": "asking for the nearest grocery store",
+    "korean_meaning": "근처에 슈퍼마켓이 있나요?"
+  },
+  {
+    "phrase": "How long does it take to get there?",
+    "korean_pronunciation": "하우 롱 더즈 잇 테이크 투 겟 데어",
+    "meaning": "asking about travel duration",
+    "korean_meaning": "거기까지 얼마나 걸려요?"
+  },
+  {
+    "phrase": "Where can I board the ferry?",
+    "korean_pronunciation": "웨어 캔 아이 보드 더 페리",
+    "meaning": "asking where to catch the ferry",
+    "korean_meaning": "페리는 어디서 탈 수 있나요?"
+  },
+  {
+    "phrase": "Can I see the wine list?",
+    "korean_pronunciation": "캔 아이 씨 더 와인 리스트",
+    "meaning": "requesting the restaurant's wine menu",
+    "korean_meaning": "와인 리스트 볼 수 있을까요?"
+  },
+  {
+    "phrase": "Please pack it separately",
+    "korean_pronunciation": "플리즈 팩 잇 세퍼럿리",
+    "meaning": "asking to have items packaged apart",
+    "korean_meaning": "따로 포장해 주세요"
+  },
+  {
+    "phrase": "Do you have an English menu?",
+    "korean_pronunciation": "두 유 해브 언 잉글리쉬 메뉴",
+    "meaning": "asking for a menu in English",
+    "korean_meaning": "영어 메뉴 있나요?"
+  },
+  {
+    "phrase": "Could you recommend a good bakery?",
+    "korean_pronunciation": "쿳 유 레커멘드 어 굿 베이커리",
+    "meaning": "asking for a bakery suggestion",
+    "korean_meaning": "좋은 빵집 추천해 주실 수 있나요?"
+  },
+  {
+    "phrase": "Please take off your shoes",
+    "korean_pronunciation": "플리즈 테이크 오프 유어 슈즈",
+    "meaning": "requesting someone to remove their footwear",
+    "korean_meaning": "신발 벗어 주세요"
+  },
+  {
+    "phrase": "Could you turn on the air conditioning?",
+    "korean_pronunciation": "쿳 유 턴 온 더 에어 컨디셔닝",
+    "meaning": "asking to switch on AC",
+    "korean_meaning": "에어컨 켜 주시겠어요?"
+  },
+  {
+    "phrase": "Could you turn down the volume?",
+    "korean_pronunciation": "쿳 유 턴 다운 더 볼륨",
+    "meaning": "asking to lower the sound level",
+    "korean_meaning": "볼륨 좀 줄여 주시겠어요?"
+  },
+  {
+    "phrase": "Could you open the window?",
+    "korean_pronunciation": "쿳 유 오픈 더 윈도우",
+    "meaning": "asking someone to open a window",
+    "korean_meaning": "창문 열어 주시겠어요?"
+  },
+  {
+    "phrase": "Could you close the door?",
+    "korean_pronunciation": "쿳 유 클로즈 더 도어",
+    "meaning": "asking someone to close a door",
+    "korean_meaning": "문 닫아 주시겠어요?"
+  },
+  {
+    "phrase": "Where is the elevator?",
+    "korean_pronunciation": "웨어 이즈 디 엘리베이터",
+    "meaning": "asking for the location of the lift",
+    "korean_meaning": "엘리베이터가 어디에 있나요?"
+  },
+  {
+    "phrase": "Where are the stairs?",
+    "korean_pronunciation": "웨어 아 더 스테어즈",
+    "meaning": "asking for the location of the stairs",
+    "korean_meaning": "계단이 어디에 있나요?"
+  },
+  {
+    "phrase": "Is there a student discount?",
+    "korean_pronunciation": "이즈 데어 어 스튜던트 디스카운트",
+    "meaning": "inquiring about reduced price for students",
+    "korean_meaning": "학생 할인 있나요?"
+  },
+  {
+    "phrase": "I'd like a round-trip ticket",
+    "korean_pronunciation": "아이드 라이크 어 라운드 트립 티켓",
+    "meaning": "requesting a return ticket",
+    "korean_meaning": "왕복 표 주세요"
+  },
+  {
+    "phrase": "One-way ticket, please",
+    "korean_pronunciation": "원 웨이 티켓 플리즈",
+    "meaning": "requesting a single ticket",
+    "korean_meaning": "편도 표 주세요"
+  },
+  {
+    "phrase": "What time is sunrise?",
+    "korean_pronunciation": "왓 타임 이즈 선라이즈",
+    "meaning": "asking when the sun rises",
+    "korean_meaning": "해 뜨는 시간이 몇 시예요?"
+  },
+  {
+    "phrase": "What time is sunset?",
+    "korean_pronunciation": "왓 타임 이즈 선셋",
+    "meaning": "asking when the sun sets",
+    "korean_meaning": "해 지는 시간이 몇 시예요?"
+  },
+  {
+    "phrase": "Is there a medical clinic nearby?",
+    "korean_pronunciation": "이즈 데어 어 메디컬 클리닉 니어바이",
+    "meaning": "asking for a nearby clinic",
+    "korean_meaning": "근처에 의원이 있나요?"
+  },
+  {
+    "phrase": "Where is the fire exit?",
+    "korean_pronunciation": "웨어 이즈 더 파이어 엑싯",
+    "meaning": "asking for location of the emergency exit",
+    "korean_meaning": "비상구가 어디예요?"
+  },
+  {
+    "phrase": "Can I borrow your pen?",
+    "korean_pronunciation": "캔 아이 보로우 유어 펜",
+    "meaning": "requesting to use someone's pen",
+    "korean_meaning": "펜 좀 빌려줄 수 있나요?"
+  },
+  {
+    "phrase": "I'm allergic to dairy",
+    "korean_pronunciation": "아임 얼러직 투 데어리",
+    "meaning": "stating allergy to milk products",
+    "korean_meaning": "저는 유제품 알레르기가 있어요"
+  },
+  {
+    "phrase": "Does this contain nuts?",
+    "korean_pronunciation": "더즈 디스 컨테인 너츠",
+    "meaning": "inquiring about nut ingredients",
+    "korean_meaning": "여기에 견과류가 들어 있나요?"
+  },
+  {
+    "phrase": "Is this halal?",
+    "korean_pronunciation": "이즈 디스 할랄",
+    "meaning": "asking if food meets halal standards",
+    "korean_meaning": "이거 할랄 음식인가요?"
+  },
+  {
+    "phrase": "Is this vegan?",
+    "korean_pronunciation": "이즈 디스 비건",
+    "meaning": "asking if food is suitable for vegans",
+    "korean_meaning": "이거 비건 음식인가요?"
+  },
+  {
+    "phrase": "Where is the embassy?",
+    "korean_pronunciation": "웨어 이즈 디 엠버시",
+    "meaning": "asking for the location of an embassy",
+    "korean_meaning": "대사관이 어디예요?"
+  },
+  {
+    "phrase": "Where can I buy a subway card?",
+    "korean_pronunciation": "웨어 캔 아이 바이 어 서브웨이 카드",
+    "meaning": "asking where to purchase a transit card",
+    "korean_meaning": "교통카드는 어디서 살 수 있나요?"
+  },
+  {
+    "phrase": "Could you call me a few minutes later?",
+    "korean_pronunciation": "쿳 유 콜 미 어 퓨 미닛츠 레이터",
+    "meaning": "asking someone to phone back shortly",
+    "korean_meaning": "몇 분 후에 전화해 주시겠어요?"
+  },
+  {
+    "phrase": "Do you deliver?",
+    "korean_pronunciation": "두 유 딜리버",
+    "meaning": "asking if delivery service is available",
+    "korean_meaning": "배달해 주시나요?"
+  },
+  {
+    "phrase": "Is shipping free?",
+    "korean_pronunciation": "이즈 쉬핑 프리",
+    "meaning": "asking if delivery costs are waived",
+    "korean_meaning": "배송이 무료인가요?"
+  },
+  {
+    "phrase": "Can I track my package?",
+    "korean_pronunciation": "캔 아이 트랙 마이 패키지",
+    "meaning": "asking to monitor shipping status",
+    "korean_meaning": "내 배송 조회할 수 있나요?"
+  },
+  {
+    "phrase": "Where is the currency exchange office?",
+    "korean_pronunciation": "웨어 이즈 더 커런시 익스체인지 오피스",
+    "meaning": "asking for a place to exchange money",
+    "korean_meaning": "환전소가 어디에 있나요?"
+  },
+  {
+    "phrase": "Could you show me on the map?",
+    "korean_pronunciation": "쿳 유 쇼우 미 온 더 맵",
+    "meaning": "asking someone to indicate location on a map",
+    "korean_meaning": "지도에서 보여 주시겠어요?"
+  },
+  {
+    "phrase": "Where is platform number ___?",
+    "korean_pronunciation": "웨어 이즈 플랫폼 넘버 ___",
+    "meaning": "asking for a specific train platform",
+    "korean_meaning": "___번 승강장은 어디예요?"
+  },
+  {
+    "phrase": "Could you hold my bags for a moment?",
+    "korean_pronunciation": "쿳 유 홀드 마이 백즈 포 어 모먼트",
+    "meaning": "asking someone to look after your luggage briefly",
+    "korean_meaning": "가방 좀 잠시 맡아 주시겠어요?"
+  },
+  {
+    "phrase": "Is tipping included?",
+    "korean_pronunciation": "이즈 티핑 인클루디드",
+    "meaning": "asking if gratuity is already part of the bill",
+    "korean_meaning": "서비스 요금(팁)이 포함돼 있나요?"
+  },
+  {
+    "phrase": "Can I pay with Apple Pay?",
+    "korean_pronunciation": "캔 아이 페이 위드 애플 페이",
+    "meaning": "asking to use Apple Pay for payment",
+    "korean_meaning": "애플페이로 결제할 수 있나요?"
+  },
+  {
+    "phrase": "Do you have an iPhone charger?",
+    "korean_pronunciation": "두 유 해브 언 아이폰 차저",
+    "meaning": "asking if an iPhone charger is available",
+    "korean_meaning": "아이폰 충전기 있나요?"
+  },
+  {
+    "phrase": "Can I have a glass of tap water?",
+    "korean_pronunciation": "캔 아이 해브 어 글래스 오브 탭 워터",
+    "meaning": "requesting a glass of tap water",
+    "korean_meaning": "수돗물 한 잔 주실 수 있나요?"
+  }
+]
